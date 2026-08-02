@@ -1,0 +1,48 @@
+name: Mokab Price Check
+
+on:
+  schedule:
+    # 6:00 صباحاً بتوقيت السعودية (UTC+3) = 3:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps (requests + Playwright as fallback)
+        run: |
+          pip install requests playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Run price check
+        id: check
+        run: python check_prices.py
+
+      - name: Commit updated baseline
+        run: |
+          git config user.name "mokab-price-bot"
+          git config user.email "actions@github.com"
+          git add mokab_price_baseline.json
+          git diff --cached --quiet || git commit -m "تحديث أسعار مكعب - $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Open issue if prices changed
+        if: hashFiles('issue_body.md') != ''
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔔 تغيّرات أسعار مكعب - ${{ github.run_id }}"
+          content-filepath: issue_body.md
+          labels: price-alert
