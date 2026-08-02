@@ -1,72 +1,643 @@
 {
-  "generated_at": "2026-08-02T13:54:06Z",
+  "generated_at": "2026-08-02T14:54:02.353792+00:00",
   "products": {
-    "1857906077": {"name": "NAVEE V25i Pro electric scooter with a speed of 25 km/h and a 300W motor.", "price": 1319, "originalPrice": 1699, "currency": "SAR", "url": "https://mokab.com/en/navee-v25i-pro-electric-scooter---speed-25-km-h---300-watt-motor/p1857906077", "sourceCategories": ["mobility_navee"]},
-    "991475520": {"name": "NAVEE mobile phone holder for sports bikes, motorcycles and scooters", "price": 99, "originalPrice": 129, "currency": "SAR", "url": "https://mokab.com/en/navee-mobile-phone-holder-for-sports-bikes,-motorcycles,-and-scooters/p991475520", "sourceCategories": ["mobility_navee"]},
-    "1982275337": {"name": "NAVEE protective helmet for skateboards, electric scooters and bicycles", "price": 149.01, "originalPrice": 199, "currency": "SAR", "url": "https://mokab.com/en/navee-protective-helmet-for-skateboards,-electric-scooters,-and-bicycles/p1982275337", "sourceCategories": ["mobility_navee"]},
-    "2209663": {"name": "NAVEE ST3 Pro electric scooter with a speed of 25 km/h and a 1350W motor.", "price": 2899, "originalPrice": 3799, "currency": "SAR", "url": "https://mokab.com/en/navee-st3-pro-scooter---speed-25-km-h---1350-watt-motor/p2209663", "sourceCategories": ["mobility_navee"]},
-    "2083091564": {"name": "NAVEE GT3 Pro electric scooter with a speed of 25 km/h and a 1000W motor.", "price": 1999, "originalPrice": 2399, "currency": "SAR", "url": "https://mokab.com/en/navee-gt3-pro-scooter---speed-25-km-h---1000-watt-motor/p2083091564", "sourceCategories": ["mobility_navee"]},
-    "1964931347": {"name": "NAVEE GT3 electric scooter with a speed of 25 km/h and a 700W motor.", "price": 1699, "originalPrice": 2199, "currency": "SAR", "url": "https://mokab.com/en/navee-gt3-scooter---speed-25-km-h---700-watt-motor/p1964931347", "sourceCategories": ["mobility_navee"]},
-
-    "776664368": {"name": "بكج داش كام DDPAI N5 Dual كاميرا امامية وخلفية بدقة 4K + كيبل تايب سي + بطاقة ذاكرة 128جيجا لكسار", "price": 699, "originalPrice": 967, "currency": "SAR", "url": "https://mokab.com/en/بكج-داش-كام-ddpai-n5-dual-كاميرا-امامية-وخلفية-بدقة-4k-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p776664368", "sourceCategories": ["car_accessories", "dashcam", "ddpai_brand"]},
-    "648236797": {"name": "RAVPower Package (Car starter and 24000mAh battery with 88.8W power + Basic air pump)", "price": 599, "originalPrice": 998, "currency": "SAR", "url": "https://mokab.com/en/ravpower-car-starter-24000mah-and-60w-digital-air-pump-package/p648236797", "sourceCategories": ["car_accessories"]},
-    "1571762155": {"name": "70mai A810S Car Dash Cam with Capacitor, 4K Front and Rear Cameras - Black", "price": 699, "originalPrice": 899, "currency": "SAR", "url": "https://mokab.com/en/car-dash-cam-70mai-a810s-condenser-camera---front-&-rear-4k-resolution---black/p1571762155", "sourceCategories": ["car_accessories", "dashcam"]},
-    "1764457580": {"name": "Drip phone holder for car cup holder", "price": 69, "originalPrice": 79.01, "currency": "SAR", "url": "https://mokab.com/en/car-cup-holder-drip-base/p1764457580", "sourceCategories": ["car_accessories"]},
-    "200970822": {"name": "Baseus MagSafe MagPro Car Phone Stand - Black", "price": 59, "originalPrice": 129, "currency": "SAR", "url": "https://mokab.com/en/magsafe-baseus-magpro-car-stand---black/p200970822", "sourceCategories": ["car_accessories", "baseus_brand"]},
-    "135203945": {"name": "Carlinkit wireless Carplay, Android 13 system, 128GB, 8GB RAM, supports 4G LTE", "price": 649, "originalPrice": 699, "currency": "SAR", "url": "https://mokab.com/en/كارلينكيت-مشغل-carplay-لاسلكي-نظام-اندرويد-13-بسعة-128gb-مع-8gb-ذاكرة-عشوائية-يدعم-4g-lte/p135203945", "sourceCategories": ["car_accessories"]},
-    "1176299017": {"name": "Baseus Super Energy 4-in-1 1200 Amp Car Starter, Air Blower, LED Light, and Battery", "price": 448.99, "originalPrice": 599, "currency": "SAR", "url": "https://mokab.com/en/baseus-super-energy-4-in-1-car-starter-with-1200-amp-power,-air-blower,-led-light,-and-battery/p1176299017", "sourceCategories": ["car_accessories", "baseus_brand"]},
-    "2129935165": {"name": "70mai A800SE 4K Condenser Car Dash Cam, Front and Rear Camera", "price": 499, "originalPrice": 699, "currency": "SAR", "url": "https://mokab.com/en/car-dash-cam-with-condenser---front-and-rear-cameras---a800se---4k-resolution---from-70mai/p2129935165", "sourceCategories": ["car_accessories", "dashcam"]},
-    "59253531": {"name": "DDPAI Z60 pro 4K Dash Cam, Front and Rear Camera", "price": 899, "originalPrice": 899, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z60-pro-4k-front-and-rear-camera/p59253531", "sourceCategories": ["car_accessories", "dashcam", "ddpai_brand"]},
-    "2077406562": {"name": "Magnetic Drip Mobile Phone Holder with Rotating Feature - Black", "price": 79.01, "originalPrice": 129, "currency": "SAR", "url": "https://mokab.com/en/magnetic-drip-mobile-phone-holder---rotatable---black/p2077406562", "sourceCategories": ["car_accessories"]},
-    "1796852288": {"name": "MagSafe Baseus C02 Car Phone Holder, 360 Degree Adjustable Angle - Black", "price": 49, "originalPrice": 139, "currency": "SAR", "url": "https://mokab.com/en/magsafe-baseus-c02-car-phone-holder---360-degree-adjustable-angle---black/p1796852288", "sourceCategories": ["car_accessories", "baseus_brand"]},
-    "1426973678": {"name": "Baseus Cool Ride Cluster Car Sunshade for Windshield Protection - Black", "price": 79.01, "originalPrice": 89, "currency": "SAR", "url": "https://mokab.com/en/besos-cool-ride-cluster-car-windshield-sunshade---black/p1426973678", "sourceCategories": ["car_accessories", "baseus_brand"]},
-    "2041904726": {"name": "Baseus 300W 220V Car Jump Starter with 2 Type-C, 1 USB, 2 power outlets - Black", "price": 299, "originalPrice": 549, "currency": "SAR", "url": "https://mokab.com/en/baseus-300w-220v-car-power-strip-with-2-type-c-ports,-1-usb-port,-and-2-power-ports---black/p2041904726", "sourceCategories": ["car_accessories", "baseus_brand"]},
-    "681889408": {"name": "Power bank and car charger RAV Power 12000 mAh with 4-in-1 air blower", "price": 399, "originalPrice": 669, "currency": "SAR", "url": "https://mokab.com/en/بطارية-ومشغل-سيارة-راف-باور-بسعة-12000-ملي-امبير-مع-منفاخ-هواء/p681889408", "sourceCategories": ["car_accessories"]},
-    "796086525": {"name": "Raf Power combo car charger, USB-A to Lightning cable, car phone holder - black", "price": 79.01, "originalPrice": 129, "currency": "SAR", "url": "https://mokab.com/en/كومبو-راف-باور-شاحن-سيارة-كيبل-يو-اس-بي-usb-الى-لايتننق-حامل-جوال-للسيارة-اسود/p796086525", "sourceCategories": ["car_accessories"]},
-
-    "743961426": {"name": "Airwheel SQ3S Electric Scooter Bag - Blue", "price": 1599.01, "originalPrice": 2499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-sq3s-electric-scooter-bag---blue/p743961426", "sourceCategories": ["mobility_airwheel"]},
-    "1867580044": {"name": "Airwheel SQ3 Electric Scooter Bag - Pink", "price": 1399, "originalPrice": 1999, "currency": "SAR", "url": "https://mokab.com/en/airwheel-sq3-electric-scooter-bag---pink/p1867580044", "sourceCategories": ["mobility_airwheel"]},
-    "1721930110": {"name": "Airwheel SQ3 Electric Scooter Bag - Blue", "price": 1399, "originalPrice": 1999, "currency": "SAR", "url": "https://mokab.com/en/airwheel-sq3-electric-scooter-bag---blue/p1721930110", "sourceCategories": ["mobility_airwheel"]},
-    "107265390": {"name": "Airwheel SE3SL Electric Scooter Bag - Silver", "price": 2999, "originalPrice": 3799, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---silver/p107265390", "sourceCategories": ["mobility_airwheel"]},
-    "849381435": {"name": "Airwheel SE3SL Electric Scooter Bag - Pink", "price": 2999, "originalPrice": 3799, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---pink/p849381435", "sourceCategories": ["mobility_airwheel"]},
-    "2000988379": {"name": "Airwheel SE3SL Electric Scooter Bag - Black", "price": 2999, "originalPrice": 3799, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---black/p2000988379", "sourceCategories": ["mobility_airwheel"]},
-    "1841854629": {"name": "Airwheel SE3S Electric Scooter Bag - Silver", "price": 2199, "originalPrice": 3499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---silver/p1841854629", "sourceCategories": ["mobility_airwheel"]},
-    "415270650": {"name": "Airwheel SE3T Electric Scooter Bag - Black", "price": 2999, "originalPrice": 3499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3t-electric-scooter-bag---black/p415270650", "sourceCategories": ["mobility_airwheel"]},
-    "1732960643": {"name": "Airwheel SQ3S Electric Scooter Bag - Pink", "price": 1599.01, "originalPrice": 2499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-sq3s-electric-scooter-bag---pink/p1732960643", "sourceCategories": ["mobility_airwheel"]},
-    "489938295": {"name": "Airwheel SE3MiniT Electric Scooter Bag - Silver", "price": 1999, "originalPrice": 2999, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---silver/p489938295", "sourceCategories": ["mobility_airwheel"]},
-    "1392291619": {"name": "Airwheel SE3MiniT Electric Scooter Bag - Pink", "price": 1999, "originalPrice": 2999, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---pink/p1392291619", "sourceCategories": ["mobility_airwheel"]},
-    "489320467": {"name": "Airwheel SE3MiniT Electric Scooter Bag - Black", "price": 1999, "originalPrice": 2999, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---black/p489320467", "sourceCategories": ["mobility_airwheel"]},
-    "1861968014": {"name": "Airwheel SE3S Electric Scooter Bag - Pink", "price": 2199, "originalPrice": 3499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---pink/p1861968014", "sourceCategories": ["mobility_airwheel"]},
-    "967492792": {"name": "Airwheel SE3S Electric Scooter Bag - Black", "price": 2199, "originalPrice": 3499, "currency": "SAR", "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---black/p967492792", "sourceCategories": ["mobility_airwheel"]},
-
-    "974103055": {"name": "Bootslab G980H Dash Cam: 3K front camera, two internal cameras, 1920x1080P rear camera, and 128GB memory.", "price": 779, "originalPrice": 839.01, "currency": "SAR", "url": "https://mokab.com/en/bootslab-g980h-dash-cam---front,-interior,-rear,-3k,-and-memory/p974103055", "sourceCategories": ["dashcam"]},
-    "305533249": {"name": "DDPAI N5 Pro 4G Dash Cam with 4K front camera and 2K rear camera, and 64GB memory card.", "price": 899, "originalPrice": 899, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-n5-pro-4g-4k-front-camera-and-2k-rear-camera-with-64gb-memory-card/p305533249", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "2121310377": {"name": "DDPAi Z90 Master Dash Cam: 4K front and 4K rear cameras, supports GPS+4G", "price": 1349, "originalPrice": 1349, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-4k-front-and-4k-rear-camera-supports-gps-4g/p2121310377", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "720400890": {"name": "DDPAi Z90 Master Dash Cam: 4K Front and 4K Rear Cameras with GPS Support", "price": 1099, "originalPrice": 1099, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-4k-front-and-4k-rear-camera-supports-gps/p720400890", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "1231810533": {"name": "DDPAI 4G SIM card tray", "price": 299, "originalPrice": 299, "currency": "SAR", "url": "https://mokab.com/en/ddpai-4g-chip-box/p1231810533", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "2120356304": {"name": "بكج داش كام DDPAI Z60 pro 4K كاميرا امامية وخلفية نسخة ذهبية + كيبل + بطاقة ذاكرة 128جيجا لكسار", "price": 899, "originalPrice": 1267, "currency": "SAR", "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z60-pro-4k-كاميرا-امامية-وخلفية-نسخة-ذهبية-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p2120356304", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "2068249854": {"name": "بكج داش كام DDPAI Z60 4K كاميرا امامية وخلفية GPS + كيبل + بطاقة ذاكرة 128جيجا لكسار", "price": 799, "originalPrice": 967, "currency": "SAR", "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z60-4k-كاميرا-امامية-وخلفية-gps-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p2068249854", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "1471187880": {"name": "بكج داش كام DDPAi Z90 Master كاميرا امامية وخلفية 4K تدعم GPS و 4G + كيبل + بطاقة ذاكرة 128جيجا لكسار", "price": 1399, "originalPrice": 1617, "currency": "SAR", "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z90-master-كاميرا-امامية-4k-وخلفية-4k-تدعم-gps-و-4g-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p1471187880", "sourceCategories": ["dashcam", "ddpai_brand"]},
-    "740722864": {"name": "بكج كاميرا سيارة داش كام 70mai X800 4K كاميرا امامية وخلفية + كيبل + بطاقة ذاكرة 128جيجا لكسار", "price": 1199, "originalPrice": 1497, "currency": "SAR", "url": "https://mokab.com/en/بكج-كاميرا-سيارة-داش-كام-70mai-x800-4k-كاميرا-امامية-وخلفية-كيبل-70mai-تايب-سي-موصل-للكاميرا-من-خلال-obd-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p740722864", "sourceCategories": ["dashcam"]},
-    "880979765": {"name": "بكج كاميرا سيارة داش كام بالمكثف 70mai T800 امامية وخلفية وداخلية بتقنية HDR بنظام GPS + كيبل + بطاقة ذاكرة 128جيجا لكسار", "price": 1099, "originalPrice": 1447, "currency": "SAR", "url": "https://mokab.com/en/بكج-كاميرا-سيارة-داش-كام-بالمكثف-70mai-t800-امامية-وخلفية-وداخلية-بتقنية-hdr-بنظام-gps-كيبل-70mai-تايب-سي-موصل-للكاميرا-من-خلال-obd-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p880979765", "sourceCategories": ["dashcam"]},
-    "1212081432": {"name": "70mai A810 Lite Car Dash Cam: 4K Front Camera and HD Rear Camera", "price": 499, "originalPrice": 699, "currency": "SAR", "url": "https://mokab.com/en/70mai-a810-lite-car-dash-cam-4k-front-camera-and-hd-rear-camera/p1212081432", "sourceCategories": ["dashcam"]},
-
-    "168732582": {"name": "Baseus MagPro Magnetic Ring Holder with Stand - Black", "price": 49, "originalPrice": 59, "currency": "SAR", "url": "https://mokab.com/en/magnetic-ring-holder-with-stand---baseus-magpro---black/p168732582", "sourceCategories": ["baseus_brand"]},
-    "1537063789": {"name": "Baseus Bowie H1i Wireless Bluetooth Headphones with Noise Cancellation", "price": 109, "originalPrice": 259, "currency": "SAR", "url": "https://mokab.com/en/baseus-bowie-h1i-wireless-bluetooth-headphones-with-noise-cancellation/p1537063789", "sourceCategories": ["baseus_brand"]},
-    "1053619491": {"name": "Baseus 150W 220V Car Jump Starter with 2 Type-C Ports, 1 USB Port, and 2 Power Outlets - Black", "price": 169, "originalPrice": 299, "currency": "SAR", "url": "https://mokab.com/en/baseus-150w-220v-car-power-strip-with-type-c,-usb,-and-2-power-ports---black/p1053619491", "sourceCategories": ["baseus_brand"]},
-    "17841321": {"name": "Baseus Mag Pro Magnetic Phone Stand - Black", "price": 29, "originalPrice": 79.01, "currency": "SAR", "url": "https://mokab.com/en/baseus-mag-pro-magnetic-mobile-phone-stand---black/p17841321", "sourceCategories": ["baseus_brand"]},
-    "868937558": {"name": "MagSafe Baseus Foldable Magnetic Phone Stand - Silver", "price": 79.01, "originalPrice": 129, "currency": "SAR", "url": "https://mokab.com/en/magnetic-phone-stand,-magsafe-baseus,-foldable,-silver/p868937558", "sourceCategories": ["baseus_brand"]},
-    "752758007": {"name": "Pesos 4-piece hanging piece", "price": 9, "originalPrice": 29, "currency": "SAR", "url": "https://mokab.com/en/besus-hanging-piece---4-pieces/p752758007", "sourceCategories": ["baseus_brand"]},
-    "2053166617": {"name": "Baseus Bowie D05 Wireless Foldable Headphones - Cream White", "price": 49, "originalPrice": 189, "currency": "SAR", "url": "https://mokab.com/en/baseus-bowie-d05-wireless-foldable-headphones---white-cream/p2053166617", "sourceCategories": ["baseus_brand"]},
-    "359957391": {"name": "Magnetic ring holder with Baseus MagPro stand - Gold", "price": 49, "originalPrice": 59, "currency": "SAR", "url": "https://mokab.com/en/magnetic-ring-holder-with-stand---baseus-magpro-gold/p359957391", "sourceCategories": ["baseus_brand"]},
-    "1809486783": {"name": "Magnetic ring holder with Baseus MagPro stand - Natural Titanium", "price": 49, "originalPrice": 59, "currency": "SAR", "url": "https://mokab.com/en/magnetic-ring-holder-with-stand,-baseus-mag-pro,-natural-titanium/p1809486783", "sourceCategories": ["baseus_brand"]},
-    "882058036": {"name": "Baseus Max View Magnetic Car Phone Holder - Gray", "price": 99, "originalPrice": 149.01, "currency": "SAR", "url": "https://mokab.com/en/baseus-max-view-magnetic-car-phone-holder---gray/p882058036", "sourceCategories": ["baseus_brand"]},
-
-    "579578008": {"name": "DDPAI N5 Pro Dash Cam: 4K front camera, 2K rear camera, with 64GB memory card.", "price": 699, "originalPrice": 699, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-n5-pro-4k-front-camera-and-2k-rear-camera-with-64gb-memory-card/p579578008", "sourceCategories": ["ddpai_brand"]},
-    "746260047": {"name": "DDPAI Z90/N5 Dash Cam Lens", "price": 49, "originalPrice": 49, "currency": "SAR", "url": "https://mokab.com/en/z90-n5-dpai-dash-cam-lens/p746260047", "sourceCategories": ["ddpai_brand"]},
-    "11085667": {"name": "DDPAi Z90 Master Dash Cam: 4K front camera, 3K indoor camera, 4K rear camera, GPS support", "price": 1299.01, "originalPrice": 1299.01, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-front-4k-indoor-3k-rear-4k-supports-gps/p11085667", "sourceCategories": ["ddpai_brand"]},
-    "1293628474": {"name": "Dash Cam DDPAi Z90, 4K front camera and 2K rear camera, supports GPS+4G", "price": 1049, "originalPrice": 1049, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z90-front-4k-and-rear-2k-camera-supports-gps-4g/p1293628474", "sourceCategories": ["ddpai_brand"]},
-    "1204197742": {"name": "DDPAi Z90 Dash Cam: 4K front camera, 2K rear camera, GPS support", "price": 799, "originalPrice": 799, "currency": "SAR", "url": "https://mokab.com/en/dash-cam-ddpai-z90-front-4k-and-rear-2k-camera-supports-gps/p1204197742", "sourceCategories": ["ddpai_brand"]},
-    "1027413143": {"name": "DDPAi N5 Dual Dash Cam Car Camera, 4K Front and Rear, 4G, with 32GB Memory Card", "price": 729, "originalPrice": 899, "currency": "SAR", "url": "https://mokab.com/en/ddpai-n5-dual-dash-cam---4k---front-&-rear---4g---with-32gb-memory-card/p1027413143", "sourceCategories": ["ddpai_brand"]}
+    "1857906077": {
+      "name": "NAVEE V25i Pro electric scooter with a speed of 25 km/h and a 300W motor.",
+      "price": 1319,
+      "originalPrice": 1699,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-v25i-pro-electric-scooter---speed-25-km-h---300-watt-motor/p1857906077",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "991475520": {
+      "name": "NAVEE mobile phone holder for sports bikes, motorcycles and scooters",
+      "price": 99,
+      "originalPrice": 129,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-mobile-phone-holder-for-sports-bikes,-motorcycles,-and-scooters/p991475520",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "1982275337": {
+      "name": "NAVEE protective helmet for skateboards, electric scooters and bicycles",
+      "price": 149.01,
+      "originalPrice": 199,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-protective-helmet-for-skateboards,-electric-scooters,-and-bicycles/p1982275337",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "2209663": {
+      "name": "NAVEE ST3 Pro electric scooter with a speed of 25 km/h and a 1350W motor.",
+      "price": 2899,
+      "originalPrice": 3799,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-st3-pro-scooter---speed-25-km-h---1350-watt-motor/p2209663",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "2083091564": {
+      "name": "NAVEE GT3 Pro electric scooter with a speed of 25 km/h and a 1000W motor.",
+      "price": 1999,
+      "originalPrice": 2399,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-gt3-pro-scooter---speed-25-km-h---1000-watt-motor/p2083091564",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "1964931347": {
+      "name": "NAVEE GT3 electric scooter with a speed of 25 km/h and a 700W motor.",
+      "price": 1699,
+      "originalPrice": 2199,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/navee-gt3-scooter---speed-25-km-h---700-watt-motor/p1964931347",
+      "sourceCategories": [
+        "mobility_navee"
+      ]
+    },
+    "776664368": {
+      "name": "بكج داش كام DDPAI N5 Dual كاميرا امامية وخلفية بدقة 4K + كيبل تايب سي + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 699,
+      "originalPrice": 967,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-داش-كام-ddpai-n5-dual-كاميرا-امامية-وخلفية-بدقة-4k-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p776664368",
+      "sourceCategories": [
+        "car_accessories",
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "648236797": {
+      "name": "RAVPower Package (Car starter and 24000mAh battery with 88.8W power + Basic air pump)",
+      "price": 599,
+      "originalPrice": 998,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/ravpower-car-starter-24000mah-and-60w-digital-air-pump-package/p648236797",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "1571762155": {
+      "name": "70mai A810S Car Dash Cam with Capacitor, 4K Front and Rear Cameras - Black",
+      "price": 699,
+      "originalPrice": 899,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/car-dash-cam-70mai-a810s-condenser-camera---front-&-rear-4k-resolution---black/p1571762155",
+      "sourceCategories": [
+        "car_accessories",
+        "dashcam"
+      ]
+    },
+    "1764457580": {
+      "name": "Drip phone holder for car cup holder",
+      "price": 69,
+      "originalPrice": 79.01,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/car-cup-holder-drip-base/p1764457580",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "200970822": {
+      "name": "Baseus MagSafe MagPro Car Phone Stand - Black",
+      "price": 59,
+      "originalPrice": 129,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magsafe-baseus-magpro-car-stand---black/p200970822",
+      "sourceCategories": [
+        "car_accessories",
+        "baseus_brand"
+      ]
+    },
+    "135203945": {
+      "name": "Carlinkit wireless Carplay, Android 13 system, 128GB, 8GB RAM, supports 4G LTE",
+      "price": 649,
+      "originalPrice": 699,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/كارلينكيت-مشغل-carplay-لاسلكي-نظام-اندرويد-13-بسعة-128gb-مع-8gb-ذاكرة-عشوائية-يدعم-4g-lte/p135203945",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "1176299017": {
+      "name": "Baseus Super Energy 4-in-1 1200 Amp Car Starter, Air Blower, LED Light, and Battery",
+      "price": 448.99,
+      "originalPrice": 599,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-super-energy-4-in-1-car-starter-with-1200-amp-power,-air-blower,-led-light,-and-battery/p1176299017",
+      "sourceCategories": [
+        "car_accessories",
+        "baseus_brand"
+      ]
+    },
+    "2129935165": {
+      "name": "70mai A800SE 4K Condenser Car Dash Cam, Front and Rear Camera",
+      "price": 499,
+      "originalPrice": 699,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/car-dash-cam-with-condenser---front-and-rear-cameras---a800se---4k-resolution---from-70mai/p2129935165",
+      "sourceCategories": [
+        "car_accessories",
+        "dashcam"
+      ]
+    },
+    "59253531": {
+      "name": "DDPAI Z60 pro 4K Dash Cam, Front and Rear Camera",
+      "price": 899,
+      "originalPrice": 899,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z60-pro-4k-front-and-rear-camera/p59253531",
+      "sourceCategories": [
+        "car_accessories",
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "2077406562": {
+      "name": "Magnetic Drip Mobile Phone Holder with Rotating Feature - Black",
+      "price": 79.01,
+      "originalPrice": 129,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magnetic-drip-mobile-phone-holder---rotatable---black/p2077406562",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "1796852288": {
+      "name": "MagSafe Baseus C02 Car Phone Holder, 360 Degree Adjustable Angle - Black",
+      "price": 49,
+      "originalPrice": 139,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magsafe-baseus-c02-car-phone-holder---360-degree-adjustable-angle---black/p1796852288",
+      "sourceCategories": [
+        "car_accessories",
+        "baseus_brand"
+      ]
+    },
+    "1426973678": {
+      "name": "Baseus Cool Ride Cluster Car Sunshade for Windshield Protection - Black",
+      "price": 79.01,
+      "originalPrice": 89,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/besos-cool-ride-cluster-car-windshield-sunshade---black/p1426973678",
+      "sourceCategories": [
+        "car_accessories",
+        "baseus_brand"
+      ]
+    },
+    "2041904726": {
+      "name": "Baseus 300W 220V Car Jump Starter with 2 Type-C, 1 USB, 2 power outlets - Black",
+      "price": 299,
+      "originalPrice": 549,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-300w-220v-car-power-strip-with-2-type-c-ports,-1-usb-port,-and-2-power-ports---black/p2041904726",
+      "sourceCategories": [
+        "car_accessories",
+        "baseus_brand"
+      ]
+    },
+    "681889408": {
+      "name": "Power bank and car charger RAV Power 12000 mAh with 4-in-1 air blower",
+      "price": 399,
+      "originalPrice": 669,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بطارية-ومشغل-سيارة-راف-باور-بسعة-12000-ملي-امبير-مع-منفاخ-هواء/p681889408",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "796086525": {
+      "name": "Raf Power combo car charger, USB-A to Lightning cable, car phone holder - black",
+      "price": 79.01,
+      "originalPrice": 129,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/كومبو-راف-باور-شاحن-سيارة-كيبل-يو-اس-بي-usb-الى-لايتننق-حامل-جوال-للسيارة-اسود/p796086525",
+      "sourceCategories": [
+        "car_accessories"
+      ]
+    },
+    "743961426": {
+      "name": "Airwheel SQ3S Electric Scooter Bag - Blue",
+      "price": 1599.01,
+      "originalPrice": 2499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-sq3s-electric-scooter-bag---blue/p743961426",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1867580044": {
+      "name": "Airwheel SQ3 Electric Scooter Bag - Pink",
+      "price": 1399,
+      "originalPrice": 1999,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-sq3-electric-scooter-bag---pink/p1867580044",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1721930110": {
+      "name": "Airwheel SQ3 Electric Scooter Bag - Blue",
+      "price": 1399,
+      "originalPrice": 1999,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-sq3-electric-scooter-bag---blue/p1721930110",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "107265390": {
+      "name": "Airwheel SE3SL Electric Scooter Bag - Silver",
+      "price": 2999,
+      "originalPrice": 3799,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---silver/p107265390",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "849381435": {
+      "name": "Airwheel SE3SL Electric Scooter Bag - Pink",
+      "price": 2999,
+      "originalPrice": 3799,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---pink/p849381435",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "2000988379": {
+      "name": "Airwheel SE3SL Electric Scooter Bag - Black",
+      "price": 2999,
+      "originalPrice": 3799,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3sl-electric-scooter-bag---black/p2000988379",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1841854629": {
+      "name": "Airwheel SE3S Electric Scooter Bag - Silver",
+      "price": 2199,
+      "originalPrice": 3499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---silver/p1841854629",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "415270650": {
+      "name": "Airwheel SE3T Electric Scooter Bag - Black",
+      "price": 2999,
+      "originalPrice": 3499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3t-electric-scooter-bag---black/p415270650",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1732960643": {
+      "name": "Airwheel SQ3S Electric Scooter Bag - Pink",
+      "price": 1599.01,
+      "originalPrice": 2499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-sq3s-electric-scooter-bag---pink/p1732960643",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "489938295": {
+      "name": "Airwheel SE3MiniT Electric Scooter Bag - Silver",
+      "price": 1999,
+      "originalPrice": 2999,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---silver/p489938295",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1392291619": {
+      "name": "Airwheel SE3MiniT Electric Scooter Bag - Pink",
+      "price": 1999,
+      "originalPrice": 2999,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---pink/p1392291619",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "489320467": {
+      "name": "Airwheel SE3MiniT Electric Scooter Bag - Black",
+      "price": 1999,
+      "originalPrice": 2999,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3mini-electric-scooter-bag---black/p489320467",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "1861968014": {
+      "name": "Airwheel SE3S Electric Scooter Bag - Pink",
+      "price": 2199,
+      "originalPrice": 3499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---pink/p1861968014",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "967492792": {
+      "name": "Airwheel SE3S Electric Scooter Bag - Black",
+      "price": 2199,
+      "originalPrice": 3499,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/airwheel-se3s-electric-scooter-bag---black/p967492792",
+      "sourceCategories": [
+        "mobility_airwheel"
+      ]
+    },
+    "974103055": {
+      "name": "Bootslab G980H Dash Cam: 3K front camera, two internal cameras, 1920x1080P rear camera, and 128GB memory.",
+      "price": 779,
+      "originalPrice": 839.01,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/bootslab-g980h-dash-cam---front,-interior,-rear,-3k,-and-memory/p974103055",
+      "sourceCategories": [
+        "dashcam"
+      ]
+    },
+    "305533249": {
+      "name": "DDPAI N5 Pro 4G Dash Cam with 4K front camera and 2K rear camera, and 64GB memory card.",
+      "price": 899,
+      "originalPrice": 899,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-n5-pro-4g-4k-front-camera-and-2k-rear-camera-with-64gb-memory-card/p305533249",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "2121310377": {
+      "name": "DDPAi Z90 Master Dash Cam: 4K front and 4K rear cameras, supports GPS+4G",
+      "price": 1349,
+      "originalPrice": 1349,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-4k-front-and-4k-rear-camera-supports-gps-4g/p2121310377",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "720400890": {
+      "name": "DDPAi Z90 Master Dash Cam: 4K Front and 4K Rear Cameras with GPS Support",
+      "price": 1099,
+      "originalPrice": 1099,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-4k-front-and-4k-rear-camera-supports-gps/p720400890",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "1231810533": {
+      "name": "DDPAI 4G SIM card tray",
+      "price": 299,
+      "originalPrice": 299,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/ddpai-4g-chip-box/p1231810533",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "2120356304": {
+      "name": "بكج داش كام DDPAI Z60 pro 4K كاميرا امامية وخلفية نسخة ذهبية + كيبل + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 899,
+      "originalPrice": 1267,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z60-pro-4k-كاميرا-امامية-وخلفية-نسخة-ذهبية-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p2120356304",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "2068249854": {
+      "name": "بكج داش كام DDPAI Z60 4K كاميرا امامية وخلفية GPS + كيبل + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 799,
+      "originalPrice": 967,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z60-4k-كاميرا-امامية-وخلفية-gps-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p2068249854",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "1471187880": {
+      "name": "بكج داش كام DDPAi Z90 Master كاميرا امامية وخلفية 4K تدعم GPS و 4G + كيبل + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 1399,
+      "originalPrice": 1617,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-داش-كام-ddpai-z90-master-كاميرا-امامية-4k-وخلفية-4k-تدعم-gps-و-4g-كيبل-تايب-سي-موصل-للكاميرا-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p1471187880",
+      "sourceCategories": [
+        "dashcam",
+        "ddpai_brand"
+      ]
+    },
+    "740722864": {
+      "name": "بكج كاميرا سيارة داش كام 70mai X800 4K كاميرا امامية وخلفية + كيبل + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 1199,
+      "originalPrice": 1497,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-كاميرا-سيارة-داش-كام-70mai-x800-4k-كاميرا-امامية-وخلفية-كيبل-70mai-تايب-سي-موصل-للكاميرا-من-خلال-obd-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p740722864",
+      "sourceCategories": [
+        "dashcam"
+      ]
+    },
+    "880979765": {
+      "name": "بكج كاميرا سيارة داش كام بالمكثف 70mai T800 امامية وخلفية وداخلية بتقنية HDR بنظام GPS + كيبل + بطاقة ذاكرة 128جيجا لكسار",
+      "price": 1099,
+      "originalPrice": 1447,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/بكج-كاميرا-سيارة-داش-كام-بالمكثف-70mai-t800-امامية-وخلفية-وداخلية-بتقنية-hdr-بنظام-gps-كيبل-70mai-تايب-سي-موصل-للكاميرا-من-خلال-obd-بطاقة-ذاكرة-128جيجا-لكسار-high-performance-633x/p880979765",
+      "sourceCategories": [
+        "dashcam"
+      ]
+    },
+    "1212081432": {
+      "name": "70mai A810 Lite Car Dash Cam: 4K Front Camera and HD Rear Camera",
+      "price": 499,
+      "originalPrice": 699,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/70mai-a810-lite-car-dash-cam-4k-front-camera-and-hd-rear-camera/p1212081432",
+      "sourceCategories": [
+        "dashcam"
+      ]
+    },
+    "168732582": {
+      "name": "Baseus MagPro Magnetic Ring Holder with Stand - Black",
+      "price": 49,
+      "originalPrice": 59,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magnetic-ring-holder-with-stand---baseus-magpro---black/p168732582",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "1537063789": {
+      "name": "Baseus Bowie H1i Wireless Bluetooth Headphones with Noise Cancellation",
+      "price": 109,
+      "originalPrice": 259,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-bowie-h1i-wireless-bluetooth-headphones-with-noise-cancellation/p1537063789",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "1053619491": {
+      "name": "Baseus 150W 220V Car Jump Starter with 2 Type-C Ports, 1 USB Port, and 2 Power Outlets - Black",
+      "price": 169,
+      "originalPrice": 299,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-150w-220v-car-power-strip-with-type-c,-usb,-and-2-power-ports---black/p1053619491",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "17841321": {
+      "name": "Baseus Mag Pro Magnetic Phone Stand - Black",
+      "price": 29,
+      "originalPrice": 79.01,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-mag-pro-magnetic-mobile-phone-stand---black/p17841321",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "868937558": {
+      "name": "MagSafe Baseus Foldable Magnetic Phone Stand - Silver",
+      "price": 79.01,
+      "originalPrice": 129,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magnetic-phone-stand,-magsafe-baseus,-foldable,-silver/p868937558",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "752758007": {
+      "name": "Pesos 4-piece hanging piece",
+      "price": 9,
+      "originalPrice": 29,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/besus-hanging-piece---4-pieces/p752758007",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "2053166617": {
+      "name": "Baseus Bowie D05 Wireless Foldable Headphones - Cream White",
+      "price": 49,
+      "originalPrice": 189,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-bowie-d05-wireless-foldable-headphones---white-cream/p2053166617",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "359957391": {
+      "name": "Magnetic ring holder with Baseus MagPro stand - Gold",
+      "price": 49,
+      "originalPrice": 59,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magnetic-ring-holder-with-stand---baseus-magpro-gold/p359957391",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "1809486783": {
+      "name": "Magnetic ring holder with Baseus MagPro stand - Natural Titanium",
+      "price": 49,
+      "originalPrice": 59,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/magnetic-ring-holder-with-stand,-baseus-mag-pro,-natural-titanium/p1809486783",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "882058036": {
+      "name": "Baseus Max View Magnetic Car Phone Holder - Gray",
+      "price": 99,
+      "originalPrice": 149.01,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/baseus-max-view-magnetic-car-phone-holder---gray/p882058036",
+      "sourceCategories": [
+        "baseus_brand"
+      ]
+    },
+    "579578008": {
+      "name": "DDPAI N5 Pro Dash Cam: 4K front camera, 2K rear camera, with 64GB memory card.",
+      "price": 699,
+      "originalPrice": 699,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-n5-pro-4k-front-camera-and-2k-rear-camera-with-64gb-memory-card/p579578008",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    },
+    "746260047": {
+      "name": "DDPAI Z90/N5 Dash Cam Lens",
+      "price": 49,
+      "originalPrice": 49,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/z90-n5-dpai-dash-cam-lens/p746260047",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    },
+    "11085667": {
+      "name": "DDPAi Z90 Master Dash Cam: 4K front camera, 3K indoor camera, 4K rear camera, GPS support",
+      "price": 1299.01,
+      "originalPrice": 1299.01,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z90-master-front-4k-indoor-3k-rear-4k-supports-gps/p11085667",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    },
+    "1293628474": {
+      "name": "Dash Cam DDPAi Z90, 4K front camera and 2K rear camera, supports GPS+4G",
+      "price": 1049,
+      "originalPrice": 1049,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z90-front-4k-and-rear-2k-camera-supports-gps-4g/p1293628474",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    },
+    "1204197742": {
+      "name": "DDPAi Z90 Dash Cam: 4K front camera, 2K rear camera, GPS support",
+      "price": 799,
+      "originalPrice": 799,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/dash-cam-ddpai-z90-front-4k-and-rear-2k-camera-supports-gps/p1204197742",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    },
+    "1027413143": {
+      "name": "DDPAi N5 Dual Dash Cam Car Camera, 4K Front and Rear, 4G, with 32GB Memory Card",
+      "price": 729,
+      "originalPrice": 899,
+      "currency": "SAR",
+      "url": "https://mokab.com/en/ddpai-n5-dual-dash-cam---4k---front-&-rear---4g---with-32gb-memory-card/p1027413143",
+      "sourceCategories": [
+        "ddpai_brand"
+      ]
+    }
   }
 }
