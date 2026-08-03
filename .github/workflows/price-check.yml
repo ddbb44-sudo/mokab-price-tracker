@@ -13,6 +13,7 @@ permissions:
 jobs:
   check-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -22,10 +23,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Python deps (requests + Playwright as fallback)
-        run: |
-          pip install requests playwright
-          python -m playwright install --with-deps chromium
+      - name: Install Python deps
+        run: pip install requests
 
       - name: Run price check
         id: check
