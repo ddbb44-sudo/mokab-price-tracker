@@ -20,6 +20,10 @@
      تصفير الفشل أو استنفاد عدد الكنسات — هذا اللي يرفع الدقة لأقصى حد.
   5) تحفظ النتيجة في shard_<INDEX>.json ليقوم build_report.py بدمجها لاحقاً.
 
+ملاحظة مهمة: بعض روابط sitemap ترجع 200 لكن بصفحة عامة فارغة بلا أي بيانات
+منتج (soft-404) — أي منتجات محذوفة/غير متاحة بقي رابطها في الخريطة. هذه
+تُصنّف "غير متاح" وليس "فشل" لأن إعادة المحاولة معها لن تنفع أبداً.
+
 المخرجات لكل منتج: الاسم، السعر الحالي (سعر العرض إن وُجد)، السعر الأصلي،
 هل عليه عرض، حالة التوفر، الفئات (كما يصنّفها مكعب نفسه)، والرابط.
 """
@@ -67,6 +71,8 @@ HEADERS = {
 }
 
 PRODUCT_URL_RE = re.compile(r"/p(\d+)$")
+# وجود أي وسم product:* يعني أن الصفحة صفحة منتج حقيقية
+PRODUCT_META_RE = re.compile(r"property=[\"']product:")
 LOC_RE = re.compile(r"<loc>\s*(.*?)\s*</loc>", re.S)
 SITEMAP_TAG_RE = re.compile(r"<sitemap>(.*?)</sitemap>", re.S)
 
@@ -229,11 +235,18 @@ def scan_one(session, throttle, pid, url):
 
         if resp.status_code == 200:
             throttle.on_success()
-            data = parse_product(pid, url, resp.text)
+            html = resp.text
+            data = parse_product(pid, url, html)
             throttle.wait()
-            if data is None:
-                return "fail", None
-            return "ok", data
+            if data is not None:
+                return "ok", data
+            # صفحة رجعت 200 لكن بدون أي بيانات منتج إطلاقاً = صفحة عامة
+            # (soft-404): المنتج محذوف/غير متاح رغم بقاء رابطه في sitemap.
+            # هذي ليست مشكلة تقنية وإعادة المحاولة لن تنفع، فنعتبره "مفقود".
+            if not PRODUCT_META_RE.search(html):
+                return "gone", None
+            log(f"  [{pid}] صفحة فيها بيانات منتج لكن بدون سعر مقروء.")
+            return "fail", None
 
         if resp.status_code == 404:
             # المنتج لم يعد موجوداً — ليس فشلاً تقنياً
@@ -299,7 +312,8 @@ def main():
             if i % 100 == 0:
                 log(
                     f"  تقدّم [كنسة {sweep}]: {i}/{len(pending)} — "
-                    f"نجح: {len(scanned)} | فشل حالي: {len(still_failing)} | "
+                    f"نجح: {len(scanned)} | غير متاح: {len(gone)} | "
+                    f"فشل حالي: {len(still_failing)} | "
                     f"429 حتى الآن: {throttle.total_429} | "
                     f"التأخير: {throttle.delay:.2f}ث"
                 )
@@ -307,17 +321,19 @@ def main():
         pending = still_failing
         log(
             f"نهاية الكنسة {sweep}: نجح تراكمياً {len(scanned)} — "
-            f"متبقٍ للإعادة {len(pending)}"
+            f"غير متاح {len(gone)} — متبقٍ للإعادة {len(pending)}"
         )
 
     total = len(my_pids)
     ok = len(scanned)
-    coverage = (ok + len(gone)) / total * 100 if total else 0
+    live_total = ok + len(pending)
+    coverage = ok / live_total * 100 if live_total else 100.0
 
     log(
         f"\n✅ الشريحة {SHARD_INDEX + 1}/{SHARD_COUNT} انتهت: "
-        f"قُرئ {ok} | مفقود من الموقع {len(gone)} | فشل نهائي {len(pending)} | "
-        f"التغطية {coverage:.1f}% | إجمالي 429: {throttle.total_429}"
+        f"قُرئ {ok} من {total} رابط | غير متاح/محذوف {len(gone)} | "
+        f"فشل تقني {len(pending)} | "
+        f"نسبة قراءة المتاح {coverage:.1f}% | إجمالي 429: {throttle.total_429}"
     )
 
     result = {
