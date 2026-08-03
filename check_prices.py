@@ -1,54 +1,43 @@
 #!/usr/bin/env python3
 """
-مراقب أسعار ومنتجات مكعب (mokab.com) — داش كام، اكسسوارات سيارة، براند بيسوس، براند DDPAI، منتجات التنقل.
+مراقب أسعار كامل كتالوج مكعب (mokab.com) — حوالي 5000 منتج، عبر خريطة الموقع (sitemap).
 
-يفحص الصفحات المستهدفة (مع تصفّح كل صفحات الترقيم pagination لكل قسم)، يستخرج بيانات
-JSON-LD (schema.org Product) المضمنة في HTML، يقارنها بخط أساس محفوظ في baseline.json،
-ويفتح GitHub Issue واحد فيه جدولان فقط بناءً على طلب المستخدم:
-  1) 💰 المنتجات اللي تغيّر سعرها فعلاً (قبل / بعد + الرابط) — المنتجات اللي سعرها
-     ثابت لا تُذكر إطلاقاً.
-  2) 🆕 المنتجات الجديدة اللي ظهرت لأول مرة (مع السعر والرابط).
+بدل تصفّح 6 أقسام محددة يدوياً، السكربت الآن:
+  1) يجيب https://mokab.com/sitemap.xml (فهرس الخرائط sitemap index).
+  2) يفحص كل خريطة فرعية غير خاصة بالمدونة (blog)، ويجمع كل رابط منتج
+     (أي رابط ينتهي بـ /p<رقم>) — هذا يغطي كامل الكتالوج تلقائياً حتى لو
+     تغيّر عدد/تقسيم الخرائط الفرعية مستقبلاً.
+  3) لكل رابط منتج، يعمل طلب HTTP عادي (بدون متصفح آلي) ويقرأ meta tags
+     من نوع Open Graph/Product المضمّنة بالـ HTML الخام (مثل
+     product:sale_price:amount، product:price:amount، product:availability)
+     — هذه موجودة في الصفحة الأولية بدون حاجة لتشغيل جافاسكربت، بعكس صفحات
+     التصنيفات (categories) اللي كانت تحتاج Playwright.
+  4) يقارن بخط الأساس المحفوظ في baseline.json، ويبني تقرير بجدولين فقط
+     (بناءً على طلب المستخدم):
+       - 💰 المنتجات اللي تغيّر سعرها (قبل/بعد + رابط)
+       - 🆕 المنتجات الجديدة (سعر + رابط)
 
-يعمل بمرحلتين لكل صفحة:
-  1) طلب HTTP عادي بمكتبة requests (سريع ومجاني تماماً).
-  2) إذا لم يُعثر على بيانات JSON-LD في الاستجابة (يعني الصفحة تحتاج JavaScript)،
-     تشغيل متصفح Chromium بدون واجهة عبر Playwright كخطة بديلة (ننتظر تحميل DOM +
-     ظهور بيانات JSON-LD تحديداً، وليس "خمول الشبكة" الكامل الذي قد لا يتحقق أبداً
-     بسبب سكربتات تحليلات/دردشة تبقي اتصالات الشبكة نشطة باستمرار).
+يستخدم ThreadPoolExecutor بعدد اتصالات متوازية محدود (MAX_WORKERS) حتى ما
+يثقّل على السيرفر ولا يتسبب بحظر، مع إعادة محاولة بسيطة لكل صفحة تفشل.
 
-حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات من كل المصادر)، نتوقف
-بخطأ واضح بدل فتح Issue فيه بيانات غير موثوقة.
+حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات قُرئت)، نتوقف
+بخطأ واضح بدل فتح Issue فيه بيانات غير موثوقة، وبدون تحديث baseline.
 """
 import json
 import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import requests
 
 BASELINE_PATH = "mokab_price_baseline.json"
-MAX_PAGES_PER_SOURCE = 8  # سقف أمان لعدد صفحات الترقيم لكل قسم
-
-SOURCES = [
-    ("https://mokab.com/DashCam/c51904340", "dashcam"),
-    ("https://mokab.com/%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9/c402772330", "car_accessories"),
-    ("https://mokab.com/ar/baseus/brand-455286563", "baseus_brand"),
-    ("https://mokab.com/ar/ddpai/brand-1171611633", "ddpai_brand"),
-    ("https://mokab.com/ar/navee/brand-2096663475", "mobility_navee"),
-    ("https://mokab.com/ar/airwheel/brand-1293951655", "mobility_airwheel"),
-]
-
-CAT_NAMES = {
-    "dashcam": "داش كام",
-    "car_accessories": "اكسسوارات سيارة",
-    "baseus_brand": "براند بيسوس",
-    "ddpai_brand": "براند DDPAI",
-    "mobility_navee": "تنقل - NAVEE",
-    "mobility_airwheel": "تنقل - Airwheel",
-}
+SITEMAP_INDEX_URL = "https://mokab.com/sitemap.xml"
+MAX_WORKERS = 8  # عدد الطلبات المتوازية — رقم معتدل حتى ما نثقّل على السيرفر
+REQUEST_TIMEOUT = 20
+MAX_RETRIES_PER_PRODUCT = 2
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -56,123 +45,123 @@ HEADERS = {
     "Accept-Language": "ar,en;q=0.8",
 }
 
-
-def with_page_param(url: str, page: int) -> str:
-    if page <= 1:
-        return url
-    parts = urlsplit(url)
-    q = dict(parse_qsl(parts.query))
-    q["page"] = str(page)
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), parts.fragment))
+PRODUCT_URL_RE = re.compile(r"/p(\d+)$")
+LOC_RE = re.compile(r"<loc>\s*(.*?)\s*</loc>", re.S)
+SITEMAP_TAG_RE = re.compile(r"<sitemap>(.*?)</sitemap>", re.S)
 
 
-def extract_products_from_html(html: str):
-    """يبحث عن كل <script type="application/ld+json"> ويستخرج عناصر ItemList من نوع Product."""
-    products = []
-    for match in re.finditer(
-        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
-        html,
-        re.S,
-    ):
-        raw = match.group(1).strip()
-        try:
-            data = json.loads(raw)
-        except json.JSONDecodeError:
+def http_get(url, timeout=REQUEST_TIMEOUT):
+    resp = requests.get(url, headers=HEADERS, timeout=timeout)
+    resp.raise_for_status()
+    return resp.text
+
+
+def discover_product_urls():
+    """يرجع dict: productID -> url، بجمع كل رابط منتج من كل خرائط الموقع
+    الفرعية (يتجاهل خرائط المدونة/blog، ويقبل أي رابط شكل .../p<رقم>)."""
+    try:
+        index_xml = http_get(SITEMAP_INDEX_URL)
+    except Exception as exc:  # noqa: BLE001
+        print(f"فشل تحميل sitemap index: {exc}")
+        return {}
+
+    sub_sitemaps = []
+    for block in SITEMAP_TAG_RE.findall(index_xml):
+        m = LOC_RE.search(block)
+        if not m:
             continue
-        candidates = data if isinstance(data, list) else [data]
-        for block in candidates:
-            if not isinstance(block, dict):
+        loc = m.group(1).strip()
+        if "blog" in loc.lower():
+            continue  # مو منتجات
+        sub_sitemaps.append(loc)
+
+    if not sub_sitemaps:
+        # مو فهرس فيه خرائط فرعية — ربما ملف واحد يحتوي كل الروابط مباشرة
+        sub_sitemaps = [SITEMAP_INDEX_URL]
+
+    products = {}
+    for sitemap_url in sub_sitemaps:
+        print(f"قراءة خريطة الموقع: {sitemap_url}")
+        try:
+            xml = http_get(sitemap_url)
+        except Exception as exc:  # noqa: BLE001
+            print(f"  فشل: {exc}")
+            continue
+        locs = LOC_RE.findall(xml)
+        found_here = 0
+        for loc in locs:
+            m = PRODUCT_URL_RE.search(loc)
+            if not m:
                 continue
-            if block.get("@type") != "ItemList":
-                continue
-            for li in block.get("itemListElement", []):
-                item = li.get("item") if isinstance(li, dict) else None
-                if not item or item.get("@type") != "Product":
-                    continue
-                offers = item.get("offers", {}) or {}
-                pid = str(item.get("productID") or "")
-                if not pid:
-                    continue
-                products.append(
-                    {
-                        "productID": pid,
-                        "name": item.get("name"),
-                        "price": offers.get("price"),
-                        "currency": offers.get("priceCurrency", "SAR"),
-                        "url": item.get("url"),
-                    }
-                )
+            pid = m.group(1)
+            products[pid] = loc
+            found_here += 1
+        print(f"  روابط منتجات موجودة بهذه الخريطة: {found_here}")
+
     return products
 
 
-def fetch_page_via_requests(url: str):
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=25)
-        resp.raise_for_status()
-        return extract_products_from_html(resp.text)
-    except Exception as exc:  # noqa: BLE001
-        print(f"  [requests] فشل: {exc}")
-        return []
+META_RE_TEMPLATE = r'<meta[^>]+property=["\']{prop}["\'][^>]+content=["\']([^"\']*)["\']'
 
 
-def fetch_page_via_playwright(url: str):
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        print("  [playwright] غير مثبت — تخطي الخطة البديلة.")
-        return []
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch()
-            page = browser.new_page(user_agent=HEADERS["User-Agent"])
-            # "networkidle" غير موثوق هنا — بعض الصفحات تبقي اتصالات شبكة نشطة
-            # باستمرار (تحليلات/دردشة) فما توصل أبداً لحالة "خمول"، فينتهي الوقت.
-            # الأصح: ننتظر تحميل الـ DOM فقط، وبعدها ننتظر تحديداً ظهور JSON-LD.
-            page.goto(url, timeout=45000, wait_until="domcontentloaded")
-            try:
-                page.wait_for_selector(
-                    'script[type="application/ld+json"]', timeout=15000
-                )
-            except Exception:  # noqa: BLE001
-                pass  # قد ما تكون موجودة أصلاً بهذه الصفحة، نكمل ونحاول نستخرج على أي حال
-            html = page.content()
-            browser.close()
-        return extract_products_from_html(html)
-    except Exception as exc:  # noqa: BLE001
-        print(f"  [playwright] فشل: {exc}")
-        return []
+def extract_meta(html, prop):
+    # ترتيب attributes بالـ HTML الفعلي ممكن يكون property قبل content أو العكس
+    pattern = META_RE_TEMPLATE.format(prop=re.escape(prop))
+    m = re.search(pattern, html)
+    if m:
+        return m.group(1)
+    # جرّب الترتيب المعاكس (content قبل property)
+    alt_pattern = (
+        r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+property=["\']'
+        + re.escape(prop)
+        + r'["\']'
+    )
+    m = re.search(alt_pattern, html)
+    return m.group(1) if m else None
 
 
-def fetch_all_products_for_source(base_url: str, category: str):
-    """يتصفح صفحات الترقيم (pagination) للقسم حتى ما يلقى منتجات جديدة أو يوصل السقف."""
-    all_products = {}
-    used_fallback = False
-    prev_ids = None
-
-    for page_num in range(1, MAX_PAGES_PER_SOURCE + 1):
-        page_url = with_page_param(base_url, page_num)
-        products = fetch_page_via_requests(page_url)
-        if not products:
-            products = fetch_page_via_playwright(page_url)
-            if products:
-                used_fallback = True
-
-        if not products:
-            break  # صفحة فاضية أو فشل — نوقف الترقيم لهذا القسم
-
-        page_ids = {p["productID"] for p in products}
-        if prev_ids is not None and page_ids <= prev_ids:
-            # نفس المنتجات تتكرر (يعني ما فيه ترقيم فعلي أو وصلنا آخر صفحة)
+def fetch_product(pid, url):
+    """يجيب صفحة المنتج ويستخرج السعر الحالي والأصلي والتوفر والاسم.
+    يرجع dict أو None لو فشل نهائياً بعد إعادة المحاولة."""
+    last_exc = None
+    for attempt in range(MAX_RETRIES_PER_PRODUCT):
+        try:
+            html = http_get(url)
             break
-        prev_ids = page_ids
+        except Exception as exc:  # noqa: BLE001
+            last_exc = exc
+            time.sleep(1)
+    else:
+        print(f"  [{pid}] فشل بعد {MAX_RETRIES_PER_PRODUCT} محاولات: {last_exc}")
+        return None
 
-        for p in products:
-            all_products[p["productID"]] = p
+    sale_price = extract_meta(html, "product:sale_price:amount")
+    list_price = extract_meta(html, "product:price:amount")
+    currency = (
+        extract_meta(html, "product:sale_price:currency")
+        or extract_meta(html, "product:price:currency")
+        or "SAR"
+    )
+    availability = extract_meta(html, "product:availability")
+    title = extract_meta(html, "og:title")
 
-        if page_num < MAX_PAGES_PER_SOURCE:
-            time.sleep(1)  # أدب مع السيرفر
+    # السعر الحالي الفعلي: لو فيه سعر عرض (sale_price) هذا اللي يدفعه العميل،
+    # وإلا السعر العادي (price) هو الحالي.
+    current_price = sale_price if sale_price else list_price
+    if current_price is None:
+        return None  # ما قدرنا نلقى أي سعر بهذي الصفحة — تجاهلها
 
-    return list(all_products.values()), used_fallback
+    if title:
+        title = title.split("|")[0].strip()
+
+    return {
+        "productID": pid,
+        "name": title or pid,
+        "price": current_price,
+        "currency": currency,
+        "availability": availability,
+        "url": url,
+    }
 
 
 def load_baseline():
@@ -194,7 +183,6 @@ def pct_change(old_v, new_v):
 
 
 def md_table(headers, rows):
-    """يبني جدول Markdown بسيط من قائمة رؤوس وقائمة صفوف (كل صف = قائمة نصوص)."""
     lines = [
         "| " + " | ".join(headers) + " |",
         "| " + " | ".join(["---"] * len(headers)) + " |",
@@ -210,83 +198,77 @@ def main():
     old_products = baseline.get("products", {})
     new_products = dict(old_products)
 
+    product_urls = discover_product_urls()
+    print(f"\nإجمالي روابط المنتجات المكتشفة من sitemap: {len(product_urls)}")
+
+    if not product_urls:
+        print("⚠️ ما قدرنا نكتشف أي رابط منتج من sitemap. نتوقف بدون فتح Issue.")
+        return 1
+
     price_changes = []
     new_arrivals = []
-    # منتج واحد ممكن يظهر بأكثر من قسم (مثلاً اكسسوار سيارة + براند بيسوس) — نتجنب
-    # تكراره أكثر من مرة بنفس الجدول باستخدام هذه المجموعات.
-    reported_price_change_pids = set()
-    reported_new_arrival_pids = set()
-
+    failed_count = 0
     total_scanned = 0
-    used_fallback_sources = []
 
-    for url, category in SOURCES:
-        print(f"فحص: {category} -> {url}")
-        products, used_fallback = fetch_all_products_for_source(url, category)
-        if used_fallback:
-            used_fallback_sources.append(category)
-        print(f"  عدد المنتجات المكتشفة: {len(products)}")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(fetch_product, pid, url): pid
+            for pid, url in product_urls.items()
+        }
+        for i, future in enumerate(as_completed(futures), start=1):
+            pid = futures[future]
+            try:
+                p = future.result()
+            except Exception as exc:  # noqa: BLE001
+                print(f"  [{pid}] استثناء غير متوقع: {exc}")
+                p = None
 
-        for p in products:
-            pid = p["productID"]
+            if p is None:
+                failed_count += 1
+                continue
+
             total_scanned += 1
-
             old = old_products.get(pid)
 
             if old is None:
-                if pid not in reported_new_arrival_pids:
-                    reported_new_arrival_pids.add(pid)
-                    new_arrivals.append(
-                        {
-                            "name": p["name"],
-                            "price": p["price"],
-                            "currency": p["currency"],
-                            "category": category,
-                            "url": p["url"],
-                        }
-                    )
+                new_arrivals.append(p)
             elif old.get("price") is not None and p["price"] is not None:
                 try:
                     old_price_f = float(old["price"])
                     new_price_f = float(p["price"])
                 except (TypeError, ValueError):
                     old_price_f = new_price_f = None
-                if (
-                    old_price_f is not None
-                    and old_price_f != new_price_f
-                    and pid not in reported_price_change_pids
-                ):
-                    reported_price_change_pids.add(pid)
+                if old_price_f is not None and old_price_f != new_price_f:
                     price_changes.append(
                         {
                             "name": p["name"],
                             "old_price": old_price_f,
                             "new_price": new_price_f,
                             "currency": p["currency"],
-                            "category": category,
                             "url": p["url"],
                         }
                     )
 
-            existing = new_products.get(pid, {})
-            categories = set(existing.get("sourceCategories", []))
-            categories.add(category)
             new_products[pid] = {
                 "name": p["name"],
                 "price": p["price"],
                 "currency": p["currency"],
+                "availability": p.get("availability"),
                 "url": p["url"],
-                "sourceCategories": sorted(categories),
             }
 
-    # حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات من كل الأقسام)،
-    # هذا عطل بالفحص (حظر مؤقت، تغيّر بالموقع، مهلة شبكة...) وليس تغيّراً حقيقياً —
-    # نوقف بدون فتح أي Issue وبدون تحديث baseline (حتى لا نضيع الذاكرة القديمة).
-    if total_scanned == 0:
+            if i % 500 == 0:
+                print(f"  تقدّم: {i}/{len(product_urls)}")
+
+    print(f"\nنجح قراءتهم: {total_scanned} — فشلوا: {failed_count}")
+
+    # حماية من الإنذارات الكاذبة: لو أغلب/كل الطلبات فشلت (حظر/عطل)، لا نبني
+    # تقرير غير موثوق ولا نحدّث baseline.
+    if total_scanned == 0 or total_scanned < len(product_urls) * 0.5:
         print(
-            "\n⚠️ فشل الفحص بالكامل: صفر منتجات من كل الأقسام الستة. "
-            "على الأغلب مكعب حظر/أبطأ الوصول الآلي أو غيّر شكل الصفحة. "
-            "لن يُفتح أي Issue ولن يُحدَّث baseline تجنباً لإنذارات كاذبة."
+            "\n⚠️ نسبة فشل عالية جداً بقراءة المنتجات "
+            f"({failed_count}/{len(product_urls)} فشلوا). "
+            "على الأغلب حظر مؤقت من مكعب. لن يُفتح أي Issue ولن يُحدَّث baseline."
         )
         return 1
 
@@ -296,11 +278,8 @@ def main():
 
     total_alerts = len(price_changes) + len(new_arrivals)
 
-    print(f"\nإجمالي المنتجات المفحوصة: {total_scanned}")
     print(f"تغيّرات سعر: {len(price_changes)}")
     print(f"منتجات جديدة: {len(new_arrivals)}")
-    if used_fallback_sources:
-        print(f"مصادر احتاجت متصفح آلي: {', '.join(used_fallback_sources)}")
 
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as gh_out:
         gh_out.write(f"changes_count={total_alerts}\n")
@@ -338,21 +317,16 @@ def main():
         if new_arrivals:
             lines.append("### 🆕 منتجات جديدة\n")
             rows = [
-                [
-                    c["name"],
-                    CAT_NAMES.get(c["category"], c["category"]),
-                    f"{c['price']} {c['currency']}",
-                    f"[رابط]({c['url']})",
-                ]
+                [c["name"], f"{c['price']} {c['currency']}", f"[رابط]({c['url']})"]
                 for c in new_arrivals
             ]
-            lines.append(md_table(["المنتج", "القسم", "السعر", "الرابط"], rows))
+            lines.append(md_table(["المنتج", "السعر", "الرابط"], rows))
             lines.append("")
 
         body = "\n".join(lines)
         with open("issue_body.md", "w", encoding="utf-8") as f:
             f.write(body)
-        print("\n" + body)
+        print("\n" + body[:3000])
     else:
         if os.path.exists("issue_body.md"):
             os.remove("issue_body.md")
