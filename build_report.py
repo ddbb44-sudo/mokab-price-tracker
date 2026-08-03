@@ -14,6 +14,9 @@
 ملاحظات مهمة على الدقة:
   - المنتجات اللي فشلت قراءتها في هذا التشغيل لا تُقارَن ولا تُحدَّث، وتبقى
     قيمتها القديمة في خط الأساس كما هي — فلا يمكن أن تُنتج إنذاراً كاذباً.
+  - المنتجات اللي تعذّرت قراءتها في التشغيل السابق (سجل "unread") لا تُبلَّغ
+    كـ"منتجات مضافة" عند أول قراءة ناجحة لها — لأنها ليست جديدة، بل فاتنا
+    قراءتها فقط. بدون هذا كانت مئات المنتجات القديمة ستظهر كأنها مضافة.
   - روابط sitemap اللي تفتح صفحة عامة فارغة (منتجات محذوفة/غير متاحة) تُحسب
     "غير متاح" وليست فشلاً تقنياً، فنسبة القراءة تُحسب على المتاح فعلاً.
   - التشغيل الأول على كامل الكتالوج يُعتبر "تأسيس خط أساس" (seeding): نحفظ
@@ -98,14 +101,20 @@ def merge_shards():
     return products, gone, failed, shard_files
 
 
-def classify_changes(scanned, old_products):
-    """يقارن المفحوص بخط الأساس ويرجع التغييرات مصنّفة."""
+def classify_changes(scanned, old_products, old_unread):
+    """يقارن المفحوص بخط الأساس ويرجع التغييرات مصنّفة.
+
+    old_unread: منتجات تعذّرت قراءتها في التشغيل السابق، فهي غير موجودة في خط
+    الأساس رغم أنها ليست جديدة. أول قراءة ناجحة لها تُحفظ بصمت ولا تُبلَّغ
+    كـ"منتج مضاف" — وإلا لظهرت مئات المنتجات القديمة كأنها جديدة.
+    """
     price_changes, offer_changes, new_arrivals = [], [], []
 
     for pid, p in scanned.items():
         old = old_products.get(pid)
         if old is None:
-            new_arrivals.append(p)
+            if pid not in old_unread:
+                new_arrivals.append(p)
             continue
 
         old_price = old.get("price")
@@ -232,6 +241,8 @@ def build_category_section(cat, prices, offers, arrivals):
 def main():
     baseline = load_baseline()
     old_products = baseline.get("products", {})
+    # None = خط أساس قديم لا يحمل سجل "غير مقروء" بعد (يُشتق تلقائياً أدناه)
+    old_unread = set(baseline["unread"]) if "unread" in baseline else None
 
     log("دمج نتائج الشرائح:")
     scanned, gone, failed, shard_files = merge_shards()
@@ -252,6 +263,17 @@ def main():
         log("⚠️ لم يُقرأ أي منتج. لن يُحدَّث خط الأساس ولن يُفتح Issue.")
         return 1
 
+    # خط أساس قديم لا يحمل سجل "غير مقروء": نشتقه الآن = كل منتج ظهر في خريطة
+    # الموقع ولم يدخل خط الأساس بعد (تعذّرت قراءته في التشغيل السابق). بدون
+    # هذا ستظهر مئات المنتجات القديمة كأنها "مضافة حديثاً". يحدث مرة واحدة فقط.
+    if old_unread is None:
+        seen_now = set(scanned) | set(gone) | set(failed)
+        old_unread = seen_now - set(old_products)
+        log(
+            f"ℹ️ خط أساس بدون سجل 'غير مقروء' — اشتُق تلقائياً: {len(old_unread)} "
+            "منتج لن يُبلَّغ عنه كجديد في هذا التشغيل."
+        )
+
     # تشغيل تأسيسي: خط الأساس أصغر بكثير من حجم الفحص (أول مرة على كامل الكتالوج)
     seeding = len(old_products) < len(scanned) * 0.5
 
@@ -264,8 +286,16 @@ def main():
         )
     else:
         price_changes, offer_changes, new_arrivals = classify_changes(
-            scanned, old_products
+            scanned, old_products, old_unread
         )
+        recovered = len(
+            [p for p in scanned if p not in old_products and p in old_unread]
+        )
+        if recovered:
+            log(
+                f"استُدركت {recovered} منتج تعذّرت قراءتها سابقاً — حُفظت بصمت "
+                "ولم تُبلَّغ كمنتجات جديدة."
+            )
         log(
             f"تغيّر أسعار: {len(price_changes)} | تغيّر عروض: {len(offer_changes)} | "
             f"منتجات جديدة: {len(new_arrivals)}"
@@ -294,6 +324,9 @@ def main():
         "percent": round(coverage, 2),
     }
     baseline["products"] = new_products
+    # نحفظ قائمة اللي تعذّرت قراءته حتى لا يُبلَّغ عنها كـ"منتجات جديدة" عند
+    # أول قراءة ناجحة لها في التشغيل القادم.
+    baseline["unread"] = sorted(failed)
     with open(BASELINE_PATH, "w", encoding="utf-8") as f:
         json.dump(baseline, f, ensure_ascii=False, indent=2)
     log(f"حُفظ خط الأساس: {len(new_products)} منتج.")
