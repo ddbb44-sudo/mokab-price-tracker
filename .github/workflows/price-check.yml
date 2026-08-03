@@ -36,8 +36,30 @@ jobs:
           git config user.name "mokab-price-bot"
           git config user.email "actions@github.com"
           git add mokab_price_baseline.json
-          git diff --cached --quiet || git commit -m "تحديث أسعار مكعب - $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --cached --quiet; then
+            echo "لا تغييرات في baseline — لا حاجة للـ commit."
+            exit 0
+          fi
+          git commit -m "تحديث أسعار مكعب - $(date -u +%Y-%m-%d)"
+          # قد يكون main تقدّم أثناء تشغيل السكربت (فحص الأسعار يأخذ دقائق) —
+          # نعيد المحاولة مع rebase على أحدث main بدل ما نفشل بـ non-fast-forward.
+          success=false
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                success=true
+                break
+              fi
+            else
+              git rebase --abort || true
+            fi
+            sleep 5
+          done
+          if [ "$success" != "true" ]; then
+            echo "فشل دفع baseline بعد عدة محاولات." >&2
+            exit 1
+          fi
 
       - name: Open issue if prices changed
         if: hashFiles('issue_body.md') != ''
