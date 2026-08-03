@@ -9,22 +9,25 @@
      تغيّر عدد/تقسيم الخرائط الفرعية مستقبلاً.
   3) لكل رابط منتج، يعمل طلب HTTP عادي (بدون متصفح آلي) ويقرأ meta tags
      من نوع Open Graph/Product المضمّنة بالـ HTML الخام (مثل
-     product:sale_price:amount، product:price:amount، product:availability)
-     — هذه موجودة في الصفحة الأولية بدون حاجة لتشغيل جافاسكربت، بعكس صفحات
-     التصنيفات (categories) اللي كانت تحتاج Playwright.
-  4) يقارن بخط الأساس المحفوظ في baseline.json، ويبني تقرير بجدولين فقط
-     (بناءً على طلب المستخدم):
-       - 💰 المنتجات اللي تغيّر سعرها (قبل/بعد + رابط)
-       - 🆕 المنتجات الجديدة (سعر + رابط)
+     product:sale_price:amount، product:price:amount، product:availability،
+     وأيضاً product:category — تصنيف مكعب الفعلي لهذا المنتج، نأخذ أول
+     مستوى منه كـ"الفئة الرئيسية" لتجميع التقرير حسبها).
+  4) يقارن بخط الأساس المحفوظ في baseline.json، ويبني تقرير بجدولين
+     (تغيّرات الأسعار + المنتجات الجديدة)، وكل جدول مقسّم لأقسام فرعية
+     حسب فئة مكعب الحقيقية لكل منتج.
 
-يستخدم ThreadPoolExecutor بعدد اتصالات متوازية محدود (MAX_WORKERS) حتى ما
-يثقّل على السيرفر ولا يتسبب بحظر، مع إعادة محاولة بسيطة لكل صفحة تفشل.
+يستخدم ThreadPoolExecutor بعدد اتصالات متوازية محدود جداً (MAX_WORKERS) مع
+تأخير بسيط بين الطلبات، لأن محاولة أولى بعدد اتصالات أعلى تسببت بحظر فوري
+من مكعب (429 Too Many Requests) لمعظم الطلبات. عند حدوث 429 يعاد المحاولة
+مع انتظار أطول تدريجياً (backoff) بدل إعادة المحاولة الفورية.
 
-حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات قُرئت)، نتوقف
-بخطأ واضح بدل فتح Issue فيه بيانات غير موثوقة، وبدون تحديث baseline.
+حماية من الإنذارات الكاذبة: إذا فشل الفحص بشكل كبير (أقل من 50% من المنتجات
+قُرئت بنجاح)، نتوقف بخطأ واضح بدل فتح Issue فيه بيانات غير موثوقة، وبدون
+تحديث baseline.
 """
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -35,9 +38,16 @@ import requests
 
 BASELINE_PATH = "mokab_price_baseline.json"
 SITEMAP_INDEX_URL = "https://mokab.com/sitemap.xml"
-MAX_WORKERS = 8  # عدد الطلبات المتوازية — رقم معتدل حتى ما نثقّل على السيرفر
+
+# مكعب يحظر بسرعة عند عدد اتصالات متزامنة مرتفع (جُرِّب MAX_WORKERS=8 وفشل
+# فوراً بأخطاء 429). لذلك: عدد اتصالات منخفض جداً + تأخير بين كل طلب وآخر.
+MAX_WORKERS = 2
 REQUEST_TIMEOUT = 20
-MAX_RETRIES_PER_PRODUCT = 2
+MAX_RETRIES_PER_PRODUCT = 3
+# انتظار تصاعدي بعد كل 429 (بالثواني) — كل محاولة تالية تنتظر أطول
+RETRY_BACKOFF_SECONDS = [3, 8, 15]
+# تأخير إضافي بعد كل طلب (ناجح أو فاشل) لتخفيف معدل الطلبات على مكعب
+REQUEST_DELAY_SECONDS = 0.8
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -48,6 +58,8 @@ HEADERS = {
 PRODUCT_URL_RE = re.compile(r"/p(\d+)$")
 LOC_RE = re.compile(r"<loc>\s*(.*?)\s*</loc>", re.S)
 SITEMAP_TAG_RE = re.compile(r"<sitemap>(.*?)</sitemap>", re.S)
+
+UNCATEGORIZED = "غير مصنّف"
 
 
 def http_get(url, timeout=REQUEST_TIMEOUT):
@@ -120,20 +132,45 @@ def extract_meta(html, prop):
     return m.group(1) if m else None
 
 
+def extract_main_category(html):
+    """يرجع أول مستوى من product:category (مثلاً من "وصلات وكيابل,كيبل
+    ايفون Lightning,اكسبرس" يرجع "وصلات وكيابل")، أو None إذا ما وُجد."""
+    raw = extract_meta(html, "product:category")
+    if not raw:
+        return None
+    parts = [p.strip() for p in raw.split(",") if p.strip()]
+    return parts[0] if parts else None
+
+
 def fetch_product(pid, url):
-    """يجيب صفحة المنتج ويستخرج السعر الحالي والأصلي والتوفر والاسم.
+    """يجيب صفحة المنتج ويستخرج السعر الحالي والأصلي والتوفر والاسم والفئة.
     يرجع dict أو None لو فشل نهائياً بعد إعادة المحاولة."""
     last_exc = None
+    html = None
     for attempt in range(MAX_RETRIES_PER_PRODUCT):
         try:
             html = http_get(url)
             break
+        except requests.exceptions.HTTPError as exc:
+            last_exc = exc
+            status = exc.response.status_code if exc.response is not None else None
+            if status == 429:
+                wait_s = RETRY_BACKOFF_SECONDS[
+                    min(attempt, len(RETRY_BACKOFF_SECONDS) - 1)
+                ]
+                time.sleep(wait_s)
+            else:
+                time.sleep(1)
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
             time.sleep(1)
     else:
         print(f"  [{pid}] فشل بعد {MAX_RETRIES_PER_PRODUCT} محاولات: {last_exc}")
+        time.sleep(REQUEST_DELAY_SECONDS)
         return None
+
+    # تأخير بعد كل طلب ناجح أيضاً، لتخفيف معدل الطلبات الكلي على مكعب
+    time.sleep(REQUEST_DELAY_SECONDS + random.uniform(0, 0.3))
 
     sale_price = extract_meta(html, "product:sale_price:amount")
     list_price = extract_meta(html, "product:price:amount")
@@ -144,6 +181,7 @@ def fetch_product(pid, url):
     )
     availability = extract_meta(html, "product:availability")
     title = extract_meta(html, "og:title")
+    category = extract_main_category(html)
 
     # السعر الحالي الفعلي: لو فيه سعر عرض (sale_price) هذا اللي يدفعه العميل،
     # وإلا السعر العادي (price) هو الحالي.
@@ -160,6 +198,7 @@ def fetch_product(pid, url):
         "price": current_price,
         "currency": currency,
         "availability": availability,
+        "category": category,
         "url": url,
     }
 
@@ -191,6 +230,16 @@ def md_table(headers, rows):
         safe_row = [str(cell).replace("|", "\\|").replace("\n", " ") for cell in row]
         lines.append("| " + " | ".join(safe_row) + " |")
     return "\n".join(lines)
+
+
+def group_by_category(items, category_key):
+    """يرجّع list من (اسم_الفئة, [عناصر]) مرتبة تنازلياً حسب عدد العناصر
+    ثم أبجدياً، لعرض الفئات الأكبر أولاً."""
+    groups = {}
+    for item in items:
+        cat = item.get(category_key) or UNCATEGORIZED
+        groups.setdefault(cat, []).append(item)
+    return sorted(groups.items(), key=lambda kv: (-len(kv[1]), kv[0]))
 
 
 def main():
@@ -245,6 +294,7 @@ def main():
                             "old_price": old_price_f,
                             "new_price": new_price_f,
                             "currency": p["currency"],
+                            "category": p.get("category"),
                             "url": p["url"],
                         }
                     )
@@ -254,6 +304,7 @@ def main():
                 "price": p["price"],
                 "currency": p["currency"],
                 "availability": p.get("availability"),
+                "category": p.get("category"),
                 "url": p["url"],
             }
 
@@ -288,40 +339,44 @@ def main():
         lines = ["## 🔔 تحديثات مكعب اليوم\n"]
 
         if price_changes:
-            price_changes.sort(
-                key=lambda c: abs(pct_change(c["old_price"], c["new_price"])),
-                reverse=True,
-            )
             lines.append("### 💰 المنتجات اللي تغيّر سعرها\n")
-            rows = []
-            for c in price_changes:
-                pct = pct_change(c["old_price"], c["new_price"])
-                arrow = "⬆️" if c["new_price"] > c["old_price"] else "⬇️"
-                rows.append(
-                    [
-                        c["name"],
-                        f"{c['old_price']:g} {c['currency']}",
-                        f"{c['new_price']:g} {c['currency']}",
-                        f"{arrow} {pct:+.1f}%",
-                        f"[رابط]({c['url']})",
-                    ]
+            for cat, cat_items in group_by_category(price_changes, "category"):
+                cat_items.sort(
+                    key=lambda c: abs(pct_change(c["old_price"], c["new_price"])),
+                    reverse=True,
                 )
-            lines.append(
-                md_table(
-                    ["المنتج", "السعر القديم", "السعر الجديد", "التغيّر", "الرابط"],
-                    rows,
+                lines.append(f"#### {cat} ({len(cat_items)})\n")
+                rows = []
+                for c in cat_items:
+                    pct = pct_change(c["old_price"], c["new_price"])
+                    arrow = "⬆️" if c["new_price"] > c["old_price"] else "⬇️"
+                    rows.append(
+                        [
+                            c["name"],
+                            f"{c['old_price']:g} {c['currency']}",
+                            f"{c['new_price']:g} {c['currency']}",
+                            f"{arrow} {pct:+.1f}%",
+                            f"[رابط]({c['url']})",
+                        ]
+                    )
+                lines.append(
+                    md_table(
+                        ["المنتج", "السعر القديم", "السعر الجديد", "التغيّر", "الرابط"],
+                        rows,
+                    )
                 )
-            )
-            lines.append("")
+                lines.append("")
 
         if new_arrivals:
             lines.append("### 🆕 منتجات جديدة\n")
-            rows = [
-                [c["name"], f"{c['price']} {c['currency']}", f"[رابط]({c['url']})"]
-                for c in new_arrivals
-            ]
-            lines.append(md_table(["المنتج", "السعر", "الرابط"], rows))
-            lines.append("")
+            for cat, cat_items in group_by_category(new_arrivals, "category"):
+                lines.append(f"#### {cat} ({len(cat_items)})\n")
+                rows = [
+                    [c["name"], f"{c['price']} {c['currency']}", f"[رابط]({c['url']})"]
+                    for c in cat_items
+                ]
+                lines.append(md_table(["المنتج", "السعر", "الرابط"], rows))
+                lines.append("")
 
         body = "\n".join(lines)
         with open("issue_body.md", "w", encoding="utf-8") as f:
