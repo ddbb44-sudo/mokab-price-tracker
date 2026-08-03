@@ -4,12 +4,10 @@
 
 يفحص الصفحات المستهدفة (مع تصفّح كل صفحات الترقيم pagination لكل قسم)، يستخرج بيانات
 JSON-LD (schema.org Product) المضمنة في HTML، يقارنها بخط أساس محفوظ في baseline.json،
-ويفتح GitHub Issue (بصيغة جداول واضحة) عند أي من هذه التغييرات:
-  - تغيّر السعر الحالي (offers.price)
-  - منتج جديد ظهر لأول مرة
-  - منتج كان موجوداً واختفى تماماً من كل الأقسام المفحوصة (غالباً نفاد/إيقاف)
-  - تغيّر نسبة الخصم (السعر الأصلي originalPrice تغيّر حتى لو السعر النهائي ما تغيّر)
-  - تغيّر حالة التوفر (متوفر / نفد)
+ويفتح GitHub Issue واحد فيه جدولان فقط بناءً على طلب المستخدم:
+  1) 💰 المنتجات اللي تغيّر سعرها فعلاً (قبل / بعد + الرابط) — المنتجات اللي سعرها
+     ثابت لا تُذكر إطلاقاً.
+  2) 🆕 المنتجات الجديدة اللي ظهرت لأول مرة (مع السعر والرابط).
 
 يعمل بمرحلتين لكل صفحة:
   1) طلب HTTP عادي بمكتبة requests (سريع ومجاني تماماً).
@@ -18,10 +16,8 @@ JSON-LD (schema.org Product) المضمنة في HTML، يقارنها بخط أ
      ظهور بيانات JSON-LD تحديداً، وليس "خمول الشبكة" الكامل الذي قد لا يتحقق أبداً
      بسبب سكربتات تحليلات/دردشة تبقي اتصالات الشبكة نشطة باستمرار).
 
-حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات من كل المصادر)، لا نبني
-أي تقرير "منتجات اختفت" (لأن هذا يعني عطل بالفحص نفسه وليس تغيّر حقيقي بمكعب) —
-نوقف السكربت بخطأ واضح بدل فتح Issue كاذب. كذلك: منتج مرتبط فقط بأقسام فشل فحصها
-بالكامل هذا التشغيل لا يُحتسب "اختفى" (لأنه لم يُفحص أصلاً، لا لأنه اختفى فعلاً).
+حماية من الإنذارات الكاذبة: إذا فشل الفحص بالكامل (صفر منتجات من كل المصادر)، نتوقف
+بخطأ واضح بدل فتح Issue فيه بيانات غير موثوقة.
 """
 import json
 import os
@@ -94,20 +90,16 @@ def extract_products_from_html(html: str):
                 if not item or item.get("@type") != "Product":
                     continue
                 offers = item.get("offers", {}) or {}
-                price_spec = offers.get("priceSpecification", {}) or {}
                 pid = str(item.get("productID") or "")
                 if not pid:
                     continue
-                availability = (offers.get("availability") or "").rsplit("/", 1)[-1] or None
                 products.append(
                     {
                         "productID": pid,
                         "name": item.get("name"),
                         "price": offers.get("price"),
-                        "originalPrice": price_spec.get("price", offers.get("price")),
                         "currency": offers.get("priceCurrency", "SAR"),
                         "url": item.get("url"),
-                        "availability": availability,
                     }
                 )
     return products
@@ -220,16 +212,9 @@ def main():
 
     price_changes = []
     new_arrivals = []
-    discount_changes = []
-    availability_changes = []
 
     total_scanned = 0
     used_fallback_sources = []
-    all_seen_ids = set()
-    seen_by_category = {cat: set() for _, cat in SOURCES}
-    # هل نجح فحص هذا القسم بإيجاد أي منتج على الأقل؟ (يفرّق بين "القسم فاضي فعلاً"
-    # و"القسم فشل الوصول له بالكامل")
-    category_scanned_ok = {cat: False for _, cat in SOURCES}
 
     for url, category in SOURCES:
         print(f"فحص: {category} -> {url}")
@@ -238,13 +223,8 @@ def main():
             used_fallback_sources.append(category)
         print(f"  عدد المنتجات المكتشفة: {len(products)}")
 
-        if products:
-            category_scanned_ok[category] = True
-
         for p in products:
             pid = p["productID"]
-            all_seen_ids.add(pid)
-            seen_by_category[category].add(pid)
             total_scanned += 1
 
             old = old_products.get(pid)
@@ -259,54 +239,19 @@ def main():
                         "url": p["url"],
                     }
                 )
-            else:
-                if old.get("price") is not None and p["price"] is not None:
-                    try:
-                        old_price_f = float(old["price"])
-                        new_price_f = float(p["price"])
-                    except (TypeError, ValueError):
-                        old_price_f = new_price_f = None
-                    if old_price_f is not None and old_price_f != new_price_f:
-                        price_changes.append(
-                            {
-                                "name": p["name"],
-                                "old_price": old_price_f,
-                                "new_price": new_price_f,
-                                "currency": p["currency"],
-                                "category": category,
-                                "url": p["url"],
-                            }
-                        )
-
-                old_orig = old.get("originalPrice")
-                new_orig = p.get("originalPrice")
-                if old_orig is not None and new_orig is not None:
-                    try:
-                        old_orig_f = float(old_orig)
-                        new_orig_f = float(new_orig)
-                    except (TypeError, ValueError):
-                        old_orig_f = new_orig_f = None
-                    if old_orig_f is not None and old_orig_f != new_orig_f:
-                        discount_changes.append(
-                            {
-                                "name": p["name"],
-                                "old_original": old_orig_f,
-                                "new_original": new_orig_f,
-                                "current_price": p["price"],
-                                "currency": p["currency"],
-                                "category": category,
-                                "url": p["url"],
-                            }
-                        )
-
-                old_avail = old.get("availability")
-                new_avail = p.get("availability")
-                if old_avail and new_avail and old_avail != new_avail:
-                    availability_changes.append(
+            elif old.get("price") is not None and p["price"] is not None:
+                try:
+                    old_price_f = float(old["price"])
+                    new_price_f = float(p["price"])
+                except (TypeError, ValueError):
+                    old_price_f = new_price_f = None
+                if old_price_f is not None and old_price_f != new_price_f:
+                    price_changes.append(
                         {
                             "name": p["name"],
-                            "old_status": old_avail,
-                            "new_status": new_avail,
+                            "old_price": old_price_f,
+                            "new_price": new_price_f,
+                            "currency": p["currency"],
                             "category": category,
                             "url": p["url"],
                         }
@@ -318,10 +263,8 @@ def main():
             new_products[pid] = {
                 "name": p["name"],
                 "price": p["price"],
-                "originalPrice": p["originalPrice"],
                 "currency": p["currency"],
                 "url": p["url"],
-                "availability": p.get("availability"),
                 "sourceCategories": sorted(categories),
             }
 
@@ -336,49 +279,15 @@ def main():
         )
         return 1
 
-    # اختفاء منتج: كان موجوداً بخط الأساس، ومو موجود إطلاقاً في أي قسم بهذا الفحص —
-    # لكن فقط إذا كانت كل أقسامه القديمة فُحصت بنجاح هذه المرة (لقت فيها منتجات).
-    # إذا كل أقسامه القديمة فشل فحصها بالكامل هذا التشغيل، لا نعتبره "اختفى"،
-    # لأننا ببساطة ما قدرنا نتأكد.
-    disappeared = []
-    for pid, old in old_products.items():
-        if pid in all_seen_ids:
-            continue
-        old_categories = old.get("sourceCategories", [])
-        verified_categories = [c for c in old_categories if category_scanned_ok.get(c)]
-        if not verified_categories:
-            continue
-        disappeared.append(
-            {
-                "name": old.get("name"),
-                "last_price": old.get("price"),
-                "currency": old.get("currency", "SAR"),
-                "categories": old_categories,
-                "url": old.get("url"),
-            }
-        )
-
     baseline["generated_at"] = datetime.now(timezone.utc).isoformat()
     baseline["products"] = new_products
     save_baseline(baseline)
 
-    total_alerts = (
-        len(price_changes)
-        + len(new_arrivals)
-        + len(disappeared)
-        + len(discount_changes)
-        + len(availability_changes)
-    )
+    total_alerts = len(price_changes) + len(new_arrivals)
 
     print(f"\nإجمالي المنتجات المفحوصة: {total_scanned}")
     print(f"تغيّرات سعر: {len(price_changes)}")
     print(f"منتجات جديدة: {len(new_arrivals)}")
-    print(f"منتجات اختفت: {len(disappeared)}")
-    print(f"تغيّرات خصم: {len(discount_changes)}")
-    print(f"تغيّرات توفر: {len(availability_changes)}")
-    failed_categories = [c for c, ok in category_scanned_ok.items() if not ok]
-    if failed_categories:
-        print(f"أقسام فشل فحصها هذا التشغيل: {', '.join(failed_categories)}")
     if used_fallback_sources:
         print(f"مصادر احتاجت متصفح آلي: {', '.join(used_fallback_sources)}")
 
@@ -393,92 +302,40 @@ def main():
                 key=lambda c: abs(pct_change(c["old_price"], c["new_price"])),
                 reverse=True,
             )
-            lines.append("### 💰 تغيّرات الأسعار\n")
+            lines.append("### 💰 المنتجات اللي تغيّر سعرها\n")
             rows = []
             for c in price_changes:
                 pct = pct_change(c["old_price"], c["new_price"])
                 arrow = "⬆️" if c["new_price"] > c["old_price"] else "⬇️"
                 rows.append(
                     [
-                        f"[{c['name']}]({c['url']})",
-                        CAT_NAMES.get(c["category"], c["category"]),
+                        c["name"],
                         f"{c['old_price']:g} {c['currency']}",
                         f"{c['new_price']:g} {c['currency']}",
                         f"{arrow} {pct:+.1f}%",
+                        f"[رابط]({c['url']})",
                     ]
                 )
             lines.append(
                 md_table(
-                    ["المنتج", "القسم", "السعر القديم", "السعر الجديد", "التغيّر"],
+                    ["المنتج", "السعر القديم", "السعر الجديد", "التغيّر", "الرابط"],
                     rows,
                 )
             )
-            lines.append("")
-
-        if discount_changes:
-            lines.append("### 🏷️ تغيّرات نسبة الخصم/العرض\n")
-            rows = [
-                [
-                    f"[{c['name']}]({c['url']})",
-                    CAT_NAMES.get(c["category"], c["category"]),
-                    f"{c['old_original']:g} {c['currency']}",
-                    f"{c['new_original']:g} {c['currency']}",
-                    f"{c['current_price']} {c['currency']}",
-                ]
-                for c in discount_changes
-            ]
-            lines.append(
-                md_table(
-                    [
-                        "المنتج",
-                        "القسم",
-                        "السعر الأصلي القديم",
-                        "السعر الأصلي الجديد",
-                        "السعر الحالي",
-                    ],
-                    rows,
-                )
-            )
-            lines.append("")
-
-        if availability_changes:
-            lines.append("### 📦 تغيّرات حالة التوفر\n")
-            rows = [
-                [
-                    f"[{c['name']}]({c['url']})",
-                    CAT_NAMES.get(c["category"], c["category"]),
-                    c["old_status"],
-                    c["new_status"],
-                ]
-                for c in availability_changes
-            ]
-            lines.append(md_table(["المنتج", "القسم", "من", "إلى"], rows))
             lines.append("")
 
         if new_arrivals:
             lines.append("### 🆕 منتجات جديدة\n")
             rows = [
                 [
-                    f"[{c['name']}]({c['url']})",
+                    c["name"],
                     CAT_NAMES.get(c["category"], c["category"]),
                     f"{c['price']} {c['currency']}",
+                    f"[رابط]({c['url']})",
                 ]
                 for c in new_arrivals
             ]
-            lines.append(md_table(["المنتج", "القسم", "السعر"], rows))
-            lines.append("")
-
-        if disappeared:
-            lines.append("### ❌ منتجات اختفت (على الأغلب نفد المخزون أو أُوقفت)\n")
-            rows = [
-                [
-                    f"[{c['name']}]({c['url']})",
-                    "، ".join(CAT_NAMES.get(x, x) for x in c["categories"]),
-                    f"{c['last_price']} {c['currency']}",
-                ]
-                for c in disappeared
-            ]
-            lines.append(md_table(["المنتج", "الأقسام", "آخر سعر معروف"], rows))
+            lines.append(md_table(["المنتج", "القسم", "السعر", "الرابط"], rows))
             lines.append("")
 
         body = "\n".join(lines)
