@@ -14,6 +14,8 @@
 ملاحظات مهمة على الدقة:
   - المنتجات اللي فشلت قراءتها في هذا التشغيل لا تُقارَن ولا تُحدَّث، وتبقى
     قيمتها القديمة في خط الأساس كما هي — فلا يمكن أن تُنتج إنذاراً كاذباً.
+  - روابط sitemap اللي تفتح صفحة عامة فارغة (منتجات محذوفة/غير متاحة) تُحسب
+    "غير متاح" وليست فشلاً تقنياً، فنسبة القراءة تُحسب على المتاح فعلاً.
   - التشغيل الأول على كامل الكتالوج يُعتبر "تأسيس خط أساس" (seeding): نحفظ
     كل المنتجات بدون أن نعتبر آلاف المنتجات "جديدة".
 """
@@ -89,7 +91,8 @@ def merge_shards():
         failed.extend(data.get("failed", []))
         log(
             f"  {path}: قُرئ {len(data.get('products', {}))} | "
-            f"مفقود {len(data.get('gone', []))} | فشل {len(data.get('failed', []))} | "
+            f"غير متاح {len(data.get('gone', []))} | "
+            f"فشل {len(data.get('failed', []))} | "
             f"429: {data.get('rate_limit_hits', 0)}"
         )
     return products, gone, failed, shard_files
@@ -236,11 +239,13 @@ def main():
         log("⚠️ لم يُعثر على أي ملف شريحة (shard_*.json). نتوقف.")
         return 1
 
-    total_seen = len(scanned) + len(gone) + len(failed)
-    coverage = len(scanned) / total_seen * 100 if total_seen else 0
+    # نسبة القراءة تُحسب على المنتجات الموجودة فعلاً؛ الروابط المحذوفة/غير
+    # المتاحة (gone) ليست فشلاً وإنما منتجات لم تعد موجودة على الموقع.
+    live_total = len(scanned) + len(failed)
+    coverage = len(scanned) / live_total * 100 if live_total else 0
     log(
-        f"\nالإجمالي: قُرئ {len(scanned)} | مفقود من الموقع {len(gone)} | "
-        f"فشل نهائي {len(failed)} | نسبة القراءة {coverage:.2f}%"
+        f"\nالإجمالي: قُرئ {len(scanned)} | غير متاح/محذوف {len(gone)} | "
+        f"فشل تقني {len(failed)} | نسبة قراءة المنتجات المتاحة {coverage:.2f}%"
     )
 
     if not scanned:
@@ -305,8 +310,13 @@ def main():
         "## 🔔 تحديثات مكعب",
         "",
         f"- المنتجات المفحوصة: **{len(scanned)}** من كتالوج مكعب "
-        f"(نسبة القراءة {coverage:.1f}%)",
+        f"(نسبة قراءة المنتجات المتاحة {coverage:.1f}%)",
     ]
+    if gone:
+        header.append(
+            f"- **{len(gone)}** رابط في خريطة الموقع لمنتجات لم تعد متاحة "
+            "(صفحاتها فارغة أو محذوفة) — طبيعي وليس خطأً"
+        )
     if failed:
         header.append(
             f"- تعذّرت قراءة **{len(failed)}** منتج في هذا التشغيل "
