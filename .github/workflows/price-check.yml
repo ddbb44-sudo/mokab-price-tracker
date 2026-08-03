@@ -11,9 +11,17 @@ permissions:
   issues: write
 
 jobs:
-  check-prices:
+  # مرحلة 1: فحص الكتالوج موزّعاً على 6 شرائح متوازية.
+  # كل شريحة تعمل على runner مستقل (عنوان IP مختلف) وبمعدل طلبات بطيء،
+  # فيوزّع الحمل ويتفادى حظر 429 اللي كان يحصل عند الفحص من مصدر واحد.
+  scan:
+    name: فحص الشريحة ${{ matrix.shard }}
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -26,9 +34,59 @@ jobs:
       - name: Install Python deps
         run: pip install requests
 
-      - name: Run price check
-        id: check
+      - name: Scan shard
+        env:
+          SHARD_INDEX: ${{ matrix.shard }}
+          SHARD_COUNT: "6"
+          PYTHONUNBUFFERED: "1"
         run: python check_prices.py
+
+      - name: Upload shard result
+        uses: actions/upload-artifact@v4
+        with:
+          name: shard-${{ matrix.shard }}
+          path: shard_${{ matrix.shard }}.json
+          retention-days: 7
+          if-no-files-found: error
+
+  # مرحلة 2: دمج نتائج كل الشرائح وبناء التقرير مقسّماً حسب الكاتوجري.
+  report:
+    name: دمج النتائج وبناء التقرير
+    needs: scan
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download all shard results
+        uses: actions/download-artifact@v4
+        with:
+          path: shards
+          pattern: shard-*
+          merge-multiple: true
+
+      - name: List downloaded shards
+        run: ls -la shards || echo "لا يوجد مجلد shards"
+
+      - name: Build report
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python build_report.py
+
+      - name: Upload full report
+        if: hashFiles('full_report.md') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-report
+          path: full_report.md
+          retention-days: 30
 
       - name: Commit updated baseline
         run: |
@@ -40,8 +98,8 @@ jobs:
             exit 0
           fi
           git commit -m "تحديث أسعار مكعب - $(date -u +%Y-%m-%d)"
-          # قد يكون main تقدّم أثناء تشغيل السكربت (فحص الأسعار يأخذ دقائق) —
-          # نعيد المحاولة مع rebase على أحدث main بدل ما نفشل بـ non-fast-forward.
+          # قد يكون main تقدّم أثناء الفحص (يأخذ وقتاً طويلاً) — نعيد المحاولة
+          # مع rebase على أحدث main بدل ما نفشل بـ non-fast-forward.
           success=false
           for i in 1 2 3 4 5; do
             git fetch origin main
@@ -60,10 +118,10 @@ jobs:
             exit 1
           fi
 
-      - name: Open issue if prices changed
+      - name: Open issue if there are updates
         if: hashFiles('issue_body.md') != ''
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: "🔔 تغيّرات أسعار مكعب - ${{ github.run_id }}"
+          title: "🔔 تحديثات مكعب - ${{ github.run_id }}"
           content-filepath: issue_body.md
           labels: price-alert
