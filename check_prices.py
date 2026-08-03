@@ -212,6 +212,10 @@ def main():
 
     price_changes = []
     new_arrivals = []
+    # منتج واحد ممكن يظهر بأكثر من قسم (مثلاً اكسسوار سيارة + براند بيسوس) — نتجنب
+    # تكراره أكثر من مرة بنفس الجدول باستخدام هذه المجموعات.
+    reported_price_change_pids = set()
+    reported_new_arrival_pids = set()
 
     total_scanned = 0
     used_fallback_sources = []
@@ -230,22 +234,29 @@ def main():
             old = old_products.get(pid)
 
             if old is None:
-                new_arrivals.append(
-                    {
-                        "name": p["name"],
-                        "price": p["price"],
-                        "currency": p["currency"],
-                        "category": category,
-                        "url": p["url"],
-                    }
-                )
+                if pid not in reported_new_arrival_pids:
+                    reported_new_arrival_pids.add(pid)
+                    new_arrivals.append(
+                        {
+                            "name": p["name"],
+                            "price": p["price"],
+                            "currency": p["currency"],
+                            "category": category,
+                            "url": p["url"],
+                        }
+                    )
             elif old.get("price") is not None and p["price"] is not None:
                 try:
                     old_price_f = float(old["price"])
                     new_price_f = float(p["price"])
                 except (TypeError, ValueError):
                     old_price_f = new_price_f = None
-                if old_price_f is not None and old_price_f != new_price_f:
+                if (
+                    old_price_f is not None
+                    and old_price_f != new_price_f
+                    and pid not in reported_price_change_pids
+                ):
+                    reported_price_change_pids.add(pid)
                     price_changes.append(
                         {
                             "name": p["name"],
