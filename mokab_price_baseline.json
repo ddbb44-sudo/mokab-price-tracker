@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:49:59.395285+00:00",
+  "generated_at": "2026-08-04T06:07:29.353720+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -24866,7 +24866,7 @@
       "regular_price": 499.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -36422,7 +36422,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -54021,7 +54021,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -54991,7 +54991,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -68744,8 +68744,9 @@
   },
   "coverage": {
     "scanned": 4598,
-    "gone": 0,
-    "failed": 401,
-    "percent": 91.98
-  }
+    "gone": 401,
+    "failed": 0,
+    "percent": 100.0
+  },
+  "unread": []
 }
