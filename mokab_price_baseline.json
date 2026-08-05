@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:07:29.353720+00:00",
+  "generated_at": "2026-08-05T06:21:39.912645+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -152,7 +152,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -503,7 +503,7 @@
     },
     "974103055": {
       "name": "داش كام بوتسلاب G980H أمامية 3K وداخلية وخلفية وذاكرة",
-      "price": 779.0,
+      "price": 799.0,
       "regular_price": 839.01,
       "on_offer": true,
       "currency": "SAR",
@@ -787,7 +787,7 @@
       "regular_price": 1299.01,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -2024,7 +2024,7 @@
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -2492,7 +2492,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -11069,7 +11069,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -11310,7 +11310,7 @@
     },
     "847029197": {
       "name": "داش كام بوتسلاب G980H أمامية 4K و3 كاميرات مع ذاكرة",
-      "price": 649.0,
+      "price": 699.0,
       "regular_price": 789.0,
       "on_offer": true,
       "currency": "SAR",
@@ -18836,7 +18836,7 @@
     },
     "210824969": {
       "name": "داش كام بوتسلاب G980H Pro أمامية 4K وكاميرا خلفية 2K",
-      "price": 559.0,
+      "price": 579.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27110,7 +27110,7 @@
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -27556,7 +27556,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -27795,7 +27795,7 @@
       "regular_price": 5699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -28635,7 +28635,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -30604,7 +30604,7 @@
       "regular_price": 3799.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -32605,7 +32605,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -32976,7 +32976,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -36024,7 +36024,7 @@
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -36998,7 +36998,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -42981,7 +42981,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -43115,7 +43115,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -47389,7 +47389,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -51421,7 +51421,7 @@
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -54741,7 +54741,7 @@
       "regular_price": 2299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -56758,7 +56758,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ميداليات مفاتيح",
       "categories": [
         "ميداليات مفاتيح",
@@ -57676,7 +57676,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -60665,7 +60665,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -60871,7 +60871,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -63881,7 +63881,7 @@
     },
     "2101697824": {
       "name": "شنطه سوداء VGOAL KD1154 - يد سوداء بأناقة وجودة عالية",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68743,8 +68743,8 @@
     }
   },
   "coverage": {
-    "scanned": 4598,
-    "gone": 401,
+    "scanned": 4597,
+    "gone": 402,
     "failed": 0,
     "percent": 100.0
   },
