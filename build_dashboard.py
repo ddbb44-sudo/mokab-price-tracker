@@ -8,8 +8,9 @@
 خط IBM Plex Arabic من Google Fonts)، وتعمل حتى لو حُفظت على الجهاز.
 
 اللوحة تعرض فقط البيانات الأساسية: مؤشرات، مقارنة حقيقية بين تاريخين
-(اختيار من/إلى)، وجدول منفصل مرتّب لكل كاتوجري يضم الأسعار والنسب ونسبة
-الخصم، بلا أي نص تعريفي عن المشروع.
+(اختيار من/إلى)، مع أعمدة موسومة بالتواريخ الفعلية المقارنة (ليس قبل/بعد
+غامضة)، وألوان: صعود السعر = أخضر، نزوله = أحمر، وجدول منفصل مرتّب لكل
+كاتوجري يضم الأسعار والنسب ونسبة الخصم، بلا أي نص تعريفي عن المشروع.
 """
 import html
 import json
@@ -225,6 +226,9 @@ TEMPLATE = r"""<!doctype html>
         font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap}
   .pill.up{background:var(--up-bg);color:var(--up)}
   .pill.down{background:var(--down-bg);color:var(--down)}
+  /* اتجاه السعر: نزول = أحمر (تحذير)، صعود = أخضر — عكس ألوان pill.up/down أعلاه عمداً */
+  .pill.pos{background:var(--down-bg);color:var(--down)}
+  .pill.neg{background:var(--up-bg);color:var(--up)}
   .tag{display:inline-block;padding:2px 8px;border-radius:6px;font-size:11.5px;
        background:#f2f3f5;color:#3f434a;white-space:nowrap}
   .old{color:var(--faint);text-decoration:line-through}
@@ -364,17 +368,18 @@ function match(row){
   return (row.name || '').toLowerCase().includes(query);
 }
 
-function priceTable(rows){
+function priceTable(rows, fromLabel, toLabel){
   return `<div class="scroll"><table><thead><tr>
-    <th>المنتج</th><th>السعر قبل</th><th>السعر بعد</th><th>التغيّر</th><th>الخصم</th><th></th>
+    <th>المنتج</th><th>السعر بتاريخ ${esc(fromLabel)}</th><th>السعر بتاريخ ${esc(toLabel)}</th><th>نسبة التغيّر</th><th>الخصم</th><th></th>
   </tr></thead><tbody>` + rows.map(r => {
     const up = r.price > r.old_price;
+    const trend = up ? 'pos' : 'neg'; // صعود = أخضر، نزول = أحمر
     const pct = r.pct == null ? '' : (r.pct>0?'+':'') + r.pct.toFixed(1) + '%';
     return `<tr>
       <td class="name">${esc(r.name)}</td>
       <td class="num old">${esc(money(r.old_price, r.currency))}</td>
       <td class="num"><strong>${esc(money(r.price, r.currency))}</strong></td>
-      <td><span class="pill ${up?'up':'down'}">${up?'▲':'▼'} ${esc(pct)}</span></td>
+      <td><span class="pill ${trend}">${up?'▲':'▼'} ${esc(pct)}</span></td>
       <td class="num">${r.discount ? `%${Math.round(r.discount)}−` : '—'}</td>
       <td><a class="link" href="${esc(r.url)}" target="_blank" rel="noopener">فتح ↗</a></td>
     </tr>`;
@@ -481,7 +486,7 @@ function render(){
   body.innerHTML = filtered.map(c => {
     let h = `<section class="card"><div class="chead"><h2>${esc(c.name)}</h2>
       <div class="cnt">${c.p.length} سعر · ${c.o.length} عرض · ${c.a.length} إضافة</div></div>`;
-    if (c.p.length) h += `<h3>💰 تغيّر الأسعار <span class="badge">${c.p.length}</span></h3>` + priceTable(c.p);
+    if (c.p.length) h += `<h3>💰 تغيّر الأسعار <span class="badge">${c.p.length}</span></h3>` + priceTable(c.p, fromLabel, toLabel);
     if (c.o.length) h += `<h3>🏷️ العروض <span class="badge">${c.o.length}</span></h3>` + offerTable(c.o);
     if (c.a.length) h += `<h3>🆕 منتجات مضافة <span class="badge">${c.a.length}</span></h3>` + newTable(c.a);
     return h + `</section>`;
