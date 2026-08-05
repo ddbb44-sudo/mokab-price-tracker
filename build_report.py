@@ -11,6 +11,9 @@
 المنتجات اللي ما تغيّر فيها شيء لا تُذكر إطلاقاً، والكاتوجري اللي ما فيه أي
 تغيير لا يظهر أصلاً.
 
+يُخرج أيضاً `latest_run.json` بصيغة منظّمة يقرأها `build_dashboard.py` لبناء
+لوحة المتابعة — ويُكتب في كل الحالات (حتى بلا تغييرات) لتعكس اللوحة حالة اليوم.
+
 ملاحظات مهمة على الدقة:
   - المنتجات اللي فشلت قراءتها في هذا التشغيل لا تُقارَن ولا تُحدَّث، وتبقى
     قيمتها القديمة في خط الأساس كما هي — فلا يمكن أن تُنتج إنذاراً كاذباً.
@@ -31,6 +34,8 @@ from datetime import datetime, timezone
 BASELINE_PATH = "mokab_price_baseline.json"
 ISSUE_BODY_PATH = "issue_body.md"
 FULL_REPORT_PATH = "full_report.md"
+# مخرجات منظّمة تقرأها لوحة المتابعة (build_dashboard.py)
+LATEST_RUN_PATH = "latest_run.json"
 
 # حد GitHub لجسم الـ Issue = 65536 حرف. نترك هامش أمان.
 ISSUE_BODY_LIMIT = 60000
@@ -160,6 +165,63 @@ def group_by_category(items):
     for it in items:
         groups.setdefault(it.get("category") or UNCATEGORIZED, []).append(it)
     return groups
+
+
+def _row(c, kind):
+    """يحوّل عنصر تغيير إلى صيغة مبسّطة تصلح للعرض في اللوحة."""
+    d = {
+        "name": c["name"],
+        "url": c["url"],
+        "price": c["price"],
+        "regular_price": c.get("regular_price"),
+        "currency": c["currency"],
+        "on_offer": bool(c.get("on_offer")),
+    }
+    if kind in ("price", "offer"):
+        d["old_price"] = c.get("old_price")
+    if kind == "offer":
+        d["offer_kind"] = c.get("offer_kind")
+        d["discount"] = discount_pct(c.get("regular_price"), c["price"])
+    if kind == "price" and c.get("old_price"):
+        d["pct"] = pct_change(c["old_price"], c["price"])
+    return d
+
+
+def write_latest_run(stats, seeding, price_changes, offer_changes, new_arrivals):
+    """يكتب latest_run.json — مصدر بيانات لوحة المتابعة، يُكتب في كل الحالات
+    (حتى لو لا توجد تغييرات) حتى تعرض اللوحة حالة اليوم بدقة."""
+    g_p = group_by_category(price_changes)
+    g_o = group_by_category(offer_changes)
+    g_a = group_by_category(new_arrivals)
+    cats = sorted(
+        set(g_p) | set(g_o) | set(g_a),
+        key=lambda c: (
+            -(len(g_p.get(c, [])) + len(g_o.get(c, [])) + len(g_a.get(c, []))),
+            c,
+        ),
+    )
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "seeding": seeding,
+        "stats": stats,
+        "totals": {
+            "price_changes": len(price_changes),
+            "offer_changes": len(offer_changes),
+            "new_arrivals": len(new_arrivals),
+        },
+        "categories": [
+            {
+                "name": c,
+                "price_changes": [_row(x, "price") for x in g_p.get(c, [])],
+                "offer_changes": [_row(x, "offer") for x in g_o.get(c, [])],
+                "new_arrivals": [_row(x, "new") for x in g_a.get(c, [])],
+            }
+            for c in cats
+        ],
+    }
+    with open(LATEST_RUN_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False)
+    log(f"كُتب {LATEST_RUN_PATH} للوحة المتابعة.")
 
 
 def build_category_section(cat, prices, offers, arrivals):
@@ -338,6 +400,21 @@ def main():
         with open(gh_out, "a") as f:
             f.write(f"changes_count={total_changes}\n")
             f.write(f"coverage={coverage:.2f}\n")
+
+    # يُكتب قبل أي خروج مبكر حتى تعكس اللوحة حالة اليوم دائماً
+    write_latest_run(
+        {
+            "scanned": len(scanned),
+            "gone": len(gone),
+            "failed": len(failed),
+            "coverage": round(coverage, 2),
+            "catalog": len(new_products),
+        },
+        seeding,
+        price_changes,
+        offer_changes,
+        new_arrivals,
+    )
 
     header = [
         "## 🔔 تحديثات مكعب",
