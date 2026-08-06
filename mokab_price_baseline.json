@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:17:30.262576+00:00",
+  "generated_at": "2026-08-06T06:58:26.534055+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -152,7 +152,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -787,7 +787,7 @@
       "regular_price": 1299.01,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -2915,7 +2915,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/ديريا-طبق-طعام-جرامافون-مع-أداة-اصفر/p1365994529"
     },
@@ -4690,7 +4691,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/صندوق-تخزين-حليب-مجفف-ديريا-مقاومة-للسقوط-بنفسجي/p1672902535"
     },
@@ -5377,7 +5379,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -5615,7 +5617,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -6379,7 +6381,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-حيوان-اليف-بنفسجي/p1962039926"
     },
@@ -7944,7 +7947,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -9029,7 +9032,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -9639,7 +9642,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -10247,7 +10250,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -11841,7 +11844,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-بطيخ/p93607637"
     },
@@ -12311,7 +12315,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/زجاجة-ماء-ديريا-تريتان-كبير-ازرق/p1008864328"
     },
@@ -13643,7 +13648,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -15885,7 +15890,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-صاروخ-ازرق/p1615623603"
     },
@@ -16024,7 +16030,7 @@
       "regular_price": 15.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -16059,7 +16065,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-نحلة/p164369394"
     },
@@ -16706,7 +16713,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -16744,7 +16751,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-رجل-الفضاء/p1755828125"
     },
@@ -16949,7 +16957,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18013,7 +18021,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -18219,7 +18227,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/طقم-وعاء-طعام-وكوب-ماء-ديريا-على-شكل-سفينة-فضاء/p2008460580"
     },
@@ -18682,7 +18691,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/مجموعة-صناديق-غداء-ديريا-للأطفال-بمقصورة-محكمة-الغلق-ازرق/p2089066283"
     },
@@ -21501,7 +21511,7 @@
     },
     "624413522": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12 بنفسجي",
-      "price": 529.0,
+      "price": 499.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21701,7 +21711,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -22186,7 +22196,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/طبق-طعام-محمول-ديريا-مع-إناء-ازرق/p737805375"
     },
@@ -23529,7 +23540,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -23826,7 +23837,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/وعاء-طعام-ديريا-سفينة-فضاء-مع-ملعقة-وشوكة-ازرق/p1025772209"
     },
@@ -24195,7 +24207,7 @@
     },
     "1098197779": {
       "name": "استكشف علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 529.0,
+      "price": 499.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24866,7 +24878,7 @@
       "regular_price": 499.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -25690,7 +25702,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -26049,7 +26061,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/طبق-طعام-محمول-ديريا-مع-إناء-بنفسجي/p1408502624"
     },
@@ -26789,7 +26802,7 @@
     },
     "1539940743": {
       "name": "اشتر كاميرا فورية وطابعة فوجي فيلم انستاكس ميني ذكريات فورية",
-      "price": 1049.0,
+      "price": 949.0,
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27408,7 +27421,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/زجاجة-ماء-ديريا-تريتان-صغير-ازرق/p1636876680"
     },
@@ -28635,7 +28649,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -28959,7 +28973,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -29001,7 +29015,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -30243,7 +30257,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -30604,7 +30618,7 @@
       "regular_price": 3799.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -31124,7 +31138,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/وعاء-طعام-ديريا-للأطفال-مع-ملعقة-بنفسجي/p297255467"
     },
@@ -31168,7 +31183,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-يونيكورن-بنفسجي/p303400413"
     },
@@ -32479,7 +32495,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/ثلاث-صناديق-تخزين-طعام-ديريا/p526396142"
     },
@@ -32818,7 +32835,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-كرة-قدم/p582385612"
     },
@@ -33607,7 +33625,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -33690,7 +33708,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-خنفساء/p749101210"
     },
@@ -34084,7 +34103,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -35479,7 +35498,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/صندوق-تخزين-حليب-مجفف-ديريا-مقاومة-للسقوط-ازرق/p1066722482"
     },
@@ -36024,7 +36044,7 @@
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -36866,7 +36886,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -36880,7 +36900,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -37072,7 +37092,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37696,7 +37716,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية"
@@ -37921,7 +37941,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -38697,7 +38717,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -38852,7 +38872,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -38985,7 +39005,7 @@
       "regular_price": 1899.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -39501,7 +39521,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-صاروخ-احمر/p1743113556"
     },
@@ -39852,7 +39873,7 @@
     },
     "1803434402": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أبيض تحكم أسهل وطعم",
-      "price": 1099.0,
+      "price": 1499.0,
       "regular_price": 1599.01,
       "on_offer": true,
       "currency": "SAR",
@@ -40038,7 +40059,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/وعاء-طعام-ديريا-سفينة-فضاء-مع-ملعقة-وشوكة-بنفسجي/p1843749672"
     },
@@ -40133,7 +40155,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/قارورة-ماء-ديريا-صغيرة-على-شكل-كاميرا-مع-تعليقة-ازرق/p18588551"
     },
@@ -40570,7 +40593,7 @@
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -40798,7 +40821,7 @@
     },
     "1971085461": {
       "name": "استكشف مكينة قهوة تركية أوكا ايليت أسود تحضير سريع",
-      "price": 1099.0,
+      "price": 1499.0,
       "regular_price": 1599.01,
       "on_offer": true,
       "currency": "SAR",
@@ -40896,7 +40919,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -41226,7 +41249,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -42464,7 +42487,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/صندوق-غداء-ديريا-مزدوجة-الطبقات-مغلقة-صفراء/p311793442"
     },
@@ -43023,7 +43047,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -43377,7 +43401,7 @@
       "regular_price": 119.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات الوسائط - الصوت",
       "categories": [
         "وصلات الوسائط - الصوت",
@@ -43542,7 +43566,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -43587,7 +43611,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -44875,7 +44899,7 @@
       "regular_price": 899.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -45598,7 +45622,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كوب-ديريا-شامبيون-ازرق/p854566659"
     },
@@ -46246,7 +46271,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/اربع-صناديق-تخزين-طعام-ديريا/p964656470"
     },
@@ -46283,7 +46309,7 @@
     },
     "973760544": {
       "name": "كاميرا وطابعة Instax Mini Evo الفورية الهجينة (روز)",
-      "price": 1049.0,
+      "price": 949.0,
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47131,7 +47157,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كوب-ديريا-شامبيون-بنفسجي/p111406198"
     },
@@ -47597,7 +47624,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -48334,7 +48361,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -48628,7 +48655,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/صندوق-غداء-ديريا-مزدوجة-الطبقات-مغلقة-بنفسجي/p1368541638"
     },
@@ -49137,7 +49165,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/زجاجة-ماء-ديريا-تريتان-كبير-بنفسجي/p1466128731"
     },
@@ -49217,7 +49246,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -49380,7 +49409,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -49768,7 +49797,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -51100,7 +51129,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -51417,11 +51446,11 @@
     },
     "1864183714": {
       "name": "كاميرا وطابعة Instax Mini Evo الفورية الهجينة (بني)",
-      "price": 1049.0,
+      "price": 949.0,
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -52029,7 +52058,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -52554,7 +52583,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/طقم-ديريا-شوكة-وملعقة-محمولة-وردي/p2078768278"
     },
@@ -56382,7 +56412,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -56608,7 +56638,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/مجموعة-صناديق-غداء-ديريا-محكم-الإغلاق-مع-حقيبة-حرارية-اصفر/p833933706"
     },
@@ -56918,7 +56949,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-قطة-وردي/p881977723"
     },
@@ -57361,7 +57393,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -57800,7 +57832,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -58752,7 +58784,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -61203,7 +61235,7 @@
       "regular_price": 1929.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -62941,7 +62973,8 @@
         "شنط ومحافظ",
         "شنطة ظهر",
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-supercute-سيارة-ازرق/p1949111837"
     },
@@ -63042,7 +63075,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/طقم-ديريا-شوكة-وملعقة-محمولة-ازرق/p1966018730"
     },
@@ -63266,7 +63300,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -63646,7 +63680,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63838,7 +63872,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -64860,7 +64894,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/وعاء-طعام-ديريا-للأطفال-مع-ملعقة-ازرق/p322174566"
     },
@@ -65409,7 +65444,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65775,7 +65810,7 @@
     },
     "47432712": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 529.0,
+      "price": 499.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -66290,7 +66325,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/زجاجة-ماء-ديريا-تريتان-صغير-بنفسجي/p551749068"
     },
@@ -67814,7 +67850,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -67936,7 +67972,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/قارورة-ماء-ديريا-صغيرة-على-شكل-كاميرا-مع-تعليقة-بنفسجي/p8497295"
     },
@@ -68066,7 +68103,8 @@
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/ديريا-طبق-طعام-جرامافون-مع-أداة-بنفسجي/p887025445"
     },
