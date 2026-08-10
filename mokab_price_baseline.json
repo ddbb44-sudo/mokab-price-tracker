@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:26:44.384828+00:00",
+  "generated_at": "2026-08-10T05:40:56.085490+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -1723,7 +1723,7 @@
     },
     "1148769221": {
       "name": "سماعة ايفون تايب سي سلكية الأصلية",
-      "price": 85.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4491,7 +4491,7 @@
     },
     "1646244589": {
       "name": "سماعة ابل الأصلية سلك بمقبس لايتنينق لجوال ايفون 11",
-      "price": 85.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4672,7 +4672,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -5408,7 +5408,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -10281,7 +10281,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12767,7 +12767,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -14565,7 +14565,7 @@
       "regular_price": 79.01,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -14927,7 +14927,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -16713,7 +16713,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -18864,7 +18864,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -19059,7 +19059,7 @@
       "regular_price": 869.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات اللابتوب",
       "categories": [
         "ملحقات اللابتوب"
@@ -21564,7 +21564,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -21634,7 +21634,7 @@
     },
     "64585955": {
       "name": "راس شاحن ايفون الاصلي تايب سي 20 واط لآيباد وايفون",
-      "price": 85.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -26085,7 +26085,7 @@
       "regular_price": 259.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -27570,7 +27570,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -29489,7 +29489,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -32415,7 +32415,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -34861,7 +34861,7 @@
       "regular_price": 13299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -36780,7 +36780,7 @@
     },
     "1290716640": {
       "name": "تسوق سلك ابل ووفن يو اس بي سي شحن ونقل بيانات متر واحد الآن!",
-      "price": 85.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39546,7 +39546,7 @@
       "regular_price": 13299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -42080,7 +42080,7 @@
     },
     "247040821": {
       "name": "سلك شاحن ايفون 13 اصلي تايب سي الى لايتنينق 1 متر",
-      "price": 85.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46405,7 +46405,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -49101,7 +49101,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -53241,7 +53241,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة سامسونج",
       "categories": [
         "حماية شاشة سامسونج",
@@ -57298,7 +57298,7 @@
     },
     "939039488": {
       "name": "سماعات ايربودز برو 3 من ابل (AirPods Pro 3)",
-      "price": 999.01,
+      "price": 949.0,
       "regular_price": 1049.0,
       "on_offer": true,
       "currency": "SAR",
@@ -57393,7 +57393,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -62033,7 +62033,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -62967,7 +62967,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -64213,7 +64213,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -66734,7 +66734,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
