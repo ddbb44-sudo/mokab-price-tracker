@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T06:05:45.141748+00:00",
+  "generated_at": "2026-08-13T05:45:42.087026+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -253,7 +253,7 @@
     },
     "2041904726": {
       "name": "توصيله سيارة بيسوس بقوة 300 واط و 220 فولت عبر الولاعة",
-      "price": 299.0,
+      "price": 229.0,
       "regular_price": 549.0,
       "on_offer": true,
       "currency": "SAR",
@@ -658,7 +658,7 @@
     },
     "1053619491": {
       "name": "وصلة سيارة يو اس بي بيسوس 150 واط ومنفذ تايب سي ومنفذين طاقة",
-      "price": 169.0,
+      "price": 119.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -700,7 +700,7 @@
     },
     "752758007": {
       "name": "تسوق قطعة تعليق بيسوس 4 قطع اونلاين في السعودية",
-      "price": 9.0,
+      "price": 5.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2079,7 +2079,7 @@
     },
     "1214823941": {
       "name": "بطارية بيسوس 8000 ملي أمبير 2 في 1 لشحن السيارة ومنفاخ إطارات",
-      "price": 299.0,
+      "price": 279.0,
       "regular_price": 549.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4006,7 +4006,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -4362,7 +4362,7 @@
     },
     "1621413691": {
       "name": "تسوق حامل مغناطيسي وشاحن لاسلكي بيسوس الأسود - أداء متميز!",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -5268,7 +5268,7 @@
     },
     "1772823379": {
       "name": "عصا السيلفي وستاند للجوال من بيسوس تيك شوت - أبيض عالي الجودة",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -5495,11 +5495,11 @@
     },
     "1814614668": {
       "name": "ستاند تابلت بيسوس قابل للطي للمكتب - لون وردي - تسوق اونلاين",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -6122,7 +6122,7 @@
     },
     "1921672615": {
       "name": "مكنسة كهربائية صغيرة شحن ذكية لاسلكية للسيارة من بيسوس بقوة 15000 باسك",
-      "price": 229.0,
+      "price": 218.99,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -6620,7 +6620,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -6840,7 +6840,7 @@
     },
     "2038155098": {
       "name": "حامل جوال بيسوس c02 برو مغناطيسي شحن لاسلكي وشاحن سيارة",
-      "price": 89.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7965,7 +7965,7 @@
     },
     "277299141": {
       "name": "مكبر صوت لاسلكي AeQur V2 من بيسوس - ابيض",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -8220,7 +8220,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -10914,7 +10914,7 @@
     },
     "775933355": {
       "name": "قاعدة تثبت على الديكور مع قاعدة شفط بيسوس - اسود - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12352,7 +12352,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -12425,11 +12425,11 @@
     },
     "1026576052": {
       "name": "تسوق كفر ايباد برو 11 انش  مع ستاند أونلاين بأفضل سعر في السعودية",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -12623,7 +12623,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -13872,7 +13872,7 @@
     },
     "127628441": {
       "name": "اورنج دوت جهاز استقبال لاسلكي بيسوس شحن تايب سي - رمادي",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14803,7 +14803,7 @@
     },
     "1436032891": {
       "name": "تسوق ستاند مغناطيسي بيسوس للايفون - اسود اونلاين في السعودية",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -14862,7 +14862,7 @@
     },
     "145040139": {
       "name": "مصباح بيسوس برايم تريب للدارجة ثنائي اللون 2 في 1 - اسود",
-      "price": 249.0,
+      "price": 229.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14970,7 +14970,7 @@
     },
     "1471322083": {
       "name": "ستاند بيسوس للجوال والتابلت ألمنيوم - فضي",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -15393,7 +15393,7 @@
     },
     "1544442777": {
       "name": "حامل جوال لاسلكي للسيارة بيسوس 15 واط ماج سيف اسود",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16060,7 +16060,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -16285,7 +16285,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -16387,9 +16387,9 @@
     },
     "1694831421": {
       "name": "تسوق ستاند جوال بيسوس قابل للطي - ابيض اونلاين في السعودية",
-      "price": 19.0,
+      "price": 15.0,
       "regular_price": 19.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ستاندات وقواعد",
@@ -16805,11 +16805,11 @@
     },
     "1762479057": {
       "name": "تسوق مسكة خاتم بيسوس نحيفة - اسود مطفي اونلاين في السعودية",
-      "price": 22.0,
+      "price": 19.0,
       "regular_price": 39.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -17469,7 +17469,7 @@
     },
     "188275809": {
       "name": "تسوق قاعدة جوال دراجة هوائية من بيسوس - اسود اونلاين في السعودية",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17587,7 +17587,7 @@
     },
     "1906232877": {
       "name": "ستاند بيسوس للسيارة على الديكور وعلى فتحة المكيف - اسود",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -18422,7 +18422,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -19618,7 +19618,7 @@
     },
     "303377043": {
       "name": "تسوق ستاند جوال مغناطيسي بيسوس PrimeTrip C03 للسيارة - أسود بجودة",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20109,11 +20109,11 @@
     },
     "379517094": {
       "name": "حامل أكواب للسيارة متعدد الاستخدامات من بيسوس - أسود",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -20306,7 +20306,7 @@
     },
     "411853073": {
       "name": "منفاخ هواء للسيارة كهربائي بيسوس سوبر ميني",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20475,7 +20475,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -20958,11 +20958,11 @@
     },
     "522249425": {
       "name": "سماعة بيسوس وايرليس C-Mic CM10 Smart - اسود",
-      "price": 149.01,
+      "price": 139.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -21764,7 +21764,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -22003,7 +22003,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -22013,7 +22013,7 @@
     },
     "705117530": {
       "name": "بكج بيسوس للسيارة مع شاحن بيسوس 60 واط وملحقات مميزة",
-      "price": 179.0,
+      "price": 159.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22089,7 +22089,7 @@
     },
     "717370198": {
       "name": "قاعدة بيسوس ماج سيف مغناطيسيه دائريه لتثبيت الهاتف في السيارة",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -25368,7 +25368,7 @@
     },
     "128145066": {
       "name": "صندوق سيارة بيسوس 60 لتر أسود لتخزين آمن ومثالي في السيارة",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -25536,7 +25536,7 @@
     },
     "1307997553": {
       "name": "حامل أكواب السيارة متعدد الاستخدامات من بيسوس - أزرق",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -25915,7 +25915,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -26397,7 +26397,7 @@
     },
     "1471455444": {
       "name": "تسوق مسكة خاتم بيسوس نحيفة - فضي اونلاين في السعودية",
-      "price": 22.0,
+      "price": 19.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -26498,11 +26498,11 @@
     },
     "1489459471": {
       "name": "مكنسة سياره شفط ونفخ  بيسوس بقوة 12000 باسكال - اسود",
-      "price": 218.99,
+      "price": 199.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -27074,7 +27074,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -27278,7 +27278,7 @@
       "regular_price": 359.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -28744,11 +28744,11 @@
     },
     "1847116890": {
       "name": "ستاند تابلت بيسوس القابل للطي بالمكتب باللون الأبيض",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -31120,11 +31120,11 @@
     },
     "290893183": {
       "name": "تسوق ستاند لابتوب بيسوس - رمادي اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -31240,7 +31240,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -32320,7 +32320,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33477,7 +33477,7 @@
     },
     "700144726": {
       "name": "منفاخ هواء كهربائي سوبر ميني برو من بيسوس - اسود",
-      "price": 169.0,
+      "price": 159.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34625,7 +34625,7 @@
       "regular_price": 2899.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -34980,7 +34980,7 @@
     },
     "960721527": {
       "name": "تسوق قاعدة بيسوس لتثبيت الهاتف والتابلت باللون الأسود الآن!",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -36429,7 +36429,7 @@
     },
     "1227106605": {
       "name": "بطارية بيسوس بسعة 26000 ملي امبير  ومشغل سيارة بسعة 3000 امبير - اسود",
-      "price": 549.0,
+      "price": 499.0,
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -36552,7 +36552,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -36739,11 +36739,11 @@
     },
     "1276853684": {
       "name": "مشغل سيارة بيسوس 4 في 1 بقوة 600 أمبير مع منفاخ هواء وشحن جوال",
-      "price": 339.0,
+      "price": 299.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -37138,7 +37138,7 @@
     },
     "1346853175": {
       "name": "قاعدة تبريد وشحن لاسلكي للجوال بيسوس ماج برو - اسود",
-      "price": 149.01,
+      "price": 139.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37494,11 +37494,11 @@
     },
     "1408803691": {
       "name": "مجموعة تنظيف متعددة الاستخدام من بيسوس - ابيض",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة"
@@ -38471,7 +38471,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -38675,7 +38675,7 @@
     },
     "1609621599": {
       "name": "منفاخ كهربائي للسيارات ذكي محمول من بيسوس - رمادي",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -38770,7 +38770,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -38965,7 +38965,7 @@
     },
     "1649700241": {
       "name": "مسند ظهر للكرسي بيسوس بلون أزرق",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -39083,7 +39083,7 @@
     },
     "1666705511": {
       "name": "حامل معدني لابتوب بيسوس قابل للتعديل - فضي بأفضل الأسعار",
-      "price": 149.01,
+      "price": 139.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40090,7 +40090,7 @@
     },
     "1841844420": {
       "name": "مسند ظهر للسيارة كومفورت رايد بيسوس - ازرق",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43691,7 +43691,7 @@
     },
     "505613999": {
       "name": "منظم للسيارة بيسوس رمادي لتخزين أنيق وعملي في سيارتك",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44584,7 +44584,7 @@
     },
     "665239551": {
       "name": "تسوق صندوق ومنظم تخزين للسيارة بيسوس - بني اونلاين في السعودية",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44911,7 +44911,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -45657,7 +45657,7 @@
     },
     "852097547": {
       "name": "سماعة بيسوس اللاسلكية C-Mic CM10 Smart باللون الأبيض - تسوق اونلاين",
-      "price": 149.01,
+      "price": 139.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45806,11 +45806,11 @@
     },
     "879809969": {
       "name": "فرشاة تنظيف للأجهزة الذكية ( ايربودز ، لابتوب ، جوال) - ابيض",
-      "price": 29.0,
+      "price": 25.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -45912,7 +45912,7 @@
     },
     "897236975": {
       "name": "حامل جوال شفط تلقائي الإغلاق مع شاحن لاسلكي بيسوس",
-      "price": 169.0,
+      "price": 149.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46188,11 +46188,11 @@
     },
     "946355298": {
       "name": "بطارية ومشغل سيارة بيسوس بسعة 10000 ملي أمبير - أسود بأسعار مميزة",
-      "price": 209.0,
+      "price": 199.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -47011,11 +47011,11 @@
     },
     "1087330675": {
       "name": "حامل الجوال المغناطيسي سوان وشاحن لاسلكي للأيفون بقوة 15 واط من بيسوس",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -47384,7 +47384,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -48316,7 +48316,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -49313,7 +49313,7 @@
     },
     "1483332257": {
       "name": "ستاند جوال للدراجة مع مسكة من بيسوس برايم - اسود",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49523,11 +49523,11 @@
     },
     "1519117236": {
       "name": "تسوق حافظة بيسوس ستايلس لقلم الايباد - ابيض اونلاين في السعودية",
-      "price": 29.0,
+      "price": 25.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -49747,7 +49747,7 @@
     },
     "1554871520": {
       "name": "ستاند شاحن جوال بالطاقة الشمسية للسيارة  مع مستشعر ذكي من بيسوس",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52598,7 +52598,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -53587,7 +53587,7 @@
     },
     "298865476": {
       "name": "ماسك جوال للسيارة بيسوس ذهبي أونلاين في السعودية - احصل الان",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54457,7 +54457,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -55682,7 +55682,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة"
@@ -56219,7 +56219,7 @@
     },
     "744635517": {
       "name": "قاعدة جوال بيسوس مغناطيسي لتثبيت الهاتف على طبلون السيارة",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56329,7 +56329,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -56480,7 +56480,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -57639,11 +57639,11 @@
     },
     "979596671": {
       "name": "ستاند مكتبي بيسوس للجوال والايباد ابيض - احصل علية الان!",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -58243,11 +58243,11 @@
     },
     "1101318010": {
       "name": "قاعدة بيسوس لتثبيت الهاتف على المكيف في سيارتك - تسوق اونلاين",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -58333,7 +58333,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -58809,7 +58809,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -59680,11 +59680,11 @@
     },
     "1333208237": {
       "name": "ستاند موبايل ايفون معدني للمكتب والسيارة من بيسوس - أبيض",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -59969,11 +59969,11 @@
     },
     "1382373413": {
       "name": "حامل جوال رقبة بيسوس كومفورت جوي - أسود",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -62599,7 +62599,7 @@
     },
     "1873580647": {
       "name": "تسوق قاعدة بيسوس مغناطيسيه مع كليب للشاحن بأفضل سعر في السعودية",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64232,7 +64232,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -65908,7 +65908,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اضاءات",
       "categories": [
         "اضاءات",
@@ -67898,7 +67898,7 @@
     },
     "823086941": {
       "name": "تسوق ستاند لاب توب معدني قوي من بيسوي - فضي اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
