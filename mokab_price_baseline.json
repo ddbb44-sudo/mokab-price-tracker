@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:37:41.343953+00:00",
+  "generated_at": "2026-08-19T04:36:42.447225+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -371,7 +371,7 @@
       "regular_price": 3799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -904,7 +904,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -1545,9 +1545,9 @@
     },
     "1119781788": {
       "name": "كفر ايفون 17 برو Alot ماج سيف لون ازرق حماية متينة",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -1745,7 +1745,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -1783,9 +1783,9 @@
     },
     "1157648014": {
       "name": "تسوق كفر حماية Alot نوبل جلد ماج سيف مع إطار معدني للايفون - بني",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
@@ -1803,7 +1803,7 @@
     },
     "1159738006": {
       "name": "سلك راف باور بقوة 60 واط تايب سي الى تايب سي بطول 1 متر - ازرق",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1963,7 +1963,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -2821,7 +2821,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -3460,7 +3460,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -3607,7 +3607,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -3769,7 +3769,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -4083,7 +4083,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -4539,7 +4539,7 @@
     },
     "1652411125": {
       "name": "بكج راف باور بطارية بقوة 20 واط بسعة 10000 ملي امبير بمنفذين تايب سي",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -6490,7 +6490,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -7487,9 +7487,9 @@
     },
     "2132463439": {
       "name": "كفر ايفون 15 برو ماكس Alot ماج سيف لون بني حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -7498,7 +7498,8 @@
         "كفرات وحماية الشاشة",
         "اكسسوارات ايفون 15",
         "كفرات ايفون 15 برو ماكس",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كفر-حماية-alot-ماج-سيف-للايفون-15-برو-ماكس-بني/p2132463439"
     },
@@ -8645,9 +8646,9 @@
     },
     "380040494": {
       "name": "شنطة يد Alot جلد مقاس 11*7*16 سم - ازرق ورمادي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -8655,7 +8656,8 @@
         "شنط ومحافظ",
         "شنط يد",
         "عرض alot",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-11*7*16-سم-ازرق-ورمادي/p380040494"
     },
@@ -8696,7 +8698,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -9563,7 +9565,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -9799,9 +9801,9 @@
     },
     "561826428": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو - برتقالي",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -9876,7 +9878,7 @@
     },
     "580107487": {
       "name": "راف باور شاحن سيارة  100 واط بمنفذين تايب سي + منفذ USB",
-      "price": 99.0,
+      "price": 109.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10091,9 +10093,9 @@
     },
     "613562319": {
       "name": "كفر حماية ايباد اير 11 برو Alot مقاوم للصدمات اسود",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -11156,7 +11158,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اضاءات",
       "categories": [
         "اضاءات",
@@ -11709,9 +11711,9 @@
     },
     "913692004": {
       "name": "تسوق كفر حماية Alot نوبل جلد ماج سيف مع إطار معدني للايفون - برتقالي",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
@@ -12699,9 +12701,9 @@
     },
     "1080961191": {
       "name": "كفر ايفون 17 برو Alot ماج سيف لون فضي حماية متينة",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -13060,7 +13062,7 @@
     },
     "1137045323": {
       "name": "اشتر سماعة اذن رياضية راف باور حول الرقبة لاسلكية",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13710,16 +13712,17 @@
     },
     "1250846031": {
       "name": "تسوق شنطة Alot جلد مايكروفايبر بسعة 1 لتر - حزام خلفي أزرق",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنط يد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-alot-جلد-مايكروفايبر-بسعة-1-لتر-مع-حزام-خلفي-للحمل-ازرق/p1250846031"
     },
@@ -13859,9 +13862,9 @@
     },
     "1272819705": {
       "name": "كفر ايفون 15 برو Alot ماج سيف لون رمادي حماية ممتازة",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -14579,9 +14582,9 @@
     },
     "1401834648": {
       "name": "شنطة يد جلد Alot مقاومة للماء لون اسود انيقة وعملية",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 79.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -15119,7 +15122,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -15613,9 +15616,9 @@
     },
     "157539602": {
       "name": "كفر ايفون 16 برو ماكس Alot ماج سيف لون بني حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -15734,9 +15737,9 @@
     },
     "1592693630": {
       "name": "شنظة ظهر Alot جلد - ازرق ورمادي",
-      "price": 169.0,
+      "price": 159.0,
       "regular_price": 169.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -18255,9 +18258,9 @@
     },
     "2009625212": {
       "name": "كفر حماية ايباد اير 11 انش Alot متين ومرن ازرق",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -18554,9 +18557,9 @@
     },
     "2062513834": {
       "name": "كفر ايفون 16 برو Alot ماج سيف لون رمادي حماية مميزة",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -19271,9 +19274,9 @@
     },
     "253708049": {
       "name": "كفر ايفون 15 برو Alot ماج سيف لون بني حماية ممتازة",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -19678,9 +19681,9 @@
     },
     "308783694": {
       "name": "كفر حماية ايباد اير 11 برو Alot مقاوم للصدمات ازرق",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -20146,7 +20149,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -20157,16 +20160,17 @@
     },
     "38485150": {
       "name": "كفر ايباد 10.9 انش Alot فليكس رايز ماج سيف مع ستاند - اسود",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
         "ملحقات الايباد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كفر-ايباد-10-9-انش-alot-فليكس-رايز-ماج-سيف-مع-ستاند-اسود/p38485150"
     },
@@ -20398,9 +20402,9 @@
     },
     "42672645": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو ماكس - برتقالي",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -21032,9 +21036,9 @@
     },
     "533596517": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو - بني",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -21401,7 +21405,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -21690,9 +21694,9 @@
     },
     "650591769": {
       "name": "كفر ايباد الجيل العاشر 10.9 انش Alot لون ازرق حماية",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -22112,7 +22116,7 @@
     },
     "717908015": {
       "name": "بطارية راف باور بايونير 20000 ملي امبير بقوة 15 واط بمنفذ تايب سي",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22463,9 +22467,9 @@
     },
     "782459053": {
       "name": "كفر حماية ايباد اير 11 انش Alot متين ومرن اسود",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -22508,16 +22512,17 @@
     },
     "791247983": {
       "name": "تسوق شنطة Alot الكبيرة بسعة 1.5 لتر - بيج بأسعار مميزة الآن!",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنط يد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-alot-كبيرة-بسعة-1-5-لتر-بيج/p791247983"
     },
@@ -23415,9 +23420,9 @@
     },
     "948178394": {
       "name": "كفر ايفون 17 برو Alot ماج سيف لون برتقالي حماية متينة",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -24195,9 +24200,9 @@
     },
     "1089041097": {
       "name": "شنطة يد Alot جلد مقاس 11*7*16 سم - بيج واخضر",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -24205,7 +24210,8 @@
         "شنط ومحافظ",
         "شنط يد",
         "عرض alot",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-11*7*16-سم-بيج-واخضر/p1089041097"
     },
@@ -24514,9 +24520,9 @@
     },
     "1131963834": {
       "name": "كفر ايفون 16 برو ماكس Alot ماج سيف لون رمادي حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -25429,9 +25435,9 @@
     },
     "1289980462": {
       "name": "كفر ايفون 16 برو Alot ماج سيف لون بني حماية مميزة",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -25959,7 +25965,7 @@
     },
     "1383968792": {
       "name": "قاعدة تثبيت جوال راف باور في السيارة - تصميم أنيق وعالي الجودة",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -26252,7 +26258,7 @@
       "regular_price": 1799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -27005,7 +27011,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط يد",
       "categories": [
         "شنط يد",
@@ -27518,7 +27524,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -30461,7 +30467,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -31110,9 +31116,9 @@
     },
     "289513086": {
       "name": "شنطة يد Alot جلد مقاس 11.5*11*21 سم - ازرق ورمادي",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -31120,7 +31126,8 @@
         "شنط ومحافظ",
         "شنط يد",
         "عرض alot",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-11-5*11*21-سم-ازرق-ورمادي/p289513086"
     },
@@ -31130,7 +31137,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -31302,9 +31309,9 @@
     },
     "311781813": {
       "name": "كفر ايباد الجيل العاشر 10.9 انش Alot لون اسود حماية",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -32806,9 +32813,9 @@
     },
     "568666331": {
       "name": "كفر ايفون 17 برو ماكس Alot ماج سيف لون بني حماية",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -33193,16 +33200,17 @@
     },
     "648411012": {
       "name": "تسوق شنطة لاب توب Alot كبيرة بسعة 22.5 لتر - تصميم عصري باللون الأسود",
-      "price": 169.0,
+      "price": 149.01,
       "regular_price": 169.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنطة ظهر",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-alot-كبيرة-للابتوب-بسعة-22-5-لتر-اسود/p648411012"
     },
@@ -33271,7 +33279,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -33947,9 +33955,9 @@
     },
     "786260255": {
       "name": "كفر ايفون 17 برو Alot ماج سيف لون بني حماية متينة",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -34232,9 +34240,9 @@
     },
     "834678330": {
       "name": "شنطة يد جلد Alot مقاومة للماء لون رمادي انيقة وعملية",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 79.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -34633,7 +34641,7 @@
       "regular_price": 2899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -34658,9 +34666,9 @@
     },
     "903530352": {
       "name": "تسوق كفر حماية Alot نوبل جلد ماج سيف مع إطار معدني للايفون - كحلي",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
@@ -34771,16 +34779,17 @@
     },
     "921139220": {
       "name": "تسوق شنطة ظهر Alot كبيرة بسعة 18 لتر للابتوب لون أسود بأفضل سعر",
-      "price": 149.01,
+      "price": 129.0,
       "regular_price": 149.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنطة ظهر",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-alot-كبيرة-للابتوب-بسعة-18-لتر-اسود/p921139220"
     },
@@ -35323,9 +35332,9 @@
     },
     "1025899612": {
       "name": "تسوق شنطة Alot جلد فاخر بسعة 1 لتر مع حزام خلفي - لون أخضر مميز",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -37175,9 +37184,9 @@
     },
     "1350581459": {
       "name": "كفر ايفون 16 برو ماكس Alot ماج سيف لون اسود حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -37251,7 +37260,7 @@
     },
     "1365036327": {
       "name": "تسوق شاحن جداري راف باور 45 واط مع 2 منفذ تايب سي و3 منافذ طاقة",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37416,7 +37425,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -37475,7 +37484,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -38269,7 +38278,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -39609,7 +39618,7 @@
       "regular_price": 13299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -41989,7 +41998,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ميداليات مفاتيح",
       "categories": [
         "ميداليات مفاتيح",
@@ -42377,9 +42386,9 @@
     },
     "289880357": {
       "name": "اشتري كفر حماية Alot كاولوت اريستو ماج سيف مع ستاند للايفون - وردي",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
@@ -42593,7 +42602,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -42651,9 +42660,9 @@
     },
     "327332638": {
       "name": "شنظة ظهر Alot جلد - اخضر  وبيج",
-      "price": 169.0,
+      "price": 159.0,
       "regular_price": 169.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -43494,7 +43503,7 @@
     },
     "470104039": {
       "name": "تسوق بطارية راف باور 20 واط بسعة 10000 ملي أمبير",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44264,9 +44273,9 @@
     },
     "604584247": {
       "name": "كفر ايفون 15 برو Alot ماج سيف لون اسود حماية ممتازة",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -44383,9 +44392,9 @@
     },
     "627705294": {
       "name": "شنظة كتف Alot كروس بودي - ازرق ورمادي",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -45119,7 +45128,7 @@
     },
     "753957580": {
       "name": "تسوق بطارية راف باور 20000 ملي أمبير بقوة 20 واط - طاقة مميزة!",
-      "price": 149.01,
+      "price": 138.99,
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45306,7 +45315,7 @@
     },
     "790045472": {
       "name": "سلكين راف باور تايب سي الى تايب سي 1 متر + 2 متر - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45379,9 +45388,9 @@
     },
     "804793177": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو ماكس - اسود",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -46107,9 +46116,9 @@
     },
     "928392704": {
       "name": "كفر ايفون 15 برو ماكس Alot ماج سيف لون رمادي حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -46118,7 +46127,8 @@
         "كفرات وحماية الشاشة",
         "اكسسوارات ايفون 15",
         "كفرات ايفون 15 برو ماكس",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كفر-حماية-alot-ماج-سيف-للايفون-15-برو-ماكس-رمادي/p928392704"
     },
@@ -46555,9 +46565,9 @@
     },
     "1005057296": {
       "name": "شنطة يد Alot جلد مقاس 11.5*11*21 سم - بيج واخضر",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -46565,7 +46575,8 @@
         "شنط ومحافظ",
         "شنط يد",
         "عرض alot",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-11-5*11*21-سم-بيج-واخضر/p1005057296"
     },
@@ -47325,7 +47336,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -47396,7 +47407,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -49170,7 +49181,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -49300,7 +49311,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -50413,7 +50424,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -50545,7 +50556,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -50634,9 +50645,9 @@
     },
     "1692302422": {
       "name": "تسوق كفر حماية Alot نوبل جلد ماج سيف مع إطار معدني للايفون - أسود",
-      "price": 99.0,
+      "price": 49.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -51025,16 +51036,17 @@
     },
     "1752155958": {
       "name": "تسوق شنطة ظهر Alot كبيرة بسعة 20.5 لتر للابتوب - اسود بأسعار مميزة",
-      "price": 159.0,
+      "price": 129.0,
       "regular_price": 159.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنطة ظهر",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-ظهر-alot-كبيرة-للابتوب-بسعة-20-5-لتر-اسود/p1752155958"
     },
@@ -51970,9 +51982,9 @@
     },
     "1948860731": {
       "name": "شنطة يد جلد Alot مقاس 1 لتر لون رمادي انيقة وعملية",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -52384,7 +52396,7 @@
     },
     "2035119659": {
       "name": "سلكين راف باور تايب سي الى تايب سي 1 متر + 2 متر - ابيض",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52614,7 +52626,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -52761,9 +52773,9 @@
     },
     "2096481236": {
       "name": "شنظة كتف Alot كروس بودي - اخضر وبيج",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -53097,7 +53109,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -53550,7 +53562,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -53865,16 +53877,17 @@
     },
     "337024533": {
       "name": "كفر ايباد 10.9 انش Alot فليكس رايز ماج سيف مع ستاند - رمادي",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
         "ملحقات الايباد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كفر-ايباد-10-9-انش-alot-فليكس-رايز-ماج-سيف-مع-ستاند-رمادي/p337024533"
     },
@@ -53981,9 +53994,9 @@
     },
     "365663599": {
       "name": "شنطة يد جلد Alot مقاس 1 لتر لون ازرق انيقة وعملية",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 109.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -55202,9 +55215,9 @@
     },
     "560903569": {
       "name": "كفر ايباد الجيل العاشر 10.9 انش Alot لون بنفسجي حماية",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات ايباد",
@@ -55512,9 +55525,9 @@
     },
     "615520555": {
       "name": "كفر ايفون 17 برو ماكس Alot ماج سيف لون اسود حماية",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -55551,7 +55564,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -55700,7 +55713,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة"
@@ -55709,7 +55722,7 @@
     },
     "652218062": {
       "name": "سماعة اذن راف باور لاسلكية - اسود",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -55864,7 +55877,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -56587,9 +56600,9 @@
     },
     "807808403": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو ماكس - بني",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -56749,9 +56762,9 @@
     },
     "837538668": {
       "name": "كفر حماية Alot نوبل للايفون 17 برو - اسود",
-      "price": 119.0,
+      "price": 89.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
@@ -57949,9 +57962,9 @@
     },
     "104164628": {
       "name": "كفر ايفون 17 برو ماكس Alot ماج سيف لون برتقالي حماية",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -58377,7 +58390,7 @@
     },
     "1114341106": {
       "name": "مكبر صوت راف باور بقوة 60 واط مقاوم للماء - اسود",
-      "price": 209.0,
+      "price": 199.0,
       "regular_price": 369.0,
       "on_offer": true,
       "currency": "SAR",
@@ -58599,7 +58612,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -58710,9 +58723,9 @@
     },
     "1166945821": {
       "name": "كفر ايفون 17 برو ماكس Alot ماج سيف لون فضي حماية",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -59346,7 +59359,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -61907,7 +61920,7 @@
     },
     "173647778": {
       "name": "سماعات راف باور تايب سي - اسود تسوق اونلاين في السعودية",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -61938,16 +61951,17 @@
     },
     "1740368036": {
       "name": "تسوق شنطة Alot الكبيرة بسعة 1.5 لتر باللون الرمادي بأسعار مميزة",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
         "شنط يد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/شنطة-alot-كبيرة-بسعة-1-5-لتر-رمادي/p1740368036"
     },
@@ -62569,9 +62583,9 @@
     },
     "1867186328": {
       "name": "كفر ايفون 17 برو Alot ماج سيف لون اسود حماية متينة",
-      "price": 129.0,
+      "price": 89.0,
       "regular_price": 129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -63331,9 +63345,9 @@
     },
     "1992204998": {
       "name": "كفر ايفون 16 برو Alot ماج سيف لون اسود حماية مميزة",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -64248,7 +64262,7 @@
     },
     "2144076932": {
       "name": "سلك راف باور بقوة 60 واط تايب سي الى تايب سي بطول 1 متر - برتقالي",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64431,7 +64445,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -67525,9 +67539,9 @@
     },
     "747505104": {
       "name": "شنطة يد جلد Alot مقاومة للماء لون بني انيقة وعملية",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 79.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -67615,9 +67629,9 @@
     },
     "769392667": {
       "name": "تسوق شنطة Alot جلد فاخر بسعة 1 لتر مع حزام خلفي - بني بأسعار مميزة",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -68724,7 +68738,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -68735,9 +68749,9 @@
     },
     "976192108": {
       "name": "كفر ايفون 15 برو ماكس Alot ماج سيف لون اسود حماية",
-      "price": 99.0,
+      "price": 59.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -68746,7 +68760,8 @@
         "كفرات وحماية الشاشة",
         "اكسسوارات ايفون 15",
         "كفرات ايفون 15 برو ماكس",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض العودة للمدارس"
       ],
       "url": "https://mokab.com/كفر-حماية-alot-ماج-سيف-للايفون-15-برو-ماكس-اسود/p976192108"
     },
