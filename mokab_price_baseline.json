@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:27:56.842142+00:00",
+  "generated_at": "2026-08-23T04:44:11.829925+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -855,7 +855,7 @@
     },
     "1003370798": {
       "name": "تسوق بطارية انكر 10000 ملي أمبير 30 واط مع سلك تايب سي",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -3943,7 +3943,7 @@
     },
     "1557399673": {
       "name": "تسوق بطارية راف باور ميني 5000 ملي أمبير وشاحن تايب سي 20 واط",
-      "price": 69.0,
+      "price": 79.01,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4063,7 +4063,7 @@
     },
     "1576400052": {
       "name": "تسوق بطارية AceFast M4 بسعة 20000 ملي أمبير مع شحن سريع",
-      "price": 159.0,
+      "price": 179.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -4072,8 +4072,7 @@
       "categories": [
         "الشواحن والمنصات",
         "بطارية متنقلة",
-        "عروض مكعب",
-        "عروض العودة للمدارس"
+        "عروض مكعب"
       ],
       "url": "https://mokab.com/بطارية-acefast-m4-بقوة-67-واط-بسعة-20000-ملي-امبير-منفذين-تايب-سي-ومنفذ-يو-اس-بي-مع-سلك-تايب-سي-اسود/p1576400052"
     },
@@ -5620,7 +5619,7 @@
     },
     "1835387142": {
       "name": "سلك AceFast C20-03 تايب سي الى تايب سي",
-      "price": 9.0,
+      "price": 19.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -6257,7 +6256,7 @@
     },
     "1944903960": {
       "name": "سلك AceFast C20-01 تايب سي الى تايب سي و لايتنينق",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7321,16 +7320,15 @@
     },
     "2108154663": {
       "name": "سماعة راس هايلو S30 لاسلكية لون ابيض تصميم مريح وانيق",
-      "price": 119.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
-        "سماعات",
-        "عروض العودة للمدارس"
+        "سماعات"
       ],
       "url": "https://mokab.com/سماعة-راس-هايلو-s30-ابيض/p2108154663"
     },
@@ -8010,7 +8008,7 @@
     },
     "284497003": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير ازرق غامق",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10934,7 +10932,7 @@
     },
     "77966932": {
       "name": "تسوق ستاند بيسوس للجوال والتابلت باللون الوردي - تصميم مميز!",
-      "price": 139.0,
+      "price": 149.01,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12974,7 +12972,7 @@
     },
     "1123876586": {
       "name": "تسوق كفر كيبورد مينيمال للايباد 11 باللون الأسود بأفضل الأسعار",
-      "price": 149.01,
+      "price": 179.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13524,7 +13522,7 @@
     },
     "1219848557": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير سلك مدمج ذهبي",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13539,7 +13537,7 @@
     },
     "1222764689": {
       "name": "سلك انكر باور لاين فلو تايب سي الى تايب سي 1.8 م - أسود",
-      "price": 29.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13997,7 +13995,7 @@
     },
     "1295980031": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث - وردي بأفضل الأسعار الآن!",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15601,7 +15599,7 @@
     },
     "157296726": {
       "name": "شنطة لابتوب يونيك قبرص مقاومة للماء مقاس 13-14 بوصة احمر الشروق",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15649,7 +15647,7 @@
     },
     "1578186301": {
       "name": "شاحن لاسلكي انكر مغناطيسي نحيف بسعة 5000 ملي امبير - ابيض",
-      "price": 179.0,
+      "price": 199.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16529,9 +16527,9 @@
     },
     "1719022320": {
       "name": "سماعة راس هايلو S30 لاسلكية لون اسود تصميم مريح وانيق",
-      "price": 119.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -16868,7 +16866,7 @@
     },
     "1775427331": {
       "name": "اشتر حافظة سوائل ستانلس ستيل ماج سيف أخضر ستايل وراحة",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17579,7 +17577,7 @@
     },
     "1903572320": {
       "name": "تسوق ستيكر زجاجي AmazingThing مخصص للايباد اير 13 (M3) بجودة عالية",
-      "price": 49.0,
+      "price": 59.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -18414,7 +18412,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -18737,7 +18735,7 @@
     },
     "2092145116": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - تيتانيوم",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -19381,7 +19379,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -19711,7 +19709,7 @@
     },
     "313479283": {
       "name": "تسوق بطارية انكر زولا 30 واط بسعة 10000 ملي أمبير مع سلك مدمج - أبيض",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20071,7 +20069,7 @@
     },
     "371696178": {
       "name": "تسوق سلك JODA نايلون تايب سي بقوة 60 واط بطول 1 متر - وردي في السعودية",
-      "price": 19.0,
+      "price": 25.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20609,7 +20607,7 @@
     },
     "459014585": {
       "name": "بطارية انكر 335 باوركور بقوة 20 واط وسعة 20000 ملي أمبير",
-      "price": 69.0,
+      "price": 89.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20685,7 +20683,7 @@
     },
     "482713835": {
       "name": "سوار ساعه ابل نايلون مقاس45/46/49 مم من AmazingThing- ابيض وبنفسجي",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20980,7 +20978,7 @@
     },
     "525673455": {
       "name": "مروحة تبريد للجوال مغناطيسية مع شاشة ليد وقبضة قابلة للإزالة",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -21187,7 +21185,7 @@
     },
     "551991164": {
       "name": "سماعة اذن لاسلكية انكر U2I ساوندكور بجودة عالية - أسود",
-      "price": 45.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21219,7 +21217,7 @@
     },
     "556672581": {
       "name": "سماعة اذن جي بي ال تون 305C تايب سي - اسود",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22297,7 +22295,7 @@
     },
     "748520699": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - أزرق",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22940,7 +22938,7 @@
     },
     "866522153": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - برتقالي",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23030,9 +23028,9 @@
     },
     "889806231": {
       "name": "سلك راف باور تايب سي الى تايب سي بطول 30 سم - اسود",
-      "price": 9.0,
+      "price": 19.0,
       "regular_price": 19.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "وصلات وكيابل",
@@ -23748,7 +23746,7 @@
     },
     "1009574335": {
       "name": "مبخرة الكترونية فوح الاصدار الثاني لون اسود تصميم انيق",
-      "price": 149.01,
+      "price": 229.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -25338,7 +25336,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -25634,7 +25632,7 @@
     },
     "1323440143": {
       "name": "باور بانك انكر زولا 10000mAh بسلك مدمج - أبيض",
-      "price": 149.01,
+      "price": 179.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -26227,7 +26225,7 @@
     },
     "1427855363": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث - جودة صوت عالية وأداء ممتاز",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27012,7 +27010,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط يد",
       "categories": [
         "شنط يد",
@@ -27329,7 +27327,7 @@
     },
     "161377525": {
       "name": "تسوق سوار ساعة ابل يونيك اسبين ديزاينير اونلاين في السعودية",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -27811,7 +27809,7 @@
     },
     "1683455040": {
       "name": "تسوق حافظة سوائل دريب ستانلس ستيل مقاومة للصداء - أبيض مع ماج سيف",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28070,7 +28068,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -29026,7 +29024,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -29538,7 +29536,7 @@
     },
     "1970843651": {
       "name": "تسوق ستيكر زجاجي خصوصية AmazingThing للايباد اير 13 (M3) بأفضل سعر",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -29845,7 +29843,7 @@
     },
     "2020250369": {
       "name": "استكشف حافظة سوائل ستانلس ستيل ماج سيف وردي ستايل متين",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30142,7 +30140,7 @@
     },
     "206833895": {
       "name": "افضل بطارية راف باور 10000 مل امبير 20 واط نحيفة",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30627,7 +30625,7 @@
     },
     "2137373089": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث الأصلية - لون أسود مميز",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32192,7 +32190,7 @@
     },
     "46471516": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير سلك مدمج اسود",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -33407,7 +33405,7 @@
     },
     "684394097": {
       "name": "بيسوس حامل معدني ثنائي المحور قابل للطي - رمادي",
-      "price": 99.0,
+      "price": 109.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34516,7 +34514,7 @@
     },
     "877091552": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث الأزرق بأفضل الأسعار الآن!",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -35470,7 +35468,7 @@
     },
     "1050711999": {
       "name": "شاحن لاسلكي انكر مغناطيسي 10000 ملي امبير 30 واط ازرق",
-      "price": 149.01,
+      "price": 169.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -36019,7 +36017,7 @@
     },
     "1147544091": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - أسود",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -36042,8 +36040,7 @@
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
-        "سوار الساعة الذكية",
-        "عروض العودة للمدارس"
+        "سوار الساعة الذكية"
       ],
       "url": "https://mokab.com/سوار-جلد-amazingthing-لساعة-ابل-مقاس-45-46-49-مم/p1150330959"
     },
@@ -36623,7 +36620,7 @@
     },
     "1254813044": {
       "name": "حماية زجاجية من AmazingThing للآيباد برو 11 إنش - تسوق اونلاين",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37364,7 +37361,7 @@
     },
     "1381714998": {
       "name": "تسوق ستاند بيسوس للجوال والتابلت - تصميم أنيق ولون أبيض",
-      "price": 139.0,
+      "price": 149.01,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37921,7 +37918,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -38112,7 +38109,7 @@
     },
     "151013587": {
       "name": "تسوق حافظة سوائل دريب ستانلس ستيل مقاومة للصدأ - ماج سيف أسود",
-      "price": 49.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -38289,7 +38286,7 @@
     },
     "1543884366": {
       "name": "تسوق سلك نايلون تايب سي بقدرة 60 واط بطول 1 متر - أسود من JODA",
-      "price": 19.0,
+      "price": 25.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39705,7 +39702,7 @@
     },
     "1763563311": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - بنفسجي",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41076,7 +41073,7 @@
     },
     "1997373269": {
       "name": "تسوق بطارية انكر زولا 30 واط بسعة 10000 ملي أمبير مع كابل مدمج - أسود",
-      "price": 149.01,
+      "price": 179.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41777,7 +41774,7 @@
     },
     "210729227": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير 22.5 واط برتقالي",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -42525,7 +42522,7 @@
     },
     "308079872": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - تيتانيوم أزرق",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43313,7 +43310,7 @@
     },
     "435854141": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير ازرق فاتح",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44305,7 +44302,7 @@
     },
     "609854217": {
       "name": "شاحن لاسلكي انكر مغناطيسي نحيف بسعة 5000 ملي امبير - اسود",
-      "price": 179.0,
+      "price": 199.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45085,7 +45082,7 @@
     },
     "745682716": {
       "name": "تسوق سماعة اذن جي بي ال تون 305C تايب سي - جودة صوت عالية وأداء ممتاز",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46153,7 +46150,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -47493,7 +47490,7 @@
     },
     "1152859071": {
       "name": "سماعة اذن جي بي ال تون 305C تايب سي - ازرق",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47869,7 +47866,7 @@
     },
     "1219707302": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير سلك مدمج رمادي",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -48820,7 +48817,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -49619,7 +49616,7 @@
     },
     "1529923041": {
       "name": "سلك انكر باور لاين فلو تايب سي الى تايب سي 1.8 م - ابيض",
-      "price": 29.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51022,7 +51019,7 @@
     },
     "1750581973": {
       "name": "سوار ساعه ابل نايلون مقاس45/46/49 مم من AmazingThing - اسود ورمادي",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51030,8 +51027,7 @@
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
-        "سوار الساعة الذكية",
-        "عروض العودة للمدارس"
+        "سوار الساعة الذكية"
       ],
       "url": "https://mokab.com/سوار-نايلون-amazingthing-لساعة-ابل-مقاس45-46-49-مم-اسود-ورمادي/p1750581973"
     },
@@ -54069,7 +54065,7 @@
     },
     "379878178": {
       "name": "قلم ايباد دريب ستايلس لون ابيض دقة عالية في الكتابة",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54832,7 +54828,7 @@
     },
     "503480893": {
       "name": "بطارية كبسولة AceFast M9 بقوة 20 واط بسعة 5000 ملي امبير - اسود",
-      "price": 49.0,
+      "price": 59.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54841,8 +54837,7 @@
       "categories": [
         "الشواحن والمنصات",
         "بطارية متنقلة",
-        "عروض مكعب",
-        "عروض العودة للمدارس"
+        "عروض مكعب"
       ],
       "url": "https://mokab.com/بطارية-كبسولة-acefast-m9-بقوة-20-واط-بسعة-5000-ملي-امبير-اسود/p503480893"
     },
@@ -54949,7 +54944,7 @@
     },
     "52382650": {
       "name": "استكشف حافظة سوائل ستانلس ستيل ماج سيف برتقالي ستايل وعزل",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55115,7 +55110,7 @@
     },
     "547126621": {
       "name": "تسوق بطارية انكر زولا 30 واط بسعة 10000 ملي أمبير مع سلك تايب سي -",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55565,7 +55560,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -56118,7 +56113,7 @@
     },
     "720651241": {
       "name": "ستاند جوال وآيباد مكتبي معدني صلب من بيسوس - أسود",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -57433,7 +57428,7 @@
     },
     "943016640": {
       "name": "ستاند جوال دريب مع مرآة واضاءة ليد قابلة للشحن اسود",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -57549,7 +57544,7 @@
     },
     "961017622": {
       "name": "تسوق سلك JODA نايلون 60 واط تايب سي بطول 1 متر - أبيض بجودة عالية",
-      "price": 19.0,
+      "price": 25.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -57701,7 +57696,7 @@
     },
     "993536525": {
       "name": "كفر حماية تيتان من AmazingThing للايباد برو 11 انش - تسوق اونلاين",
-      "price": 79.01,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -58913,7 +58908,7 @@
     },
     "1198554605": {
       "name": "اشتر حافظة سوائل ستانلس ستيل ماج سيف بنفسجي عزل ممتاز",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59015,7 +59010,7 @@
     },
     "1217627118": {
       "name": "تسوق سوار ساعة ابل مقاس 45/44/42 مم - رمادي بأفضل سعر في السعودية",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -59384,7 +59379,7 @@
     },
     "127256437": {
       "name": "تسوق سلك JODA نايلون 60 واط تايب سي إلى تايب سي 1 متر - أخضر بأسعار",
-      "price": 19.0,
+      "price": 25.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59850,7 +59845,7 @@
     },
     "1357083020": {
       "name": "مبخرة الكترونية فوح الاصدار الثاني لون رمادي تصميم انيق",
-      "price": 149.01,
+      "price": 229.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61159,7 +61154,7 @@
     },
     "1603471684": {
       "name": "سماعة اذن جي بي ال تون 305C تايب سي - احمر",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -62539,7 +62534,7 @@
     },
     "1860814921": {
       "name": "بطارية متنقلة JODA Halo 10 سعة 10000 ملي امبير سلك مدمج وردي",
-      "price": 79.01,
+      "price": 89.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63013,7 +63008,7 @@
     },
     "194260416": {
       "name": "بطارية JODA MagTack بقوة 35 واط وسلك مدمج - أخضر",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63626,8 +63621,8 @@
         "الساعات الذكية واكسسواراتها",
         "كفرات الساعة الذكية",
         "اوتلت مكعب",
-        "منتجات بـ 5 ريال",
-        "عروض العودة للمدارس"
+        "عروض مكعب",
+        "منتجات بـ 5 ريال"
       ],
       "url": "https://mokab.com/كفر-حماية-شاشة-مور-بلس-لساعة-ابل/p2037506778"
     },
@@ -63834,7 +63829,7 @@
     },
     "2074525257": {
       "name": "حقيبة ظهر كينجسون نحيفة - اسود",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64880,7 +64875,7 @@
     },
     "307337755": {
       "name": "اشتري بطارية AceFast 30 واط بسعة 10000 ملي أمبير مع سلك مدمج - أسود",
-      "price": 69.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64889,8 +64884,7 @@
       "categories": [
         "الشواحن والمنصات",
         "بطارية متنقلة",
-        "عروض مكعب",
-        "عروض العودة للمدارس"
+        "عروض مكعب"
       ],
       "url": "https://mokab.com/بطارية-acefast-بقوة-30-واط-بسعة-10000-ملي-امبير-بمنفذ-تايب-سي-ومنفذ-يو-اس-بي-مع-سلك-مدمج-تايب-س/p307337755"
     },
@@ -65103,7 +65097,7 @@
     },
     "338988925": {
       "name": "ساعة كوسبت تانك S2 GPS مقاس 34 مم - اسود",
-      "price": 299.0,
+      "price": 319.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -65454,7 +65448,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -65751,7 +65745,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -66907,7 +66901,7 @@
     },
     "640131299": {
       "name": "سماعة راس راف باور - اسود",
-      "price": 109.0,
+      "price": 119.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68244,7 +68238,7 @@
     },
     "892178866": {
       "name": "تسوق سماعة جي بي ال تون 770NC بلوتوث - تجربة صوتية مميزة",
-      "price": 299.0,
+      "price": 339.0,
       "regular_price": 449.01,
       "on_offer": true,
       "currency": "SAR",
