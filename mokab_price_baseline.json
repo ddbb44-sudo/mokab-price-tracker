@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:05:15.513880+00:00",
+  "generated_at": "2026-09-01T09:13:34.093950+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -336,9 +336,9 @@
     },
     "1721930110": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3 - ازرق",
-      "price": 1399.0,
+      "price": 1999.0,
       "regular_price": 1999.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -351,9 +351,9 @@
     },
     "107265390": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - فضي",
-      "price": 2999.0,
+      "price": 3799.0,
       "regular_price": 3799.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -420,9 +420,9 @@
     },
     "1732960643": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3S - وردي",
-      "price": 1599.01,
+      "price": 2499.0,
       "regular_price": 2499.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -450,9 +450,9 @@
     },
     "1392291619": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - وردي",
-      "price": 1999.0,
+      "price": 2999.0,
       "regular_price": 2999.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -480,9 +480,9 @@
     },
     "1861968014": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3S - وردي",
-      "price": 2199.0,
+      "price": 3499.0,
       "regular_price": 3499.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -503,9 +503,9 @@
     },
     "974103055": {
       "name": "داش كام بوتسلاب G980H أمامية 3K وداخلية وخلفية وذاكرة",
-      "price": 799.0,
+      "price": 839.01,
       "regular_price": 839.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -1364,7 +1364,7 @@
       "regular_price": 1299.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -6751,7 +6751,7 @@
       "regular_price": 119.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -9650,7 +9650,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -11321,9 +11321,9 @@
     },
     "847029197": {
       "name": "داش كام بوتسلاب G980H أمامية 4K و3 كاميرات مع ذاكرة",
-      "price": 699.0,
+      "price": 789.0,
       "regular_price": 789.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -12346,7 +12346,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -15570,7 +15570,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18838,9 +18838,9 @@
     },
     "210824969": {
       "name": "داش كام بوتسلاب G980H Pro أمامية 4K وكاميرا خلفية 2K",
-      "price": 579.0,
+      "price": 599.0,
       "regular_price": 599.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -28622,7 +28622,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33316,7 +33316,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -37679,7 +37679,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية"
@@ -38232,7 +38232,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -42556,7 +42556,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -45031,10 +45031,9 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
-      "category": "كفرات الأجهزة",
+      "availability": "out of stock",
+      "category": "كفرات اصدارات ايفون 11 - ايفون 12",
       "categories": [
-        "كفرات الأجهزة",
         "كفرات اصدارات ايفون 11 - ايفون 12"
       ],
       "url": "https://mokab.com/ideal-cover-للايفون-12-12-برو-رخام-أبيض-ذهبي/p75628364"
@@ -48509,7 +48508,7 @@
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -63069,7 +63068,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -63341,7 +63340,7 @@
       "regular_price": 3999.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -67137,7 +67136,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -68843,8 +68842,8 @@
     }
   },
   "coverage": {
-    "scanned": 4603,
-    "gone": 396,
+    "scanned": 4596,
+    "gone": 403,
     "failed": 0,
     "percent": 100.0
   },
