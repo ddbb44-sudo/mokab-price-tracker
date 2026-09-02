@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:13:34.093950+00:00",
+  "generated_at": "2026-09-02T08:47:11.387518+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -900,7 +900,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -2196,7 +2196,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -2360,7 +2360,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -7113,7 +7113,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -8179,9 +8179,9 @@
     },
     "307471722": {
       "name": "تسوق ايفون 17 برو ماكس بسعة 256 GB - برتقالي كوني",
-      "price": 5499.0,
+      "price": 5699.0,
       "regular_price": 5699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -9559,7 +9559,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -9772,7 +9772,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ميداليات مفاتيح",
       "categories": [
         "ميداليات مفاتيح"
@@ -10915,7 +10915,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -11263,7 +11263,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -13486,11 +13486,11 @@
     },
     "1214006161": {
       "name": "كاميرا dji action 6 Osmo ادفنشر كومبو تصوير احترافي",
-      "price": 2219.01,
+      "price": 1989.01,
       "regular_price": 2219.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -14350,7 +14350,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -17303,7 +17303,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -18015,7 +18015,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -19347,7 +19347,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20112,7 +20112,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -20517,7 +20517,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -21309,9 +21309,9 @@
     },
     "589100750": {
       "name": "اشتر كاميرا DJI اوسمو 360 ستاندرد كومبو تصوير بجودة عالية",
-      "price": 1990.01,
+      "price": 1689.01,
       "regular_price": 1990.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21323,9 +21323,9 @@
     },
     "594219785": {
       "name": "اشتر كاميرا DJI اوسمو 360 ادفنشر كومبو تصوير شامل بجودة",
-      "price": 2689.0,
+      "price": 2289.01,
       "regular_price": 2689.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21960,7 +21960,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -25120,7 +25120,7 @@
       "regular_price": 1999.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -25268,7 +25268,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -27216,7 +27216,7 @@
       "regular_price": 359.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -27994,7 +27994,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -29155,7 +29155,7 @@
       "regular_price": 1049.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -30929,7 +30929,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32687,9 +32687,9 @@
     },
     "558018253": {
       "name": "ايفون ١٧ برو ماكس 512 - برتقالي كوني",
-      "price": 5799.0,
+      "price": 6199.01,
       "regular_price": 6199.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -36067,9 +36067,9 @@
     },
     "1178088187": {
       "name": "جوال ايفون 17 برو ماكس برتقالي بسعة 1 TB",
-      "price": 7299.0,
+      "price": 7699.0,
       "regular_price": 7699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -36407,7 +36407,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -36553,7 +36553,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -37411,7 +37411,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة"
@@ -37679,7 +37679,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية"
@@ -38172,7 +38172,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -38468,7 +38468,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -41619,9 +41619,9 @@
     },
     "2101385868": {
       "name": "تسوق ايفون 17 برو ماكس بسعة 512 GB - برتقالي كوني",
-      "price": 6199.01,
+      "price": 6699.0,
       "regular_price": 6699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -43398,7 +43398,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -46096,7 +46096,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -46449,7 +46449,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -47258,7 +47258,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -48665,9 +48665,9 @@
     },
     "1375882485": {
       "name": "استمتع ميكروفون DJI 3 لاسلكي إرسال واستقبال مع علبة شحن",
-      "price": 1249.0,
+      "price": 1059.0,
       "regular_price": 1249.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -49272,9 +49272,9 @@
     },
     "1498005732": {
       "name": "ايفون 17 برو 256 برتقالي بسعة 256GB",
-      "price": 4999.0,
+      "price": 5199.0,
       "regular_price": 5199.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -49338,7 +49338,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -52234,7 +52234,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -54722,7 +54722,7 @@
       "regular_price": 2299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -55158,7 +55158,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -55415,7 +55415,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -55564,7 +55564,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة"
@@ -55928,7 +55928,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -56735,7 +56735,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ميداليات مفاتيح",
       "categories": [
         "ميداليات مفاتيح",
@@ -57338,7 +57338,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -57466,9 +57466,9 @@
     },
     "974067467": {
       "name": "تسوق ايفون 17 برو بسعة 1 TB - برتقالي كوني",
-      "price": 6699.0,
+      "price": 7199.0,
       "regular_price": 7199.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الاجهزة الذكية",
@@ -57651,7 +57651,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -57974,7 +57974,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -59602,7 +59602,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -61184,9 +61184,9 @@
     },
     "1635876569": {
       "name": "اشتر كاميرا DJI اوسمو اكشن 5 برو ادفنشر كومبو تصوير مغامرات",
-      "price": 1929.0,
+      "price": 1759.01,
       "regular_price": 1929.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -63126,7 +63126,7 @@
       "regular_price": 369.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -63283,7 +63283,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -64797,7 +64797,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -64984,7 +64984,7 @@
       "regular_price": 799.05,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -68842,8 +68842,8 @@
     }
   },
   "coverage": {
-    "scanned": 4596,
-    "gone": 403,
+    "scanned": 4591,
+    "gone": 408,
     "failed": 0,
     "percent": 100.0
   },
