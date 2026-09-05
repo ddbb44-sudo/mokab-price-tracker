@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:51:41.060884+00:00",
+  "generated_at": "2026-09-05T08:15:48.094024+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -692,7 +692,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -2709,7 +2709,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -2892,7 +2892,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -3057,7 +3057,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -3291,7 +3291,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -3392,7 +3392,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -4194,7 +4194,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -5524,7 +5524,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -8410,13 +8410,14 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
         "كفرات ايفون 7 - ايفون اكس",
         "اوتلت مكعب",
-        "منتجات بـ 1 ريال"
+        "منتجات بـ 1 ريال",
+        "11 عام"
       ],
       "url": "https://mokab.com/كفر-بت-بلاي-سناب-8-للايفون-7-8-اسود/p337770432"
     },
@@ -8591,7 +8592,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -9261,7 +9262,7 @@
       "regular_price": 2099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -10676,7 +10677,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -13527,7 +13528,7 @@
       "regular_price": 2219.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -13805,7 +13806,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اجهزة التتبع واكسسواراتها",
       "categories": [
         "اجهزة التتبع واكسسواراتها"
@@ -17391,7 +17392,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -19323,7 +19324,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20122,7 +20123,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -21538,7 +21539,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -24115,7 +24116,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -29952,7 +29953,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -30554,7 +30555,7 @@
       "regular_price": 19.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -31982,7 +31983,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -34182,7 +34183,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -36817,7 +36818,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -37763,7 +37764,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -38984,7 +38985,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -40421,7 +40422,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -41319,7 +41320,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -41793,7 +41794,7 @@
       "regular_price": 11399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -43260,7 +43261,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -46509,7 +46510,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -49459,7 +49460,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -51573,7 +51574,7 @@
     },
     "1870910282": {
       "name": "سوار ليبرو (Libro) الذكي لتتبع النشاط - أسود",
-      "price": 169.0,
+      "price": 96.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51581,7 +51582,8 @@
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
-        "اجهزة التتبع واكسسواراتها"
+        "اجهزة التتبع واكسسواراتها",
+        "11 عام"
       ],
       "url": "https://mokab.com/سوارة-تتبع-ذكية-ليبرو-اسود/p1870910282"
     },
@@ -55120,7 +55122,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -58114,7 +58116,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -58683,7 +58685,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -58932,7 +58934,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -60488,7 +60490,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اجهزة التتبع واكسسواراتها",
       "categories": [
         "اجهزة التتبع واكسسواراتها",
@@ -61414,7 +61416,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -62403,7 +62405,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -63790,7 +63792,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -67243,7 +67245,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -68958,7 +68960,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -68974,7 +68976,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -69003,7 +69005,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
