@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:45:23.891285+00:00",
+  "generated_at": "2026-09-12T08:26:38.499602+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -270,7 +270,7 @@
       "regular_price": 669.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -871,7 +871,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -1606,7 +1606,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -2332,7 +2332,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -5188,7 +5188,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -5756,7 +5756,7 @@
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -5916,7 +5916,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -9319,7 +9319,7 @@
     },
     "494129506": {
       "name": "تسوق جهاز بخاخ تعقيم لايفرو لليدين محمول اونلاين في السعودية",
-      "price": 11.01,
+      "price": 19.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -9725,7 +9725,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10288,7 +10288,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10331,7 +10331,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -13529,7 +13529,7 @@
     },
     "1222764689": {
       "name": "سلك انكر باور لاين فلو تايب سي الى تايب سي 1.8 م - أسود",
-      "price": 11.01,
+      "price": 49.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16030,7 +16030,7 @@
       "regular_price": 15.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18412,7 +18412,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -21970,7 +21970,7 @@
     },
     "705117530": {
       "name": "بكج بيسوس للسيارة مع شاحن بيسوس 60 واط وملحقات مميزة",
-      "price": 111.0,
+      "price": 159.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28932,7 +28932,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33402,7 +33402,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -33638,7 +33638,7 @@
     },
     "745541301": {
       "name": "تسوق ستاند جوال راف باور ماج سيف للسيارة - أسود الآن!",
-      "price": 29.0,
+      "price": 79.01,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -36609,7 +36609,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -40419,7 +40419,7 @@
     },
     "1909035872": {
       "name": "لايفرو HOVA مصباح تعقيم محمول باليد - أبيض",
-      "price": 11.01,
+      "price": 19.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -44282,7 +44282,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -45910,7 +45910,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -48709,7 +48709,7 @@
     },
     "1384102505": {
       "name": "تسوق لايفرو HYDRO GO مطهر محمول - ابيض اونلاين في السعودية",
-      "price": 11.01,
+      "price": 19.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49493,7 +49493,7 @@
     },
     "1529923041": {
       "name": "سلك انكر باور لاين فلو تايب سي الى تايب سي 1.8 م - ابيض",
-      "price": 11.01,
+      "price": 49.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50249,7 +50249,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -52218,7 +52218,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -58071,7 +58071,7 @@
     },
     "1094107781": {
       "name": "بطارية انكر نانو بسعة 20 الف ملي امبير بقوة 30 واط بمنفذين USB-Type C",
-      "price": 111.0,
+      "price": 169.0,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67278,7 +67278,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
