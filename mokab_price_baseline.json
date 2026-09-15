@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:38:37.709572+00:00",
+  "generated_at": "2026-09-15T09:05:39.684594+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -728,7 +728,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -1292,7 +1292,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -1547,7 +1547,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -1600,7 +1600,8 @@
         "الأجهزة الإلكترونية",
         "كاميرات السيارة",
         "اكسسوارات السيارة",
-        "داش كام كاميرا السيارة"
+        "داش كام كاميرا السيارة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-سيارة-داش-كام-أمامية-f6-بدقة-1600-بكسل-من-هيك-فيجن-اسود/p112359069"
     },
@@ -2855,16 +2856,18 @@
     },
     "1349898112": {
       "name": "استكشف فوجي فيلم كاميرا انستاكس ميني ايفو ابيض",
-      "price": 899.0,
+      "price": 799.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات"
+        "عرض الكاميرات",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-ابيض/p1349898112"
     },
@@ -4453,9 +4456,9 @@
     },
     "1636006324": {
       "name": "كفر AmazingThing تيتان برو للآيباد الجيل 10 - تسوق اونلاين",
-      "price": 89.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات ايباد",
@@ -7057,7 +7060,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -7277,16 +7280,18 @@
     },
     "2095106547": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 وردي الفورية صور ممتعة",
-      "price": 649.0,
+      "price": 599.0,
       "regular_price": 649.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/طابعة-فوجي-فيلم-ميني-لينك-3-وردي/p2095106547"
     },
@@ -9100,7 +9105,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -9165,7 +9170,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -9209,7 +9214,7 @@
       "regular_price": 209.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -9777,7 +9782,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -9793,7 +9798,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10112,16 +10117,18 @@
     },
     "608377778": {
       "name": "كاميرا فوجي فيلم انستاكس ميني فورية",
-      "price": 899.0,
+      "price": 799.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات"
+        "عرض الكاميرات",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-بني/p608377778"
     },
@@ -11340,7 +11347,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -13573,9 +13580,9 @@
     },
     "1214006161": {
       "name": "كاميرا dji action 6 Osmo ادفنشر كومبو تصوير احترافي",
-      "price": 1989.01,
+      "price": 2219.01,
       "regular_price": 2219.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -14124,7 +14131,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -14252,7 +14259,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -15395,7 +15402,8 @@
         "الأجهزة الإلكترونية",
         "كاميرات السيارة",
         "اكسسوارات السيارة",
-        "داش كام كاميرا السيارة"
+        "داش كام كاميرا السيارة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-سيارة-داش-كام-أمامية-وخلفية-g2-من-هيك-فيجن-اسود/p1527015265"
     },
@@ -16950,7 +16958,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -17162,16 +17170,18 @@
     },
     "181111006": {
       "name": "استكشف مكينة قهوة تركية أرزوم أوكا أبيض ذهبي شكل فاخر",
-      "price": 1129.0,
+      "price": 999.01,
       "regular_price": 1129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ابيض-ذهبي/p181111006"
     },
@@ -17445,7 +17455,8 @@
       "categories": [
         "أجهزة المنزل الذكية",
         "الأجهزة الإلكترونية",
-        "عروض مكعب"
+        "عروض مكعب",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/خلاط-شيك-ان-أرزوم-أوكا-اسود/p1862202013"
     },
@@ -17542,16 +17553,18 @@
     },
     "1878708075": {
       "name": "اشتر مكينة قهوة تركية أوكا أسود فضي قهوة سريعة وكريما",
-      "price": 1129.0,
+      "price": 899.0,
       "regular_price": 1129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-اسود-فضي/p1878708075"
     },
@@ -17793,16 +17806,18 @@
     },
     "192494710": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أسود ذهبي قهوة ثابتة",
-      "price": 1129.0,
+      "price": 999.01,
       "regular_price": 1129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-اسود-ذهبي/p192494710"
     },
@@ -18479,7 +18494,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -19980,7 +19995,7 @@
       "regular_price": 999.01,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -21440,9 +21455,9 @@
     },
     "589100750": {
       "name": "اشتر كاميرا DJI اوسمو 360 ستاندرد كومبو تصوير بجودة عالية",
-      "price": 1689.01,
+      "price": 1990.01,
       "regular_price": 1990.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21454,9 +21469,9 @@
     },
     "594219785": {
       "name": "اشتر كاميرا DJI اوسمو 360 ادفنشر كومبو تصوير شامل بجودة",
-      "price": 2289.01,
+      "price": 2689.0,
       "regular_price": 2689.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21623,9 +21638,9 @@
     },
     "624413522": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12 بنفسجي",
-      "price": 579.0,
+      "price": 529.0,
       "regular_price": 579.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -21633,7 +21648,8 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/علبة-هدايا-كاميرا-فوجي-فيلم-انستاكس-ميني-12-بنفسجي/p624413522"
     },
@@ -21706,7 +21722,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -22856,7 +22872,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -23361,7 +23377,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -23836,7 +23852,7 @@
     },
     "1009574335": {
       "name": "مبخرة الكترونية فوح الاصدار الثاني لون اسود تصميم انيق",
-      "price": 249.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24179,16 +24195,18 @@
     },
     "1069171774": {
       "name": "استكشف مكينة اسبريسو أرزوم أوكا 4 انواع قهوة عملية وسريعة",
-      "price": 899.0,
+      "price": 699.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-الاسبريسو-أرزوم-أوكا-4-انواع-قهوة-اسود-ذهبي/p1069171774"
     },
@@ -24335,9 +24353,9 @@
     },
     "1098197779": {
       "name": "علبة هدايا انستاكس ميني 12 فوجي فيلم",
-      "price": 579.0,
+      "price": 529.0,
       "regular_price": 579.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -26127,7 +26145,8 @@
         "الأجهزة الإلكترونية",
         "كاميرات السيارة",
         "اكسسوارات السيارة",
-        "داش كام كاميرا السيارة"
+        "داش كام كاميرا السيارة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-سيارة-داش-كام-أمامية-c6-بدقة-1600-بكسل-من-هيك-فيجن-اسود/p139729254"
     },
@@ -26259,7 +26278,8 @@
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
-        "بطارية متنقلة"
+        "بطارية متنقلة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/باورستيشن-ايكو-فلو-ريفر-3-ماكس-بلس-eb600-اسود/p141907062"
     },
@@ -26948,9 +26968,9 @@
     },
     "1539940743": {
       "name": "كاميرا وطابعة فوجي فيلم انستاكس ميني فورية",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -27878,7 +27898,8 @@
       "categories": [
         "وصلات وكيابل",
         "الشواحن والمنصات",
-        "كيبل تايب سي USB Type C"
+        "كيبل تايب سي USB Type C",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سلك-بيلكن-تايب-سي-الى-تايب-سي-1-متر-اسود/p1676064546"
     },
@@ -27917,7 +27938,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -31705,16 +31726,18 @@
     },
     "366414262": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا أبيض فضي قهوة سريعة",
-      "price": 1129.0,
+      "price": 999.01,
       "regular_price": 1129.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ابيض-فضي/p366414262"
     },
@@ -32357,7 +32380,7 @@
       "regular_price": 549.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -32668,7 +32691,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
@@ -33024,7 +33047,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -33714,16 +33737,17 @@
     },
     "721041100": {
       "name": "استكشف مكينة اسبريسو أرزوم أوكا 4 انواع قهوة تحضير سريع",
-      "price": 899.0,
+      "price": 699.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-الاسبريسو-أرزوم-أوكا-4-انواع-قهوة-اسود-فضي/p721041100"
     },
@@ -33976,7 +34000,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -35633,7 +35657,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -36627,7 +36651,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -38066,16 +38090,17 @@
     },
     "1482564621": {
       "name": "اشتر مكينة قهوة تركية أوكا 5 اكواب تحضير سريع وطعم غني",
-      "price": 399.0,
+      "price": 169.0,
       "regular_price": 399.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-بسعة-5-اكواب-تحضير-سريع-80-ثانية/p1482564621"
     },
@@ -38252,7 +38277,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -40089,9 +40114,9 @@
     },
     "1803434402": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أبيض تحكم أسهل وطعم",
-      "price": 1599.01,
+      "price": 1099.0,
       "regular_price": 1599.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -40153,7 +40178,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -40168,7 +40193,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -41038,16 +41063,18 @@
     },
     "1971085461": {
       "name": "استكشف مكينة قهوة تركية أوكا ايليت أسود تحضير سريع",
-      "price": 1599.01,
+      "price": 1099.0,
       "regular_price": 1599.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ايليت-اسود/p1971085461"
     },
@@ -41468,7 +41495,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -43102,7 +43129,7 @@
     },
     "378077342": {
       "name": "استكشف جهاز تتبع دريب Easy Tag بلوتوث تتبع سريع للأغراض",
-      "price": 59.0,
+      "price": 29.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43507,7 +43534,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -44191,7 +44218,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -44560,7 +44587,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -44800,7 +44827,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -45684,7 +45711,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -46555,9 +46582,9 @@
     },
     "973760544": {
       "name": "كاميرا وطابعة ميني ايفو من فوجي فيلم فورية هجينة (روز)",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -47146,11 +47173,12 @@
       "regular_price": 3199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
-        "بطارية متنقلة"
+        "بطارية متنقلة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/باورستيشن-ايكو-فلو-ريفر-2-برو-بقوة-800-واط-اسود/p1077707169"
     },
@@ -47548,7 +47576,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -47605,9 +47633,9 @@
     },
     "114115705": {
       "name": "كفر AmazingThing تيتان برو للايباد اير 5 - رمادي - تسوق اونلاين",
-      "price": 79.01,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات ايباد",
@@ -48963,9 +48991,9 @@
     },
     "1375882485": {
       "name": "استمتع ميكروفون DJI 3 لاسلكي إرسال واستقبال مع علبة شحن",
-      "price": 1059.0,
+      "price": 1249.0,
       "regular_price": 1249.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -49420,7 +49448,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
@@ -50586,7 +50614,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -50775,7 +50803,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -51106,7 +51134,8 @@
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
-        "داش كام كاميرا السيارة"
+        "داش كام كاميرا السيارة",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/داش-كام-ddpai-z60-4k-امامية-وخلفية-4g-gps/p1733929471"
     },
@@ -51715,9 +51744,9 @@
     },
     "1864183714": {
       "name": "كاميرا بني وطابعة Instax Mini Evo الفورية الهجينة",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -52832,16 +52861,18 @@
     },
     "2077228925": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا ريتش برو بلس رغوة أغنى",
-      "price": 679.01,
+      "price": 499.0,
       "regular_price": 679.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ريتش-برو-بلس-نحاسي/p2077228925"
     },
@@ -53363,7 +53394,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -53782,9 +53813,9 @@
     },
     "297445253": {
       "name": "كاميرا فوجي فيلم إنستاكس وايد ايفو هجينة فورية اسود",
-      "price": 1999.0,
+      "price": 1699.0,
       "regular_price": 1999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -55176,7 +55207,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -56963,7 +56994,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -57137,7 +57168,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -60046,7 +60077,7 @@
     },
     "1357083020": {
       "name": "مبخرة الكترونية فوح الاصدار الثاني لون رمادي تصميم انيق",
-      "price": 249.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -60207,7 +60238,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -60535,7 +60566,7 @@
       "regular_price": 1399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -60685,7 +60716,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61329,7 +61360,7 @@
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61553,9 +61584,9 @@
     },
     "1635876569": {
       "name": "اشتر كاميرا DJI اوسمو اكشن 5 برو ادفنشر كومبو تصوير مغامرات",
-      "price": 1759.01,
+      "price": 1929.0,
       "regular_price": 1929.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -61657,16 +61688,18 @@
     },
     "1649864246": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 فورية أخضر ذكريات فورية",
-      "price": 649.0,
+      "price": 599.0,
       "regular_price": 649.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/طابعة-فوجي-فيلم-ميني-لينك-3-اخضر/p1649864246"
     },
@@ -63161,7 +63194,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63286,7 +63319,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65127,9 +65160,9 @@
     },
     "308388411": {
       "name": "كاميرا فوجي انستاكس ميني فورية ليبلاي",
-      "price": 899.0,
+      "price": 799.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -65137,7 +65170,9 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-اخضر/p308388411"
     },
@@ -65662,16 +65697,18 @@
     },
     "394326257": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا ريتش برو بلس رغوة كثيفة",
-      "price": 679.01,
+      "price": 499.0,
       "regular_price": 679.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ريتش-برو-بلس-فضي/p394326257"
     },
@@ -65681,7 +65718,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -65769,7 +65806,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65979,7 +66016,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -66154,9 +66191,9 @@
     },
     "47432712": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 579.0,
+      "price": 529.0,
       "regular_price": 579.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -66164,7 +66201,9 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/علبة-هدايا-كاميرا-فوجي-فيلم-انستاكس-ميني-12-ازرق/p47432712"
     },
@@ -67023,7 +67062,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -67225,16 +67264,18 @@
     },
     "65431952": {
       "name": "اشتر مكينة اسبريسو أرزوم أوكا 6 انواع قهوة طعم باريستا",
-      "price": 2299.0,
+      "price": 1799.0,
       "regular_price": 2299.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-الاسبريسو-أرزوم-أوكا-6-انواع-قهوة-اسود-ذهبي/p65431952"
     },
@@ -68207,7 +68248,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -69232,15 +69273,17 @@
     },
     "882705576": {
       "name": "اشتر مكينة اسبريسو أرزوم أوكا 6 انواع قهوة طعم ثابت",
-      "price": 1099.0,
+      "price": 949.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
-        "أدوات تحضير القهوة"
+        "أدوات تحضير القهوة",
+        "عروض اليوم الوطني",
+        "خصم اضافي 10%"
       ],
       "url": "https://mokab.com/مكينة-تحضير-الاسبريسو-أرزوم-أوكا-6-انواع-قهوة-اسود-ذهبي/p882705576"
     },
@@ -69261,8 +69304,8 @@
     }
   },
   "coverage": {
-    "scanned": 4601,
-    "gone": 398,
+    "scanned": 4598,
+    "gone": 401,
     "failed": 0,
     "percent": 100.0
   },
