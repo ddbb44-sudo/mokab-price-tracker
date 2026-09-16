@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:05:39.684594+00:00",
+  "generated_at": "2026-09-16T09:03:36.702795+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -728,7 +728,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -1423,7 +1423,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ألعاب الفيديو",
       "categories": [
         "ألعاب الفيديو",
@@ -1761,7 +1761,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -1857,7 +1857,7 @@
       "regular_price": 479.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -2518,7 +2518,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -3163,7 +3163,7 @@
     },
     "1405284917": {
       "name": "استكشف شاحن بطاريات جودا هاربو 8 بطاريات ليثيوم شحن منظم",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -3489,7 +3489,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -3872,7 +3872,7 @@
     },
     "1544100758": {
       "name": "كاميرا لومو اوتوماتيكية زجاج كليمنجارو مع 3 عدسات",
-      "price": 699.0,
+      "price": 669.0,
       "regular_price": 849.0,
       "on_offer": true,
       "currency": "SAR",
@@ -3880,7 +3880,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "كاميرات"
+        "كاميرات",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-لومو-اوتوماتيكية-زجاج-كليمنجارو-مع-3-عدسات/p1544100758"
     },
@@ -4113,7 +4114,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -4215,7 +4216,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -5067,7 +5068,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -5229,7 +5230,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -5420,7 +5421,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -6021,7 +6022,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -6491,7 +6492,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -7289,6 +7290,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "عرض الكاميرات",
         "عروض مكعب",
         "عروض اليوم الوطني",
         "خصم اضافي 10%"
@@ -8359,7 +8361,7 @@
     },
     "323050905": {
       "name": "تسوق منصة شحن راف باور 100 واط مع 4 منافذ - لون أسود جذاب",
-      "price": 195.99,
+      "price": 196.01,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9723,7 +9725,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -10276,7 +10278,7 @@
       "regular_price": 1349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -11991,7 +11993,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -13010,7 +13012,7 @@
     },
     "1118846599": {
       "name": "كاميرا لومو اوتوماتيكية مع 5 عدسات الشاطئ الجنوبي",
-      "price": 699.0,
+      "price": 669.0,
       "regular_price": 849.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13018,7 +13020,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "كاميرات"
+        "كاميرات",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-لومو-اوتوماتيكية-مع-5-عدسات-الشاطئ-الجنوبي/p1118846599"
     },
@@ -13753,7 +13756,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -13905,7 +13908,7 @@
     },
     "1264020735": {
       "name": "جالكسي اسود الأصلي بأفضل سعر - هاتف ذكي متميز في السعودية",
-      "price": 3699.0,
+      "price": 3399.0,
       "regular_price": 5399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13913,7 +13916,8 @@
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
-        "جالكسي"
+        "جالكسي",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سامسونج-جالكسي-s25-الترا-بسعة-256-gb-تيتانيوم-اسود/p1264020735"
     },
@@ -19287,7 +19291,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -19655,7 +19659,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20360,7 +20364,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -21042,7 +21046,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -21647,7 +21651,6 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
         "عروض مكعب",
         "خصم اضافي 10%"
       ],
@@ -21929,7 +21932,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15"
@@ -22067,7 +22070,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -22558,7 +22561,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -23110,7 +23113,7 @@
       "regular_price": 1749.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -24361,8 +24364,7 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "كاميرات",
-        "عرض الكاميرات"
+        "كاميرات"
       ],
       "url": "https://mokab.com/علبة-هدايا-كاميرا-فوجي-فيلم-انستاكس-ميني-12-وردي/p1098197779"
     },
@@ -24981,7 +24983,7 @@
       "regular_price": 1249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -26317,7 +26319,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -27204,7 +27206,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -28607,7 +28609,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -28985,7 +28987,7 @@
     },
     "1862322760": {
       "name": "استمتع باور بانك انكر ماج سيف 10000 تايب سي شحن ذكي",
-      "price": 195.99,
+      "price": 196.01,
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
@@ -29095,7 +29097,7 @@
       "regular_price": 2399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -30551,7 +30553,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -31148,7 +31150,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -31384,7 +31386,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -31845,7 +31847,7 @@
     },
     "381798816": {
       "name": "بطارية انكر ماج سيف بسعة 10000 ملي امبير شحن وايرليس بقوة 15 واط",
-      "price": 195.99,
+      "price": 196.01,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32051,7 +32053,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -33417,7 +33419,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -34280,7 +34282,7 @@
     },
     "816077162": {
       "name": "سامسونج جلاكسي اس 25 الترا 256 جيجابايت - تيتانيوم رمادي",
-      "price": 3699.0,
+      "price": 3399.0,
       "regular_price": 5399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34288,7 +34290,8 @@
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
-        "جالكسي"
+        "جالكسي",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سامسونج-جالكسي-s25-الترا-بسعة-256-gb-تيتانيوم-رمادي/p816077162"
     },
@@ -36651,7 +36654,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -37676,7 +37679,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة"
@@ -37944,7 +37947,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية"
@@ -38080,7 +38083,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -38442,7 +38445,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -38578,7 +38581,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38894,7 +38897,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -39710,7 +39713,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -39844,7 +39847,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -40086,7 +40089,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -40178,7 +40181,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -40253,7 +40256,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -40762,7 +40765,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -41940,7 +41943,7 @@
       "regular_price": 649.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -42651,7 +42654,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -43652,7 +43655,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -43906,7 +43909,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -45645,7 +45648,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -47680,7 +47683,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -48646,7 +48649,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -49160,7 +49163,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -49328,7 +49331,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -50176,7 +50179,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -50467,7 +50470,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -51788,7 +51791,7 @@
     },
     "1870910282": {
       "name": "سوار ليبرو (Libro) الذكي لتتبع النشاط - أسود",
-      "price": 169.0,
+      "price": 119.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51796,7 +51799,8 @@
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
-        "اجهزة التتبع واكسسواراتها"
+        "اجهزة التتبع واكسسواراتها",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سوارة-تتبع-ذكية-ليبرو-اسود/p1870910282"
     },
@@ -52471,7 +52475,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -55144,7 +55148,7 @@
     },
     "521622073": {
       "name": "تسوق سماعة اذن بلوتوث ساوندكور ايرو فيت برو - تصميم أنيق وأداء متميز",
-      "price": 195.99,
+      "price": 196.01,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55636,7 +55640,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -55774,7 +55778,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -56196,7 +56200,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -58526,7 +58530,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -58829,7 +58833,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -58916,7 +58920,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -59109,7 +59113,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -59930,7 +59934,7 @@
       "regular_price": 199.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -59944,7 +59948,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -60507,7 +60511,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -61663,7 +61667,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -61697,6 +61701,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "عرض الكاميرات",
         "عروض مكعب",
         "عروض اليوم الوطني",
         "خصم اضافي 10%"
@@ -62019,7 +62024,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -63136,7 +63141,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -64112,7 +64117,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65088,7 +65093,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65251,7 +65256,7 @@
     },
     "320547169": {
       "name": "سوارة تتبع ذكية ليبرو LIB-A150H لمراقبة الصحة بيج",
-      "price": 229.0,
+      "price": 189.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -65259,7 +65264,8 @@
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
-        "الساعات الذكية"
+        "الساعات الذكية",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سوارة-تتبع-ذكية-ليبرو-lib-a150h-لمراقبة-الصحة-بيج/p320547169"
     },
@@ -65806,7 +65812,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -66200,7 +66206,6 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
         "عروض مكعب",
         "عروض اليوم الوطني",
         "خصم اضافي 10%"
@@ -66318,7 +66323,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -66589,7 +66594,7 @@
       "regular_price": 929.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -67449,7 +67454,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -68353,7 +68358,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -69304,8 +69309,8 @@
     }
   },
   "coverage": {
-    "scanned": 4598,
-    "gone": 401,
+    "scanned": 4596,
+    "gone": 403,
     "failed": 0,
     "percent": 100.0
   },
