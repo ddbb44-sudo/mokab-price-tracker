@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:03:36.702795+00:00",
+  "generated_at": "2026-09-17T09:11:49.078519+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -1626,7 +1626,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -1840,7 +1840,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -4027,7 +4027,8 @@
       "categories": [
         "ملحقات الصوت",
         "سماعات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سماعة-اذن-جي-بي-ال-سواندجير-لاسلكية-مقاومة-للماء/p1566787916"
     },
@@ -6539,7 +6540,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -9604,7 +9605,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -9784,7 +9785,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -10123,7 +10124,7 @@
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -10412,7 +10413,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12471,7 +12472,8 @@
       "categories": [
         "ملحقات الصوت",
         "سبيكرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سبيكر-جي-بي-ال-جريب-بلوتوث-صغير-مقاوم-للماء/p101850062"
     },
@@ -13571,7 +13573,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -16025,7 +16027,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -18298,7 +18300,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -18884,7 +18886,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -19411,7 +19413,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -22111,7 +22113,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -24340,7 +24342,7 @@
     },
     "1096099258": {
       "name": "بطارية انكر ماج سيف بسعة 10000 ملي امبير بقوة 15 واط بمنفذ تايب سي",
-      "price": 195.99,
+      "price": 196.01,
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24630,7 +24632,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -24973,7 +24975,8 @@
       "categories": [
         "الشواحن والمنصات",
         "قاعدة - منصة شحن",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/منصة-شحن-انكر-14-في-1-بقوة-160-واط-5-منافذ-تايب-سي-5-منافذ-يو-اس-بي-منفذين-hdmi-منفذ-aux-منفذ/p1189404036"
     },
@@ -27147,7 +27150,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -28930,7 +28933,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -29843,7 +29846,8 @@
         "كفرات ايفون 17 برو",
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-برو-فاليو-ماج-سيف-شفاف/p1995609827"
     },
@@ -30053,7 +30057,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32434,7 +32438,8 @@
         "كفرات ايفون 17 برو ماكس",
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-برو-ماكس-فاليو-جريب-شفاف/p48319120"
     },
@@ -32474,7 +32479,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32509,7 +32514,8 @@
         "اضاءات",
         "اكسسوارات الكاميرا",
         "اضاءة تصوير",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/حلقة-إضاءة-مغناطيسية-لالتقاط-صور-السيلفي-تيلسين-اسود/p499326972"
     },
@@ -33509,7 +33515,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -34538,7 +34544,8 @@
         "كفرات ايفون 17 اير",
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-اير-فاليو-جريب-شفاف/p851795270"
     },
@@ -36226,7 +36233,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37335,7 +37342,7 @@
       "regular_price": 429.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -37679,7 +37686,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة"
@@ -37947,7 +37954,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية"
@@ -40196,7 +40203,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -40256,7 +40263,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -42446,7 +42453,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -42602,7 +42609,8 @@
         "كفرات ايفون 17",
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-فاليو-جريب-شفاف/p29113312"
     },
@@ -43880,7 +43888,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -44148,7 +44156,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اجهزة التتبع واكسسواراتها",
       "categories": [
         "اجهزة التتبع واكسسواراتها"
@@ -44371,7 +44379,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -44830,7 +44838,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -45728,7 +45736,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -46241,7 +46249,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -46350,7 +46358,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -46595,7 +46603,8 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-وطابعة-فوجي-فيلم-إنستاكس-ميني-ايفو-الهجينة-الفورية-روز/p973760544"
     },
@@ -47579,7 +47588,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -48029,7 +48038,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -50892,7 +50901,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -51055,7 +51064,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -51757,7 +51766,8 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-وطابعة-فوجي-فيلم-إنستاكس-ميني-ايفو-الهجينة-الفورية-بني/p1864183714"
     },
@@ -51874,7 +51884,8 @@
       "categories": [
         "معدات التصوير",
         "ملحقات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/جهاز-مساعدة-للتصوير-الفوتوغرافي-ماج-سيف-مع-حزام-لليد-تيلسين-اسود/p1890269924"
     },
@@ -52200,7 +52211,8 @@
       "categories": [
         "شنط ومحافظ",
         "شنط يد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-1-لتر-رمادي/p1948860731"
     },
@@ -52303,7 +52315,8 @@
       "categories": [
         "ملحقات الصوت",
         "سماعات",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سماعة-رأسية-جي-بي-ال-تون-530bt-لاسلكية-قابلة-للطي/p1974711062"
     },
@@ -53835,7 +53848,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -54219,7 +54232,8 @@
       "categories": [
         "شنط ومحافظ",
         "شنط يد",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/شنطة-يد-alot-جلد-مقاس-1-لتر-ازرق/p365663599"
     },
@@ -54346,7 +54360,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -57129,7 +57143,8 @@
         "كفرات ايفون 17 برو",
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-برو-فاليو-جريب-شفاف/p857504129"
     },
@@ -58951,7 +58966,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -59043,7 +59058,8 @@
         "كفرات وبكجات حماية فاليو",
         "حماية فاليو",
         "عروض مكعب",
-        "منتجات بـ 29 ريال واقل"
+        "منتجات بـ 29 ريال واقل",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كفر-حماية-ايفون-17-اير-فاليو-شفاف/p1180027358"
     },
@@ -59276,7 +59292,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -60242,7 +60258,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -60720,7 +60736,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -60735,7 +60751,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اجهزة التتبع واكسسواراتها",
       "categories": [
         "اجهزة التتبع واكسسواراتها",
@@ -60841,7 +60857,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اضاءات",
       "categories": [
         "اضاءات",
@@ -60974,7 +60990,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل"
@@ -61667,7 +61683,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -62878,7 +62894,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -63199,7 +63215,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63792,7 +63808,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -65418,7 +65434,7 @@
       "regular_price": 799.05,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -66799,7 +66815,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -69306,11 +69322,40 @@
         "جودا"
       ],
       "url": "https://mokab.com/فيش-سفر-joda-tour-متعدد-المداخل-بقوة-70-واط-اربع-منافذ-تايب-سي-و-منفذ-يو-اس-بي/p1581246879"
+    },
+    "984842204": {
+      "name": "توصيلة بيلكن 4 منافذ طاقة - الاصدار الثاني - بدون USB",
+      "price": 79.01,
+      "regular_price": 109.0,
+      "on_offer": true,
+      "currency": "SAR",
+      "availability": "in stock",
+      "category": "توصيلات كهربائية",
+      "categories": [
+        "توصيلات كهربائية",
+        "اكسبرس"
+      ],
+      "url": "https://mokab.com/تسوق-بيلكن-توصيلة-كهربائية-ب-4-منافذ-قوية-بطول-2-متر/p984842204"
+    },
+    "1802430428": {
+      "name": "سوار رياضي ابل اكتيف 2.0 من LAUT- اسود",
+      "price": 39.0,
+      "regular_price": 129.0,
+      "on_offer": true,
+      "currency": "SAR",
+      "availability": "in stock",
+      "category": "الساعات الذكية واكسسواراتها",
+      "categories": [
+        "الساعات الذكية واكسسواراتها",
+        "سوار الساعة الذكية",
+        "عروض مكعب"
+      ],
+      "url": "https://mokab.com/سوار-رياضي-laut-لساعة-ابل-اكتيف-2-0-اسود/p1802430428"
     }
   },
   "coverage": {
-    "scanned": 4596,
-    "gone": 403,
+    "scanned": 4598,
+    "gone": 401,
     "failed": 0,
     "percent": 100.0
   },
