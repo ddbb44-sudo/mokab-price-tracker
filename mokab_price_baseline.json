@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:07:21.133558+00:00",
+  "generated_at": "2026-09-21T09:41:41.485969+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -393,7 +393,7 @@
       "regular_price": 3799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -1626,7 +1626,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -2600,7 +2600,7 @@
     },
     "1301547236": {
       "name": "سوارة تتبع ذكية ليبرو رياضية لمراقبة النشاط رمادي",
-      "price": 169.0,
+      "price": 96.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2608,7 +2608,8 @@
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
-        "الساعات الذكية"
+        "الساعات الذكية",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سوارة-تتبع-ذكية-ليبرو-رياضية-لمراقبة-النشاط-رمادي/p1301547236"
     },
@@ -2694,7 +2695,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -4564,7 +4565,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -5774,7 +5775,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -5919,7 +5920,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -7169,7 +7170,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -8012,7 +8013,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -8759,7 +8760,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -9605,7 +9606,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -9816,7 +9817,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -10581,7 +10582,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -12408,7 +12409,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حصري اونلاين",
       "categories": [
         "حصري اونلاين",
@@ -12818,7 +12819,7 @@
     },
     "1086195255": {
       "name": "سوارة تتبع ذكية ليبرو رياضية لمراقبة النشاط ازرق",
-      "price": 169.0,
+      "price": 96.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12826,7 +12827,8 @@
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
-        "الساعات الذكية"
+        "الساعات الذكية",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/سوارة-تتبع-ذكية-ليبرو-رياضية-لمراقبة-النشاط-ازرق/p1086195255"
     },
@@ -14137,7 +14139,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -15372,7 +15374,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -18698,7 +18700,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -21044,7 +21046,7 @@
     },
     "517843138": {
       "name": "سوارة تتبع ذكية ليبرو LIB-A150H لمراقبة الصحة اسود",
-      "price": 229.0,
+      "price": 196.01,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21617,7 +21619,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -25921,7 +25923,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -27414,7 +27416,7 @@
       "regular_price": 359.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -29775,7 +29777,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32769,7 +32771,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -35667,7 +35669,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -41716,7 +41718,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -42123,7 +42125,7 @@
     },
     "2135814171": {
       "name": "اشتر حامل جوال مغناطيسي ماج سيف أسود تثبيت قوي للسيارة",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -43453,7 +43455,7 @@
     },
     "427253448": {
       "name": "سوارة تتبع ذكية ليبرو رياضية لمراقبة النشاط اخضر",
-      "price": 169.0,
+      "price": 96.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44229,7 +44231,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -45656,7 +45658,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -47588,7 +47590,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -48407,7 +48409,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -50308,7 +50310,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -50642,7 +50644,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -50849,7 +50851,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -51801,7 +51803,7 @@
     },
     "1870910282": {
       "name": "سوار ليبرو (Libro) الذكي لتتبع النشاط - أسود",
-      "price": 119.0,
+      "price": 96.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55834,7 +55836,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -57537,7 +57539,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -59601,7 +59603,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -61184,7 +61186,7 @@
       "regular_price": 189.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61380,7 +61382,7 @@
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -62040,7 +62042,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -65109,7 +65111,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65272,7 +65274,7 @@
     },
     "320547169": {
       "name": "سوارة تتبع ذكية ليبرو LIB-A150H لمراقبة الصحة بيج",
-      "price": 189.0,
+      "price": 196.01,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -66521,7 +66523,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -69283,7 +69285,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -69354,8 +69356,8 @@
     }
   },
   "coverage": {
-    "scanned": 4595,
-    "gone": 404,
+    "scanned": 4594,
+    "gone": 405,
     "failed": 0,
     "percent": 100.0
   },
