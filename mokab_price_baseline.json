@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:09:15.370325+00:00",
+  "generated_at": "2026-09-23T09:26:49.825800+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -2614,7 +2614,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -2867,7 +2867,7 @@
     },
     "1349898112": {
       "name": "استكشف فوجي فيلم كاميرا انستاكس ميني ايفو ابيض",
-      "price": 799.0,
+      "price": 719.0,
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2877,8 +2877,7 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض اليوم الوطني",
-        "خصم اضافي 10%"
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-ابيض/p1349898112"
     },
@@ -5994,7 +5993,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -7023,7 +7022,7 @@
       "regular_price": 649.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كاميرات السيارة",
       "categories": [
         "كاميرات السيارة",
@@ -7300,7 +7299,7 @@
     },
     "2095106547": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 وردي الفورية صور ممتعة",
-      "price": 599.0,
+      "price": 539.01,
       "regular_price": 649.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9479,7 +9478,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -10145,7 +10144,7 @@
     },
     "608377778": {
       "name": "كاميرا فوجي فيلم انستاكس ميني فورية",
-      "price": 799.0,
+      "price": 719.0,
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10155,8 +10154,7 @@
         "معدات التصوير",
         "كاميرات",
         "عرض الكاميرات",
-        "عروض اليوم الوطني",
-        "خصم اضافي 10%"
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-بني/p608377778"
     },
@@ -10438,7 +10436,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -11082,7 +11080,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -12021,7 +12019,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -14725,7 +14723,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -17213,7 +17211,7 @@
     },
     "181111006": {
       "name": "استكشف مكينة قهوة تركية أرزوم أوكا أبيض ذهبي شكل فاخر",
-      "price": 999.01,
+      "price": 899.0,
       "regular_price": 1129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17490,17 +17488,16 @@
     },
     "1862202013": {
       "name": "اشتر خلاط شيك ان أرزوم أوكا لخلط سريع بدون تكتل وسهل التنظيف",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 199.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
         "الأجهزة الإلكترونية",
-        "عروض مكعب",
-        "خصم اضافي 10%"
+        "عروض مكعب"
       ],
       "url": "https://mokab.com/خلاط-شيك-ان-أرزوم-أوكا-اسود/p1862202013"
     },
@@ -17597,7 +17594,7 @@
     },
     "1878708075": {
       "name": "اشتر مكينة قهوة تركية أوكا أسود فضي قهوة سريعة وكريما",
-      "price": 899.0,
+      "price": 809.0,
       "regular_price": 1129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17692,7 +17689,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -17850,7 +17847,7 @@
     },
     "192494710": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أسود ذهبي قهوة ثابتة",
-      "price": 999.01,
+      "price": 899.0,
       "regular_price": 1129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17860,8 +17857,7 @@
         "ركن القهوة",
         "أدوات تحضير القهوة",
         "عروض مكعب",
-        "عروض اليوم الوطني",
-        "خصم اضافي 10%"
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-اسود-ذهبي/p192494710"
     },
@@ -18183,7 +18179,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -18321,7 +18317,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -19702,7 +19698,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20838,7 +20834,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -20987,7 +20983,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -21686,7 +21682,7 @@
     },
     "624413522": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12 بنفسجي",
-      "price": 529.0,
+      "price": 476.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24408,7 +24404,7 @@
     },
     "1098197779": {
       "name": "علبة هدايا انستاكس ميني 12 فوجي فيلم",
-      "price": 529.0,
+      "price": 476.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24747,7 +24743,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -25078,8 +25074,8 @@
     },
     "1200075578": {
       "name": "استكشف داش كام سيارة 70mai T800E 4K امامية وداخلية وخلفية",
-      "price": 499.0,
-      "regular_price": 499.0,
+      "price": 539.01,
+      "regular_price": 539.01,
       "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
@@ -29729,7 +29725,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -31792,7 +31788,7 @@
     },
     "366414262": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا أبيض فضي قهوة سريعة",
-      "price": 999.01,
+      "price": 899.0,
       "regular_price": 1129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31802,8 +31798,7 @@
         "ركن القهوة",
         "أدوات تحضير القهوة",
         "عروض مكعب",
-        "عروض اليوم الوطني",
-        "خصم اضافي 10%"
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ابيض-فضي/p366414262"
     },
@@ -34226,7 +34221,7 @@
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -34978,7 +34973,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -35734,7 +35729,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -36208,7 +36203,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -36301,7 +36296,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37754,7 +37749,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة"
@@ -38168,7 +38163,7 @@
     },
     "1482564621": {
       "name": "اشتر مكينة قهوة تركية أوكا 5 اكواب تحضير سريع وطعم غني",
-      "price": 169.0,
+      "price": 152.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40194,7 +40189,7 @@
     },
     "1803434402": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أبيض تحكم أسهل وطعم",
-      "price": 1099.0,
+      "price": 989.0,
       "regular_price": 1599.01,
       "on_offer": true,
       "currency": "SAR",
@@ -40203,7 +40198,8 @@
       "categories": [
         "ركن القهوة",
         "أدوات تحضير القهوة",
-        "عروض مكعب"
+        "عروض مكعب",
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ايليت-ابيض/p1803434402"
     },
@@ -41143,7 +41139,7 @@
     },
     "1971085461": {
       "name": "استكشف مكينة قهوة تركية أوكا ايليت أسود تحضير سريع",
-      "price": 1099.0,
+      "price": 989.0,
       "regular_price": 1599.01,
       "on_offer": true,
       "currency": "SAR",
@@ -41549,7 +41545,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -42290,7 +42286,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -43126,7 +43122,7 @@
     },
     "364400743": {
       "name": "شاحن راف باور 20000 متنقل بمنفذين تايب سي ومنفذين USB-A بقوة 70 واط",
-      "price": 249.0,
+      "price": 196.01,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46862,7 +46858,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -48528,7 +48524,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -50573,7 +50569,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية الكاميرا الخلفية",
       "categories": [
         "حماية الكاميرا الخلفية",
@@ -51343,7 +51339,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -51780,7 +51776,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -53435,7 +53431,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -53928,7 +53924,7 @@
     },
     "297445253": {
       "name": "كاميرا فوجي فيلم إنستاكس وايد ايفو هجينة فورية اسود",
-      "price": 1699.0,
+      "price": 1529.01,
       "regular_price": 1999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54310,7 +54306,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات وحماية الشاشة",
       "categories": [
         "كفرات وحماية الشاشة",
@@ -55237,7 +55233,7 @@
       "regular_price": 179.06,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -56042,7 +56038,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة"
@@ -56408,7 +56404,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -57009,7 +57005,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -57963,7 +57959,7 @@
       "regular_price": 7199.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -58822,7 +58818,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -60621,7 +60617,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -61249,7 +61245,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -61821,7 +61817,7 @@
     },
     "1649864246": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 فورية أخضر ذكريات فورية",
-      "price": 599.0,
+      "price": 539.01,
       "regular_price": 649.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63459,7 +63455,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -64252,7 +64248,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65301,7 +65297,7 @@
     },
     "308388411": {
       "name": "كاميرا فوجي انستاكس ميني فورية ليبلاي",
-      "price": 799.0,
+      "price": 719.0,
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
@@ -65839,7 +65835,7 @@
     },
     "394326257": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا ريتش برو بلس رغوة كثيفة",
-      "price": 499.0,
+      "price": 449.01,
       "regular_price": 679.01,
       "on_offer": true,
       "currency": "SAR",
@@ -65849,8 +65845,7 @@
         "ركن القهوة",
         "أدوات تحضير القهوة",
         "عروض مكعب",
-        "عروض اليوم الوطني",
-        "خصم اضافي 10%"
+        "عروض اليوم الوطني"
       ],
       "url": "https://mokab.com/مكينة-تحضير-قهوة-تركية-أرزوم-أوكا-ريتش-برو-بلس-فضي/p394326257"
     },
@@ -66333,7 +66328,7 @@
     },
     "47432712": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 529.0,
+      "price": 476.0,
       "regular_price": 579.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67408,7 +67403,7 @@
     },
     "65431952": {
       "name": "اشتر مكينة اسبريسو أرزوم أوكا 6 انواع قهوة طعم باريستا",
-      "price": 1799.0,
+      "price": 1619.0,
       "regular_price": 2299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67869,7 +67864,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -68214,7 +68209,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -69332,7 +69327,7 @@
     },
     "609584288": {
       "name": "توصيلة JODA فولت لينك 4 منافد طاقة بطول 3 متر - ابيض",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69393,7 +69388,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
