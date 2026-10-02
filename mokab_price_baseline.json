@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:00:44.667345+00:00",
+  "generated_at": "2026-10-02T10:15:31.792109+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -314,9 +314,9 @@
     },
     "743961426": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3S - ازرق",
-      "price": 2499.0,
+      "price": 1899.0,
       "regular_price": 2499.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -330,9 +330,9 @@
     },
     "1867580044": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3 - وردي",
-      "price": 1999.0,
+      "price": 1599.01,
       "regular_price": 1999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -346,9 +346,9 @@
     },
     "1721930110": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3 - ازرق",
-      "price": 1999.0,
+      "price": 1599.01,
       "regular_price": 1999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -362,9 +362,9 @@
     },
     "107265390": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - فضي",
-      "price": 3799.0,
+      "price": 1999.0,
       "regular_price": 3799.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -378,9 +378,9 @@
     },
     "849381435": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - وردي",
-      "price": 3799.0,
+      "price": 1999.0,
       "regular_price": 3799.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -394,9 +394,9 @@
     },
     "2000988379": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - اسود",
-      "price": 3799.0,
+      "price": 1999.0,
       "regular_price": 3799.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -419,9 +419,9 @@
     },
     "415270650": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3T - اسود",
-      "price": 3499.0,
+      "price": 2499.0,
       "regular_price": 3499.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -434,9 +434,9 @@
     },
     "1732960643": {
       "name": "شنطة سكوتر كهربائي ايرويل SQ3S - وردي",
-      "price": 2499.0,
+      "price": 1899.0,
       "regular_price": 2499.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -450,9 +450,9 @@
     },
     "489938295": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - فضي",
-      "price": 2999.0,
+      "price": 1899.0,
       "regular_price": 2999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -465,9 +465,9 @@
     },
     "1392291619": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - وردي",
-      "price": 2999.0,
+      "price": 1899.0,
       "regular_price": 2999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -480,9 +480,9 @@
     },
     "489320467": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - اسود",
-      "price": 2999.0,
+      "price": 1899.0,
       "regular_price": 2999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -495,9 +495,9 @@
     },
     "1861968014": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3S - وردي",
-      "price": 3499.0,
+      "price": 2499.0,
       "regular_price": 3499.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "شنط ومحافظ",
@@ -677,7 +677,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -721,7 +721,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -3589,7 +3589,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -5612,7 +5612,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -7379,7 +7379,7 @@
       "regular_price": 458.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -8327,7 +8327,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -12586,7 +12586,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -16660,7 +16660,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -18317,7 +18317,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18501,7 +18501,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -21499,9 +21499,9 @@
     },
     "589100750": {
       "name": "اشتر كاميرا DJI اوسمو 360 ستاندرد كومبو تصوير بجودة عالية",
-      "price": 1990.01,
+      "price": 1589.0,
       "regular_price": 1990.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21513,9 +21513,9 @@
     },
     "594219785": {
       "name": "اشتر كاميرا DJI اوسمو 360 ادفنشر كومبو تصوير شامل بجودة",
-      "price": 2689.0,
+      "price": 2149.01,
       "regular_price": 2689.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21826,7 +21826,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -34661,7 +34661,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -35429,7 +35429,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -40552,7 +40552,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -45924,7 +45924,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات وحماية الشاشة",
       "categories": [
         "كفرات وحماية الشاشة",
@@ -50940,7 +50940,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -51216,7 +51216,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -52582,7 +52582,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -52822,7 +52822,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -58008,7 +58008,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -64816,7 +64816,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -65509,7 +65509,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -66049,7 +66049,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -69404,7 +69404,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
