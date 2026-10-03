@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:15:31.792109+00:00",
+  "generated_at": "2026-10-03T09:40:00.181535+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -107,7 +107,7 @@
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -550,7 +550,7 @@
       "regular_price": 1349.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -1386,9 +1386,9 @@
     },
     "1099451685": {
       "name": "سماعه بوز الترا اوبن لاسلكية - تصميم أنيق وصوت مذهل!",
-      "price": 799.0,
+      "price": 1299.01,
       "regular_price": 1299.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ملحقات الصوت",
@@ -1755,7 +1755,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -2355,7 +2355,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -4338,7 +4338,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -6227,9 +6227,9 @@
     },
     "1926903209": {
       "name": "سماعة بوز الترا اوبن بلوتوث - صوت رائع وسعر مميز",
-      "price": 799.0,
+      "price": 1299.01,
       "regular_price": 1299.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -9978,7 +9978,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12090,7 +12090,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -13987,7 +13987,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -14121,7 +14121,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -16570,7 +16570,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20800,9 +20800,9 @@
     },
     "471555594": {
       "name": "تسوق سماعة ايربودز بوز كوايت كومفورت الترا - صوت مميز ونقي - سماوي",
-      "price": 989.0,
+      "price": 1299.01,
       "regular_price": 1299.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -21247,7 +21247,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -22587,7 +22587,7 @@
       "regular_price": 25.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -23153,9 +23153,9 @@
     },
     "885939729": {
       "name": "سماعة bose كوايت كومفورت الترا بالأداء الفائق - اسود في السعودية",
-      "price": 1099.0,
+      "price": 1749.0,
       "regular_price": 1749.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ملحقات الصوت",
@@ -25526,7 +25526,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -29249,7 +29249,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -32279,7 +32279,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -39658,7 +39658,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -40820,7 +40820,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -45657,9 +45657,9 @@
     },
     "802871119": {
       "name": "تسوق سماعة رأس بوز كوايت كومفورت الترا - الأبيض للأداء المثالي",
-      "price": 989.0,
+      "price": 1749.0,
       "regular_price": 1749.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ملحقات الصوت",
@@ -46410,7 +46410,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -47138,7 +47138,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -50034,7 +50034,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -50832,7 +50832,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -55452,9 +55452,9 @@
     },
     "548572887": {
       "name": "استمتع بمكبر صوت ساوند لينك فليكس الجيل الثاني بوز",
-      "price": 599.0,
+      "price": 699.0,
       "regular_price": 699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ملحقات الصوت",
