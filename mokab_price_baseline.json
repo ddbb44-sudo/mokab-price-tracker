@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:45:53.815910+00:00",
+  "generated_at": "2026-10-06T10:35:19.972841+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -186,7 +186,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -848,7 +848,7 @@
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -2867,9 +2867,9 @@
     },
     "1349898112": {
       "name": "استكشف فوجي فيلم كاميرا انستاكس ميني ايفو ابيض",
-      "price": 899.0,
+      "price": 749.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -3780,7 +3780,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -4243,7 +4243,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -5166,7 +5166,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -5375,7 +5375,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -5577,7 +5577,7 @@
       "regular_price": 346.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -5638,7 +5638,7 @@
     },
     "1827062386": {
       "name": "سلك راف باور تايب سي الى تايب سي نايلون بقوة 60 واط بطول 1.2متر - اخضر",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -5648,8 +5648,7 @@
         "وصلات وكيابل",
         "الشواحن والمنصات",
         "كيبل تايب سي USB Type C",
-        "STC Bank",
-        "عروض اليوم الوطني"
+        "STC Bank"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-اخضر/p1827062386"
     },
@@ -5679,7 +5678,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -5933,7 +5932,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -6186,7 +6185,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -7299,9 +7298,9 @@
     },
     "2095106547": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 وردي الفورية صور ممتعة",
-      "price": 649.0,
+      "price": 499.0,
       "regular_price": 649.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -7698,7 +7697,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كيبل ايفون Lightning",
       "categories": [
         "كيبل ايفون Lightning",
@@ -8593,7 +8592,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -9177,7 +9176,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -9823,7 +9822,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10144,9 +10143,9 @@
     },
     "608377778": {
       "name": "كاميرا فوجي فيلم انستاكس ميني فورية",
-      "price": 899.0,
+      "price": 749.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -11913,7 +11912,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -12133,7 +12132,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -12571,7 +12570,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12675,7 +12674,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -12736,7 +12735,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -12848,7 +12847,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -13178,7 +13177,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -13852,7 +13851,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -14166,7 +14165,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -14583,7 +14582,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -14976,7 +14975,7 @@
     },
     "1447113666": {
       "name": "سلك راف باور تايب سي الى تايب سي نايلون بقوة 60 واط بطول 1.2متر - وردي",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14986,8 +14985,7 @@
         "وصلات وكيابل",
         "الشواحن والمنصات",
         "كيبل تايب سي USB Type C",
-        "STC Bank",
-        "عروض اليوم الوطني"
+        "STC Bank"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-وردي/p1447113666"
     },
@@ -15714,7 +15712,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -15778,7 +15776,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -16060,7 +16058,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -16237,7 +16235,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -17140,7 +17138,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -17211,9 +17209,9 @@
     },
     "181111006": {
       "name": "استكشف مكينة قهوة تركية أرزوم أوكا أبيض ذهبي شكل فاخر",
-      "price": 1299.01,
+      "price": 1099.0,
       "regular_price": 1299.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -17488,9 +17486,9 @@
     },
     "1862202013": {
       "name": "اشتر خلاط شيك ان أرزوم أوكا لخلط سريع بدون تكتل وسهل التنظيف",
-      "price": 199.0,
+      "price": 159.0,
       "regular_price": 199.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
@@ -17593,9 +17591,9 @@
     },
     "1878708075": {
       "name": "اشتر مكينة قهوة تركية أوكا أسود فضي قهوة سريعة وكريما",
-      "price": 1299.01,
+      "price": 1099.0,
       "regular_price": 1299.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -17846,9 +17844,9 @@
     },
     "192494710": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أسود ذهبي قهوة ثابتة",
-      "price": 1299.01,
+      "price": 1099.0,
       "regular_price": 1299.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -18533,7 +18531,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18607,7 +18605,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -18695,7 +18693,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -18713,7 +18711,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -19697,7 +19695,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -19770,7 +19768,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -19857,7 +19855,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20262,7 +20260,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -20817,7 +20815,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -22000,7 +21998,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -22096,7 +22094,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -23792,7 +23790,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -24243,9 +24241,9 @@
     },
     "1069171774": {
       "name": "استكشف مكينة اسبريسو أرزوم أوكا 4 انواع قهوة عملية وسريعة",
-      "price": 899.0,
+      "price": 599.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -24264,7 +24262,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -24403,9 +24401,9 @@
     },
     "1098197779": {
       "name": "علبة هدايا انستاكس ميني 12 فوجي فيلم",
-      "price": 579.0,
+      "price": 489.0,
       "regular_price": 579.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -24678,7 +24676,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -25646,7 +25644,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -25968,7 +25966,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -27122,7 +27120,7 @@
     },
     "1556895920": {
       "name": "تسوق سلك راف باور تايب سي 60 واط بطول 1.2 متر - لون أزرق مميز",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27131,8 +27129,7 @@
       "categories": [
         "وصلات وكيابل",
         "الشواحن والمنصات",
-        "كيبل تايب سي USB Type C",
-        "عروض اليوم الوطني"
+        "كيبل تايب سي USB Type C"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-ازرق-غامق/p1556895920"
     },
@@ -27462,7 +27459,7 @@
       "regular_price": 359.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -27884,7 +27881,7 @@
       "regular_price": 70.15,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -28875,7 +28872,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -28907,7 +28904,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -29121,7 +29118,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -29191,7 +29188,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -30974,7 +30971,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -31597,7 +31594,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -31787,9 +31784,9 @@
     },
     "366414262": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا أبيض فضي قهوة سريعة",
-      "price": 1299.01,
+      "price": 1099.0,
       "regular_price": 1299.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -32322,7 +32319,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33617,7 +33614,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -33899,7 +33896,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -34096,7 +34093,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -34461,7 +34458,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -34660,7 +34657,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -35220,7 +35217,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -35428,7 +35425,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -35700,7 +35697,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -36295,7 +36292,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -36708,7 +36705,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -36798,7 +36795,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -37049,7 +37046,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -37107,7 +37104,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37702,7 +37699,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38162,9 +38159,9 @@
     },
     "1482564621": {
       "name": "اشتر مكينة قهوة تركية أوكا 5 اكواب تحضير سريع وطعم غني",
-      "price": 399.0,
+      "price": 169.0,
       "regular_price": 399.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ركن القهوة",
@@ -38392,7 +38389,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38812,7 +38809,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -40188,9 +40185,9 @@
     },
     "1803434402": {
       "name": "اشتر مكينة قهوة تركية أوكا ايليت أبيض تحكم أسهل وطعم",
-      "price": 1599.01,
+      "price": 1099.0,
       "regular_price": 1599.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -40253,7 +40250,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -41138,9 +41135,9 @@
     },
     "1971085461": {
       "name": "استكشف مكينة قهوة تركية أوكا ايليت أسود تحضير سريع",
-      "price": 1599.01,
+      "price": 1099.0,
       "regular_price": 1599.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ركن القهوة",
@@ -42521,7 +42518,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -43502,7 +43499,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -43917,7 +43914,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -45412,7 +45409,7 @@
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -45769,7 +45766,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -45923,7 +45920,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات وحماية الشاشة",
       "categories": [
         "كفرات وحماية الشاشة",
@@ -46426,7 +46423,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -46772,7 +46769,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -47137,7 +47134,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -47283,7 +47280,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -48001,7 +47998,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -49260,7 +49257,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -49737,7 +49734,7 @@
       "regular_price": 1149.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -50157,7 +50154,7 @@
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -50427,7 +50424,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -50686,7 +50683,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -51232,7 +51229,7 @@
       "regular_price": 949.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -51847,9 +51844,9 @@
     },
     "1864183714": {
       "name": "كاميرا بني وطابعة Instax Mini Evo الفورية الهجينة",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -52971,9 +52968,9 @@
     },
     "2077228925": {
       "name": "اشتر مكينة قهوة تركية أرزوم أوكا ريتش برو بلس رغوة أغنى",
-      "price": 799.0,
+      "price": 699.0,
       "regular_price": 799.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ركن القهوة",
@@ -53923,9 +53920,9 @@
     },
     "297445253": {
       "name": "كاميرا فوجي فيلم إنستاكس وايد ايفو هجينة فورية اسود",
-      "price": 1999.0,
+      "price": 1499.0,
       "regular_price": 1999.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -53971,7 +53968,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -54155,7 +54152,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -55440,7 +55437,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -57004,7 +57001,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -57376,7 +57373,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -59317,7 +59314,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -59360,7 +59357,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -59515,7 +59512,7 @@
     },
     "1244887129": {
       "name": "تسوق سلك راف باور تايب سي 60 واط بطول 1.2 متر - أخضر مميز",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59525,8 +59522,7 @@
         "وصلات وكيابل",
         "الشواحن والمنصات",
         "كيبل تايب سي USB Type C",
-        "عروض مكعب",
-        "عروض اليوم الوطني"
+        "عروض مكعب"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-اخضر/p1244887129"
     },
@@ -60053,7 +60049,7 @@
       "regular_price": 199.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -60124,7 +60120,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -60297,7 +60293,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -60550,7 +60546,7 @@
     },
     "1419389402": {
       "name": "سلك راف باور تايب سي الى تايب سي نايلون بقوة 60 واط بطول 1.2متر - ازرق",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -60560,8 +60556,7 @@
         "وصلات وكيابل",
         "الشواحن والمنصات",
         "كيبل تايب سي USB Type C",
-        "STC Bank",
-        "عروض اليوم الوطني"
+        "STC Bank"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-ازرق-فاتح/p1419389402"
     },
@@ -60841,7 +60836,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61244,7 +61239,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -61275,7 +61270,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61806,7 +61801,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -61816,9 +61811,9 @@
     },
     "1649864246": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 فورية أخضر ذكريات فورية",
-      "price": 649.0,
+      "price": 499.0,
       "regular_price": 649.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -63295,7 +63290,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -63326,7 +63321,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63876,7 +63871,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كيبل ايفون Lightning",
       "categories": [
         "كيبل ايفون Lightning",
@@ -64707,7 +64702,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -65296,9 +65291,9 @@
     },
     "308388411": {
       "name": "كاميرا فوجي انستاكس ميني فورية ليبلاي",
-      "price": 899.0,
+      "price": 749.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -65361,7 +65356,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -66048,7 +66043,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -66209,7 +66204,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -66327,9 +66322,9 @@
     },
     "47432712": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 579.0,
+      "price": 489.0,
       "regular_price": 579.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -67006,7 +67001,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -67776,7 +67771,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -67875,7 +67870,7 @@
     },
     "735157864": {
       "name": "تسوق سلك راف باور تايب سي نيلون 60 واط بطول 1.2م بجودة عالية- تيتانيوم",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67884,8 +67879,7 @@
       "categories": [
         "وصلات وكيابل",
         "الشواحن والمنصات",
-        "كيبل تايب سي USB Type C",
-        "عروض اليوم الوطني"
+        "كيبل تايب سي USB Type C"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-تيتانيوم/p735157864"
     },
@@ -68129,7 +68123,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -68473,7 +68467,7 @@
     },
     "844067901": {
       "name": "سلك راف باور تايب سي الى تايب سي نايلون بقوة 60 واط بطول 1.2متر",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68482,8 +68476,7 @@
       "categories": [
         "وصلات وكيابل",
         "الشواحن والمنصات",
-        "كيبل تايب سي USB Type C",
-        "عروض اليوم الوطني"
+        "كيبل تايب سي USB Type C"
       ],
       "url": "https://mokab.com/سلك-راف-باور-تايب-سي-الى-تايب-سي-نايلون-بقوة-60-واط-بطول-1-2متر-صحراوي/p844067901"
     },
@@ -69488,8 +69481,8 @@
     }
   },
   "coverage": {
-    "scanned": 4588,
-    "gone": 411,
+    "scanned": 4589,
+    "gone": 410,
     "failed": 0,
     "percent": 100.0
   },
