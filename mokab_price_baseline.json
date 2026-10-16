@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:10:23.057889+00:00",
+  "generated_at": "2026-10-16T08:42:13.403192+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -2370,7 +2370,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -8649,7 +8649,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اضاءات",
       "categories": [
         "اضاءات",
@@ -11271,7 +11271,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -13515,9 +13515,9 @@
     },
     "1214006161": {
       "name": "كاميرا dji action 6 Osmo ادفنشر كومبو تصوير احترافي",
-      "price": 1989.01,
+      "price": 2219.01,
       "regular_price": 2219.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -15023,7 +15023,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -21349,9 +21349,9 @@
     },
     "589100750": {
       "name": "اشتر كاميرا DJI اوسمو 360 ستاندرد كومبو تصوير بجودة عالية",
-      "price": 1589.0,
+      "price": 1990.01,
       "regular_price": 1990.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -21363,9 +21363,9 @@
     },
     "594219785": {
       "name": "اشتر كاميرا DJI اوسمو 360 ادفنشر كومبو تصوير شامل بجودة",
-      "price": 2149.01,
+      "price": 2689.0,
       "regular_price": 2689.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -26827,9 +26827,9 @@
     },
     "1539940743": {
       "name": "كاميرا وطابعة فوجي فيلم انستاكس ميني فورية",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -32563,7 +32563,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -37968,7 +37968,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -44360,7 +44360,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -46533,7 +46533,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -49059,7 +49059,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -52734,7 +52734,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "شنط ومحافظ",
       "categories": [
         "شنط ومحافظ",
@@ -58671,7 +58671,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
