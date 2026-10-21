@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:03:05.540939+00:00",
+  "generated_at": "2026-10-21T09:05:40.487083+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -6307,7 +6307,7 @@
       "regular_price": 199.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -8233,7 +8233,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -9257,7 +9257,7 @@
       "regular_price": 2099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -20122,7 +20122,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -22592,7 +22592,7 @@
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -29281,7 +29281,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -31373,7 +31373,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -36443,7 +36443,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -46754,7 +46754,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -54025,7 +54025,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اقلام الايباد",
       "categories": [
         "اقلام الايباد",
@@ -56262,7 +56262,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -56442,7 +56442,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63340,7 +63340,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -66834,7 +66834,7 @@
       "regular_price": 2099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
