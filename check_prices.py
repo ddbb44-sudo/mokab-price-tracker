@@ -41,6 +41,7 @@ SITEMAP_INDEX_URL = "https://mokab.com/sitemap.xml"
 SHARD_INDEX = int(os.environ.get("SHARD_INDEX", "0"))
 SHARD_COUNT = int(os.environ.get("SHARD_COUNT", "1"))
 OUTPUT_PATH = os.environ.get("SHARD_OUTPUT", f"shard_{SHARD_INDEX}.json")
+BASELINE_PATH = "mokab_price_baseline.json"
 
 REQUEST_TIMEOUT = 25
 
@@ -183,6 +184,56 @@ def to_float(value):
         return None
 
 
+LD_JSON_RE = re.compile(
+    r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', re.S | re.I
+)
+SKU_RE = re.compile(r'"(?:gtin13|gtin|sku)"\s*:\s*"([^"]*)"')
+
+
+def _ld_products(node):
+    """يرجع كل عناصر Product داخل JSON-LD (مع @graph والقوائم)."""
+    if isinstance(node, list):
+        for item in node:
+            yield from _ld_products(item)
+    elif isinstance(node, dict):
+        t = node.get("@type")
+        if t == "Product" or (isinstance(t, list) and "Product" in t):
+            yield node
+        for key in ("@graph", "mainEntity"):
+            if key in node:
+                yield from _ld_products(node[key])
+
+
+def extract_sku(html):
+    """باركود المنتج من JSON-LD: gtin13 ثم gtin ثم sku. يرجع "" إن لم يوجد."""
+    for block in LD_JSON_RE.findall(html):
+        try:
+            data = json.loads(block)
+        except ValueError:
+            continue
+        for product in _ld_products(data):
+            for key in ("gtin13", "gtin", "sku"):
+                value = product.get(key)
+                if value not in (None, ""):
+                    return str(value).strip()
+    m = SKU_RE.search(html)
+    return m.group(1).strip() if m else ""
+
+
+def load_known_skus():
+    """المنتجات التي قُرئ باركودها سابقاً (المفتاح sku موجود في خط الأساس).
+    الباركود يُقرأ مرة واحدة لكل منتج، فلا نعيد قراءته لهذه."""
+    try:
+        with open(BASELINE_PATH, encoding="utf-8") as f:
+            products = json.load(f).get("products", {})
+    except (OSError, ValueError):
+        return set()
+    return {pid for pid, p in products.items() if "sku" in p}
+
+
+KNOWN_SKUS = set()
+
+
 def parse_product(pid, url, html):
     """يستخرج بيانات المنتج من HTML الخام. يرجع dict أو None لو ما فيه سعر."""
     regular = to_float(extract_meta(html, "product:price:amount"))
@@ -212,7 +263,7 @@ def parse_product(pid, url, html):
     if title:
         title = title.split("|")[0].strip()
 
-    return {
+    data = {
         "productID": pid,
         "name": title or pid,
         "price": current,
@@ -224,6 +275,10 @@ def parse_product(pid, url, html):
         "category": categories[0] if categories else None,
         "url": url,
     }
+    # الباركود مرة واحدة لكل منتج جديد. "" = قُرئت الصفحة ولا باركود فيها.
+    if pid not in KNOWN_SKUS:
+        data["sku"] = extract_sku(html)
+    return data
 
 
 def scan_one(session, throttle, pid, url):
@@ -270,6 +325,8 @@ def scan_one(session, throttle, pid, url):
 
 
 def main():
+    KNOWN_SKUS.update(load_known_skus())
+    log(f"منتجات باركودها محفوظ سابقاً: {len(KNOWN_SKUS)}")
     session = make_session()
     throttle = Throttle()
 

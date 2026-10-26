@@ -377,6 +377,12 @@ def main():
             "categories": p.get("categories", []),
             "url": p["url"],
         }
+        # الباركود يُقرأ مرة واحدة: نحتفظ بالمحفوظ، ونأخذ الجديد من الفحص فقط
+        old_entry = old_products.get(pid, {})
+        if "sku" in old_entry:
+            new_products[pid]["sku"] = old_entry["sku"]
+        elif "sku" in p:
+            new_products[pid]["sku"] = p["sku"]
 
     baseline["generated_at"] = datetime.now(timezone.utc).isoformat()
     baseline["coverage"] = {
