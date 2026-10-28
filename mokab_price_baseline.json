@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:55:31.293919+00:00",
+  "generated_at": "2026-10-28T10:28:53.402557+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -181,7 +181,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -778,7 +778,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -829,7 +829,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -844,7 +844,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -1230,7 +1230,7 @@
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -3062,7 +3062,7 @@
       "regular_price": 89.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -8361,7 +8361,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -8961,7 +8961,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -11226,7 +11226,7 @@
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -14656,7 +14656,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -19580,7 +19580,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -23639,7 +23639,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -24464,7 +24464,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -26348,7 +26348,7 @@
     },
     "1096099258": {
       "name": "باور بانك انكر 10000 ماج سيف بقوة 15 واط بمنفذ تايب سي - اسود",
-      "price": 199.0,
+      "price": 218.99,
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27545,7 +27545,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -27641,7 +27641,7 @@
       "regular_price": 139.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -31370,7 +31370,7 @@
     },
     "1862322760": {
       "name": "باور بانك ماج سيف انكر 10000 ملي امبير بمنفذ تايب سي - ابيض",
-      "price": 195.99,
+      "price": 218.99,
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31596,7 +31596,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -31741,7 +31741,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32808,8 +32808,8 @@
     },
     "2074807948": {
       "name": "شاحن سيارة انكر 75 واط بمنفذ تايب سي مع سلك تايب سي مدمج - رمادي",
-      "price": 96.0,
-      "regular_price": 119.0,
+      "price": 129.0,
+      "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
@@ -33842,7 +33842,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -34467,7 +34467,7 @@
     },
     "381798816": {
       "name": "بطارية ماج سيف انكر 10000 ملي امبير 15 واط لاسلكي و27 واط تايب سي",
-      "price": 195.99,
+      "price": 218.99,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -36963,7 +36963,7 @@
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -39098,7 +39098,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -39948,7 +39948,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -40641,7 +40641,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -44080,7 +44080,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -44626,7 +44626,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -45118,7 +45118,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15",
@@ -45517,7 +45517,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -47240,7 +47240,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كاميرات السيارة",
       "categories": [
         "كاميرات السيارة",
@@ -48350,7 +48350,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -54306,7 +54306,7 @@
       "regular_price": 139.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -54978,7 +54978,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -57177,7 +57177,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -59603,7 +59603,7 @@
       "regular_price": 2299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -60813,7 +60813,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة ايباد",
       "categories": [
         "حماية شاشة ايباد",
@@ -62431,7 +62431,7 @@
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -63214,7 +63214,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات ايباد",
       "categories": [
         "كفرات ايباد",
@@ -64243,7 +64243,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -64409,7 +64409,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -64626,7 +64626,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -65802,7 +65802,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -66846,7 +66846,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -68255,7 +68255,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -68586,7 +68586,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -71468,7 +71468,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -73575,7 +73575,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -74660,7 +74660,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -75053,11 +75053,26 @@
       ],
       "url": "https://mokab.com/توصيلة-بيلكن-8-منافذ-طاقة-مع-منفذين-تايب-سي-pd-بقوة-30-واط/p2020767873",
       "sku": "745883855650"
+    },
+    "130674579": {
+      "name": "تسوق سوار ساعة ابل 44 قماش أخضر من يونيك بأفضل سعر في السعودية",
+      "price": 119.0,
+      "regular_price": 119.0,
+      "on_offer": false,
+      "currency": "SAR",
+      "availability": "in stock",
+      "category": "الساعات الذكية واكسسواراتها",
+      "categories": [
+        "الساعات الذكية واكسسواراتها",
+        "سوار الساعة الذكية"
+      ],
+      "url": "https://mokab.com/يونيك-اسبين-سوار-قماشي-لساعة-ابل-42-44مم-اخضر/p130674579",
+      "sku": "8886463676400"
     }
   },
   "coverage": {
-    "scanned": 4578,
-    "gone": 421,
+    "scanned": 4579,
+    "gone": 420,
     "failed": 0,
     "percent": 100.0
   },
