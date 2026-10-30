@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:04:29.085574+00:00",
+  "generated_at": "2026-10-30T10:46:19.149834+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -989,7 +989,7 @@
     },
     "1008764097": {
       "name": "تسوق كفر يونيك ايفون 14 برو ماكس 6.7 انش &quot; - شفاف في السعودية",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1399,7 +1399,7 @@
     },
     "1083905877": {
       "name": "مسكة يونيك فليكسا المغناطيسية باللون الأسود - تسوق اونلاين",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4579,7 +4579,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -4935,7 +4935,7 @@
     },
     "1650486068": {
       "name": "كفر ايربودز الجيل الرابع يونيك لينو هايبرد ليكود سيليكون - رمادي",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7092,9 +7092,9 @@
     },
     "1980400164": {
       "name": "حماية شاشة ايفون 16 بلس من يونيك اوبتكس شفاف",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 69.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
@@ -8453,7 +8453,7 @@
     },
     "248447163": {
       "name": "اشتر حماية عدسات ايفون 17 يونيك اوبتكس المينيوم حماية صلبة",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9415,7 +9415,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اضاءات",
       "categories": [
         "اضاءات",
@@ -9477,7 +9477,7 @@
     },
     "384349245": {
       "name": "كاميرا داش كام A500S-1 أمامية وخلفية 2K من 70mai",
-      "price": 359.0,
+      "price": 329.0,
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -11110,7 +11110,7 @@
     },
     "628701592": {
       "name": "مسكة يونيك فليكسا مغناطيس باللون الأزرق - تسوق اونلاين",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15392,7 +15392,7 @@
     },
     "132044776": {
       "name": "فاليو ماج سيف كفر شفاف للايفون 15 برو - حماية مثالية - تسوق اونلاين",
-      "price": 19.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -17047,7 +17047,7 @@
     },
     "1580474834": {
       "name": "حماية شاشة للايفون 16 من يونيك اوبتكس - شفاف",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21156,7 +21156,7 @@
     },
     "277336062": {
       "name": "عدسات حماية كاميرا ايفون 16 برو / 16 برو ماكس الخلفية من يونيك اوبتكس",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21586,9 +21586,9 @@
     },
     "333206423": {
       "name": "استكشف منظم كيابل لاصق يونيك 8 في 1 رمادي ترتيب سريع",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 59.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات منوعة",
@@ -24593,7 +24593,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -27557,7 +27557,7 @@
     },
     "1276493726": {
       "name": "كفر حماية Amazingthing تيتان برو مع مسكة للايفون 15 برو - ازرق",
-      "price": 59.0,
+      "price": 69.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27621,7 +27621,7 @@
     },
     "1285475664": {
       "name": "تسوق كفر ايفون 14 برو نوفا - رمادي أونلاين بأفضل سعر في السعودية",
-      "price": 39.0,
+      "price": 89.4,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -28442,7 +28442,7 @@
       "regular_price": 3499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -30685,9 +30685,9 @@
     },
     "1756502436": {
       "name": "اشتر حامل مغناطيسي يونيك SnapMount برتقالي تثبيت سريع",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 69.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ستاندات وقواعد",
@@ -31741,7 +31741,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33099,7 +33099,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -33391,7 +33391,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -35497,7 +35497,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -35574,7 +35574,7 @@
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37505,7 +37505,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -37633,7 +37633,7 @@
     },
     "898592980": {
       "name": "اشتر حماية عدسات ايفون 17 يونيك اوبتكس شفاف وضوح وحماية",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -38134,7 +38134,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38632,7 +38632,7 @@
       "sku": "7340196217596"
     },
     "1062084057": {
-      "name": "شاحن لاسلكي JODA كيوب بقوة 30 واط 3 في 1 - رمادي",
+      "name": "شاحن لاسلكي JODA كيوب بقوة 35 واط 3 في 1 - رمادي",
       "price": 289.0,
       "regular_price": 449.01,
       "on_offer": true,
@@ -40641,7 +40641,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -41468,7 +41468,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -41578,11 +41578,11 @@
     },
     "1538702297": {
       "name": "كاميرا 360 درجة سيارة عرض كامل مع ذاكرة بحجم 32 جيجا - اسود",
-      "price": 599.0,
+      "price": 688.85,
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -42444,7 +42444,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -45661,7 +45661,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -54801,7 +54801,7 @@
     },
     "1658673130": {
       "name": "مسكة يونيك فليكسا المغناطيسية باللون الرمادي - تسوق اونلاين",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54978,7 +54978,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -55165,7 +55165,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -56046,7 +56046,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -58285,7 +58285,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -61087,7 +61087,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كيبل ايفون Lightning",
       "categories": [
         "كيبل ايفون Lightning",
@@ -64141,7 +64141,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -66660,9 +66660,9 @@
     },
     "163759515": {
       "name": "اشتر كفر حماية ايفون 17 لينو ماج سيف رمادي فحمي ستايل وحماية",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
@@ -66711,9 +66711,9 @@
     },
     "164454650": {
       "name": "استكشف بروجكتر يابر L2 Plus فل اتش دي JBL",
-      "price": 999.01,
+      "price": 949.0,
       "regular_price": 999.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
@@ -68018,7 +68018,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -68586,7 +68586,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -69852,7 +69852,7 @@
     },
     "215429725": {
       "name": "استكشف حامل مغناطيسي يونيك SnapMount رمادي تثبيت قوي",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71371,7 +71371,7 @@
     },
     "434078289": {
       "name": "حماية شاشة للايفون 16 برو من يونيك اوبتكس - شفاف",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -73221,7 +73221,7 @@
     },
     "723165130": {
       "name": "اشتر حماية عدسات ايفون 17 اير يونيك اوبتكس المينيوم",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -73855,7 +73855,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
