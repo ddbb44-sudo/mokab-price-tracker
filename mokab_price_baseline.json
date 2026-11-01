@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:04:28.288968+00:00",
+  "generated_at": "2026-11-01T10:48:35.571228+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -386,7 +386,7 @@
     },
     "107265390": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - فضي",
-      "price": 1999.0,
+      "price": 2399.0,
       "regular_price": 3799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -404,7 +404,7 @@
     },
     "849381435": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - وردي",
-      "price": 1999.0,
+      "price": 2399.0,
       "regular_price": 3799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -422,7 +422,7 @@
     },
     "2000988379": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3SL - اسود",
-      "price": 1999.0,
+      "price": 2399.0,
       "regular_price": 3799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -450,7 +450,7 @@
     },
     "415270650": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3T - اسود",
-      "price": 2499.0,
+      "price": 2999.0,
       "regular_price": 3499.0,
       "on_offer": true,
       "currency": "SAR",
@@ -485,7 +485,7 @@
     },
     "489938295": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - فضي",
-      "price": 1899.0,
+      "price": 1999.0,
       "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -502,7 +502,7 @@
     },
     "1392291619": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - وردي",
-      "price": 1899.0,
+      "price": 1999.0,
       "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -519,7 +519,7 @@
     },
     "489320467": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3MiniT - اسود",
-      "price": 1899.0,
+      "price": 1999.0,
       "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -536,7 +536,7 @@
     },
     "1861968014": {
       "name": "شنطة سكوتر كهربائي ايرويل SE3S - وردي",
-      "price": 2499.0,
+      "price": 2199.0,
       "regular_price": 3499.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1627,7 +1627,7 @@
       "regular_price": 749.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -7490,7 +7490,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12327,7 +12327,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -15643,7 +15643,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -17034,7 +17034,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20222,7 +20222,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -23497,7 +23497,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -24593,7 +24593,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -25340,7 +25340,7 @@
       "regular_price": 1099.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -31776,7 +31776,7 @@
       "regular_price": 1049.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -36801,7 +36801,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -39895,7 +39895,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -49236,7 +49236,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -50042,7 +50042,7 @@
       "regular_price": 459.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -50829,7 +50829,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -52836,7 +52836,7 @@
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -52915,7 +52915,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -53290,7 +53290,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -54737,7 +54737,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -54978,7 +54978,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -56046,7 +56046,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -60222,7 +60222,7 @@
       "regular_price": 4699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -62608,7 +62608,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -64931,7 +64931,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -65786,7 +65786,7 @@
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -66138,7 +66138,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -67516,7 +67516,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -68255,7 +68255,7 @@
       "regular_price": 99.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -68504,7 +68504,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 17 واكسسواراته",
       "categories": [
         "ايفون 17 واكسسواراته",
@@ -68571,7 +68571,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -69504,7 +69504,7 @@
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -73003,7 +73003,7 @@
       "regular_price": 949.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
