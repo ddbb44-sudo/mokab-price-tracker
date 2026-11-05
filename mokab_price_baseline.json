@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:12:54.716922+00:00",
+  "generated_at": "2026-11-05T11:33:10.026821+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -95,7 +95,7 @@
     },
     "648236797": {
       "name": "بكج راف باور مشغل سيارة 24000 ملي امبير مع مضخة هواء 60 واط",
-      "price": 599.0,
+      "price": 549.0,
       "regular_price": 998.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7810,7 +7810,7 @@
     },
     "2105653314": {
       "name": "استكشف بكج جهاز اشتراك السيارة جودا 8000mAh مع منفاخ 150 واط",
-      "price": 299.0,
+      "price": 269.0,
       "regular_price": 458.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14426,7 +14426,7 @@
       "regular_price": 2219.01,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
@@ -23478,7 +23478,7 @@
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -36716,7 +36716,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -37045,7 +37045,7 @@
       "regular_price": 299.0,
       "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -38854,7 +38854,7 @@
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -55001,7 +55001,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -63149,7 +63149,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -64325,7 +64325,7 @@
       "regular_price": 1399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -73685,26 +73685,10 @@
     }
   },
   "coverage": {
-    "scanned": 4564,
-    "gone": 420,
-    "failed": 15,
-    "percent": 99.67
+    "scanned": 4578,
+    "gone": 421,
+    "failed": 0,
+    "percent": 100.0
   },
-  "unread": [
-    "1091210702",
-    "965746440",
-    "969507504",
-    "973078090",
-    "974734240",
-    "976300130",
-    "978479530",
-    "979903491",
-    "984257994",
-    "98586637",
-    "988837200",
-    "991005151",
-    "994296806",
-    "99750713",
-    "999515494"
-  ]
+  "unread": []
 }
