@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:33:10.026821+00:00",
+  "generated_at": "2026-11-06T11:22:47.282090+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -115,7 +115,7 @@
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -159,9 +159,9 @@
     },
     "135203945": {
       "name": "قطعة كار بلاي لاسلكي كارلينكيت أندرويد 13 (128GB)",
-      "price": 649.0,
+      "price": 699.0,
       "regular_price": 699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "اكسسوارات السيارة",
@@ -192,7 +192,7 @@
     },
     "2129935165": {
       "name": "تسوق كاميرا سيارة داش كام A800SE بدقة 4K أمامية وخلفية من 70mai",
-      "price": 499.0,
+      "price": 448.99,
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -208,7 +208,7 @@
     },
     "59253531": {
       "name": "تسوق داش كام DDPAI Z60 Pro 4K بكاميرا أمامية وخلفية عالية الجودة",
-      "price": 799.0,
+      "price": 749.0,
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
@@ -285,11 +285,11 @@
     },
     "681889408": {
       "name": "منفاخ هواء واشتراك للسيارة بطارية ومشغل سيارة راف ملي",
-      "price": 429.0,
+      "price": 499.0,
       "regular_price": 669.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -560,9 +560,9 @@
     },
     "305533249": {
       "name": "داش كام DDPAI N5 Pro 4G بدقة 4K+2K",
-      "price": 899.0,
+      "price": 799.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -863,9 +863,9 @@
     },
     "1293628474": {
       "name": "استمتع داش كام DDPAi Z90 4K امامية وخلفية GPS 4G",
-      "price": 1049.0,
+      "price": 949.0,
       "regular_price": 1049.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -971,9 +971,9 @@
     },
     "1008764097": {
       "name": "تسوق كفر يونيك ايفون 14 برو ماكس 6.7 انش &quot; - شفاف في السعودية",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 69.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -1018,7 +1018,7 @@
     },
     "1014301515": {
       "name": "كفر ايربودز برو 2 AmazingThing مارسيكس - اسود",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1117,9 +1117,9 @@
     },
     "1032974967": {
       "name": "كفر بيج ماج سيف للايفون 14 من اوتربوكس بأفضل الأسعار في السعودية",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -1201,7 +1201,7 @@
     },
     "1049443214": {
       "name": "تسوق كفر ايباد اير 13 انش يونيك كامدين كليك - رمادي 2024 الآن",
-      "price": 159.0,
+      "price": 99.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -1246,11 +1246,11 @@
     },
     "105420771": {
       "name": "داش كام 70mai X800 4K كاميرا امامية وخلفية - اسود",
-      "price": 1079.0,
+      "price": 949.0,
       "regular_price": 1199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -1371,7 +1371,7 @@
     },
     "1083905877": {
       "name": "مسكة يونيك فليكسا المغناطيسية باللون الأسود - تسوق اونلاين",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1593,7 +1593,7 @@
     },
     "1113666865": {
       "name": "منصة راف باور 4 بطاريات 5000 ملي امبير بقوة 20 واط - اسود",
-      "price": 399.0,
+      "price": 448.99,
       "regular_price": 749.0,
       "on_offer": true,
       "currency": "SAR",
@@ -1933,7 +1933,7 @@
     },
     "1159738006": {
       "name": "سلك راف باور 60 واط تايب سي الى تايب سي بطول 1 متر - ازرق",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2068,9 +2068,9 @@
     },
     "118583099": {
       "name": "تسوق ميكروفونات سارامونيك االترا مزودجة لاسلكية 32 بايت - أبيض بأسعار",
-      "price": 678.99,
+      "price": 999.01,
       "regular_price": 999.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -2335,9 +2335,9 @@
     },
     "1240126268": {
       "name": "تيك 21 كفر حمايه ايفو كلير للايفون 14 بلس",
-      "price": 49.0,
+      "price": 169.0,
       "regular_price": 169.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -2401,7 +2401,7 @@
     },
     "1250810245": {
       "name": "سلك راف باور 140 واط مزدوج تايب سي الى تايب سي 1.2 متر - اسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2434,7 +2434,7 @@
     },
     "1254421535": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند للايفون 16 برو - اسود",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2575,7 +2575,7 @@
     },
     "1275477791": {
       "name": "كفر حماية يونغ كيت ارت فلم ماج سيف للايفون 14 برو",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -2651,7 +2651,7 @@
     },
     "1287851183": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 بلس جيشي اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -3001,9 +3001,9 @@
     },
     "1346079454": {
       "name": "شاشة حماية ايفون ١٥ برو ماكس - شفافة بأطراف سوداء",
-      "price": 89.0,
+      "price": 59.0,
       "regular_price": 89.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
@@ -3032,9 +3032,9 @@
     },
     "1349898112": {
       "name": "استكشف فوجي فيلم كاميرا انستاكس ميني ايفو ابيض",
-      "price": 749.0,
+      "price": 899.0,
       "regular_price": 899.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -3474,7 +3474,7 @@
     },
     "1429950898": {
       "name": "كفر رينكي فيوجن لآيفون 14 برو باللون الأسود المطفي - تسوق اونلاين",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -3539,7 +3539,7 @@
     },
     "1438259417": {
       "name": "كفر حماية يونيك هايبرد آير فيندر للايفون 15 برو - شفاف",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -3555,11 +3555,11 @@
     },
     "1444480710": {
       "name": "مفك كهربائي 3.6 فولت من هوتو بأسعار مميزة وجودة عالية",
-      "price": 169.0,
+      "price": 159.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -3697,7 +3697,7 @@
     },
     "1475239131": {
       "name": "تسوق انكر بطارية قلوية AAA عدد 4 اونلاين في السعودية",
-      "price": 25.0,
+      "price": 19.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -3888,7 +3888,7 @@
     },
     "1503723922": {
       "name": "تسوق كفر حماية ماج سيف يونيك هايبرد للايفون 15 برو - اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4029,11 +4029,11 @@
     },
     "1526871665": {
       "name": "تسوق تيك 21 حمايه شاشه للايفون 13 و 14 اونلاين في السعودية",
-      "price": 39.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -4124,7 +4124,7 @@
     },
     "1545759248": {
       "name": "كفر حماية ماج سيف Amazingthing تيتان برو مقاوم للصدمات",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4407,7 +4407,7 @@
     },
     "1584874130": {
       "name": "شاحن راف باور 30 واط جداري بمنفذ تايب سي - ابيض",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -4535,9 +4535,9 @@
     },
     "1605994473": {
       "name": "ميكروفون للجوال سارامونيك بمدخل لايتنينق للأيفون U1A  3.5 مم",
-      "price": 189.0,
+      "price": 289.0,
       "regular_price": 289.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -5123,7 +5123,7 @@
     },
     "1688517713": {
       "name": "كفر يونيك للأيفون 15 برو ماكس شفاف ومقاوم للصدمات",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -5282,9 +5282,9 @@
     },
     "171403205": {
       "name": "تسوق بطارية بيلكن 10000 ملي أمبير وردي بمنفذ USB وتايب سي",
-      "price": 69.0,
+      "price": 99.0,
       "regular_price": 99.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الشواحن والمنصات",
@@ -5500,7 +5500,7 @@
     },
     "1752517289": {
       "name": "تسوق كفر رينكي سليكون ايفون 14 بلس بيج اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -5956,7 +5956,7 @@
     },
     "1824312264": {
       "name": "تسوق شنطة صغيرة رينكي اسود اونلاين في السعودية",
-      "price": 34.5,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -6156,7 +6156,7 @@
     },
     "1857854605": {
       "name": "اشتر كفر ايباد اير 13 2024 يونيك موفين رمادي حماية يومية",
-      "price": 149.01,
+      "price": 89.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -6312,7 +6312,7 @@
     },
     "1881971277": {
       "name": "حامل بطاقات يونيك كوهيل مغناطيسي - مع ستاند ومرآة - كريمي",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -6565,9 +6565,9 @@
     },
     "1922947966": {
       "name": "اوتربوكس  كفر بنفسجي    ماق  سيف للايفون  14 بلس",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -6581,7 +6581,7 @@
     },
     "1924521239": {
       "name": "سماعة رأسية ساوندكور H30i لاسلكية - اسود",
-      "price": 99.0,
+      "price": 109.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -7029,7 +7029,7 @@
     },
     "1992438689": {
       "name": "تسوق ستاند دريب شفط مغناطيسي للجوال قابل للدوران 360 درجة - أبيض",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7109,7 +7109,7 @@
     },
     "2003494135": {
       "name": "شاحن جداري AceFast A4 بقوة 20 واط - منفذ USB Type-C - تسوق اونلاين",
-      "price": 25.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7139,7 +7139,7 @@
     },
     "2009610730": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 برو مع مسكة - ذهبي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7236,9 +7236,9 @@
     },
     "2026748329": {
       "name": "سوار - حزام ساعة ابل فضي مقاس 41 مل معدني ستيل",
-      "price": 59.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -7252,7 +7252,7 @@
     },
     "202897854": {
       "name": "بكج بطارية راف باور 10000 بقوة 30 واط مع شاحن جداري 65 واط - اسود",
-      "price": 149.01,
+      "price": 189.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7447,7 +7447,7 @@
     },
     "2056202615": {
       "name": "تسوق كفر حماية يونغ كيت روك ماج سيف - بنفسجي اونلاين في السعودية",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -7685,9 +7685,9 @@
     },
     "2090180016": {
       "name": "تسوق ميكروفونات سارامونيك االترا مزودجة لاسلكية 32 بايت - اسود بأسعار",
-      "price": 749.0,
+      "price": 999.01,
       "regular_price": 999.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -7731,9 +7731,9 @@
     },
     "2095106547": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 وردي الفورية صور ممتعة",
-      "price": 499.0,
+      "price": 649.0,
       "regular_price": 649.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -7973,9 +7973,9 @@
     },
     "2128970661": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون 14 برو ماكس وردي",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -8258,7 +8258,7 @@
     },
     "243556977": {
       "name": "كفر ايفون 14 برو يونغ كيت اكسكويزك ماج سيف - بنفسجي",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -8736,7 +8736,7 @@
     },
     "303954896": {
       "name": "استكشف ستاند ايباد مغناطيسي 360 درجة أزرق ثبات وزوايا مرنة",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -8937,9 +8937,9 @@
     },
     "332757689": {
       "name": "تسوق ميكروفون سارامونيك Blink500 Pro B1 لاسلكي بقوة 2.4 غيغا هرتز",
-      "price": 499.0,
+      "price": 999.01,
       "regular_price": 999.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ميكروفونات ترفيهية",
@@ -8951,7 +8951,7 @@
     },
     "335656676": {
       "name": "تسوق عدسات فاليو الشفافة رقم 1 للايفون 17 اير - جودة عالية وأفضل سعر",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -8984,7 +8984,7 @@
     },
     "339249323": {
       "name": "تسوق كفر رينكي سليكون ايفون 14 بلس وردي اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -9114,7 +9114,7 @@
     },
     "362372758": {
       "name": "سوار مطاطي لساعة ابل مقاس 38/40/41 مم - تصميم أنيق بيج",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9210,7 +9210,7 @@
     },
     "375995055": {
       "name": "كيبل جودا تايب سي سيليكون 60 واط - وردي",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9357,7 +9357,7 @@
     },
     "392870707": {
       "name": "تسوق مروحة تبريد جيسو لايف للرقبة بسعة 5000 ملي أمبير بأفضل سعر",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9454,7 +9454,7 @@
     },
     "411616706": {
       "name": "كفر ايفون 15 برو يونيك هايبرد شفاف مع مسكة - رمادي - تسوق اونلاين",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -9471,7 +9471,7 @@
     },
     "413508365": {
       "name": "كفر ايباد برو 11 وايباد اير 10.9 يونيك رفيوس مغناطيسي قابل للدواران",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9501,9 +9501,9 @@
     },
     "418562382": {
       "name": "تسوق راوتر هواوي B535-932A الجيل الرابع الأبيض بأفضل الأسعار الآن",
-      "price": 399.0,
+      "price": 649.0,
       "regular_price": 649.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
@@ -9516,7 +9516,7 @@
     },
     "421607957": {
       "name": "سلك تايب سي شحن سريع JODA 60 واط بطول 1 متر - ازرق، احصل عليه الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9632,7 +9632,7 @@
     },
     "4361460": {
       "name": "سلك تايب سي قوي JODA سيليكون 60 واط بطول 1 متر - اشترِ الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -9663,9 +9663,9 @@
     },
     "442403253": {
       "name": "حمايه شاشه تيك 21 للايفون 14 برو ماكس بأفضل الأسعار",
-      "price": 39.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
@@ -9697,9 +9697,9 @@
     },
     "447725991": {
       "name": "آي ديل اوف سويدن كفر جلد للايفون  14بلس اسود",
-      "price": 9.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -9749,7 +9749,7 @@
     },
     "45666558": {
       "name": "حامل بطاقات يونيك فليكسا المغناطيسي مع مسكة - لون أصفر - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10050,7 +10050,7 @@
     },
     "50442459": {
       "name": "حامل بطاقات يونيك هيلدرو مغناطيسي مع مسكة - تسوق اونلاين",
-      "price": 89.0,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10097,7 +10097,7 @@
     },
     "511102971": {
       "name": "منصة راف باور 4 بطاريات 10000 ملي امبير شحن وايرلس ماج سيف - اسود",
-      "price": 549.0,
+      "price": 499.0,
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
@@ -10144,9 +10144,9 @@
     },
     "51543809": {
       "name": "سلك شاحن راف باور تايب سي الى لايتنينج 1.2 متر أزرق",
-      "price": 59.0,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "وصلات وكيابل",
@@ -10464,7 +10464,7 @@
     },
     "559594625": {
       "name": "تسوق كفر ايباد 11 برو و10.9 اير يونيك رايز - لون أسود جذاب",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10567,7 +10567,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10595,7 +10595,7 @@
     },
     "586252100": {
       "name": "حامل بطاقات يونيك هيلدرو مغناطيسي فاخر مع مسكة - ازرق - تسوق اونلاين",
-      "price": 89.0,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10611,7 +10611,7 @@
     },
     "588324191": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 - جيشي اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -10659,9 +10659,9 @@
     },
     "595976152": {
       "name": "كفر سكين ارما للايفون 14 برو ماكس شفاف - حماية قصوى لجهازك",
-      "price": 19.0,
+      "price": 99.0,
       "regular_price": 99.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -10744,9 +10744,9 @@
     },
     "608377778": {
       "name": "كاميرا فوجي فيلم انستاكس ميني فورية",
-      "price": 749.0,
+      "price": 899.0,
       "regular_price": 899.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -10892,7 +10892,7 @@
     },
     "628701592": {
       "name": "مسكة يونيك فليكسا مغناطيس باللون الأزرق - تسوق اونلاين",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10906,7 +10906,7 @@
     },
     "631761184": {
       "name": "كاميرا داش كام VIOFO A229 Pro 4K مع جي بي اس أمامية وخلفية",
-      "price": 1299.01,
+      "price": 1099.0,
       "regular_price": 1349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -11063,7 +11063,7 @@
     },
     "66858395": {
       "name": "كفر حماية ماج سيف يونيك هايبرد للآيفون 15 برو - تسوق اونلاين",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -11161,7 +11161,7 @@
     },
     "681785836": {
       "name": "تسوق كفر حماية يونيك هايبرد ايفون 15 برو - أزرق مع مسكة مريحة",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -11637,7 +11637,7 @@
     },
     "769975901": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 برو ماكس مع مسكة - اسود",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12058,9 +12058,9 @@
     },
     "84039453": {
       "name": "كفر رينكي فيوجن اكس جالكسي s25 الترا - اسود جيشي",
-      "price": 99.0,
+      "price": 49.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -12155,7 +12155,7 @@
     },
     "853577435": {
       "name": "سماعة رأسية ساوندكور سبيس ون برو - ابيض",
-      "price": 448.99,
+      "price": 469.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12584,7 +12584,7 @@
     },
     "92202668": {
       "name": "بطارية راف باور 20 واط بسعة 10000 ملي امبير بمنفذ تايب سي و USB-A",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -12649,9 +12649,9 @@
     },
     "931666009": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون 14 وردي",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -12914,9 +12914,9 @@
     },
     "969507504": {
       "name": "سوار ساعة ابل AMAZINGthing مقاس 41 قماشي بني",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -13298,7 +13298,7 @@
     },
     "1028281596": {
       "name": "شاحن انكر 140 واط جداري بثلاث منافذ تايب سي ومنفذ يو اس بي - فضي",
-      "price": 259.0,
+      "price": 279.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13409,7 +13409,7 @@
     },
     "1050274505": {
       "name": "تسوق شنطة صغيرة رينكي عاجي اونلاين في السعودية",
-      "price": 34.5,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13735,7 +13735,7 @@
     },
     "1109644483": {
       "name": "حمايه شاشه تيك 21 + حماية كاميرا خلفية للايفون 15 برو",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13751,7 +13751,7 @@
     },
     "1110669763": {
       "name": "تسوق كفر ماج سيف يونيك هايبرد للايفون 15 برو اونلاين في السعودية",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -13957,7 +13957,7 @@
     },
     "1137045323": {
       "name": "سماعة اذن رياضية راف باور لاسلكية حول الرقبة - اسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14293,7 +14293,7 @@
     },
     "1193010719": {
       "name": "تسوق سماعة اذن ساوندكور أير كليب بلوتوث بلون اسود بأسعار مميزة",
-      "price": 299.0,
+      "price": 319.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14308,7 +14308,7 @@
     },
     "1195722458": {
       "name": "كفر ماج سيف يونيك هايبرد ترانسفورما للايفون 15 - ازرق",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14422,9 +14422,9 @@
     },
     "1214006161": {
       "name": "كاميرا dji action 6 Osmo ادفنشر كومبو تصوير احترافي",
-      "price": 2219.01,
+      "price": 1859.0,
       "regular_price": 2219.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -14619,7 +14619,7 @@
     },
     "124772189": {
       "name": "كفر جوال مع حامل بطاقات رينكي فيوجن ايفون 14 شفاف",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -14654,7 +14654,7 @@
     },
     "1250846031": {
       "name": "تسوق شنطة Alot جلد مايكروفايبر بسعة 1 لتر - حزام خلفي أزرق",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14910,7 +14910,7 @@
     },
     "1289967579": {
       "name": "اشتري عدسات ايفون شفافة عدد 2 للايفون 17 من فاليو بأسعار رائعة!",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -14956,7 +14956,7 @@
     },
     "1295980031": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث - وردي بأفضل الأسعار الآن!",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15101,7 +15101,7 @@
     },
     "132044776": {
       "name": "فاليو ماج سيف كفر شفاف للايفون 15 برو - حماية مثالية - تسوق اونلاين",
-      "price": 39.0,
+      "price": 19.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -15200,7 +15200,7 @@
     },
     "1337010060": {
       "name": "احمِ جهازك الآن: حماية شاشة يونيك اوبتكس للايباد اير 13 انش",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15309,7 +15309,7 @@
     },
     "1359479281": {
       "name": "بطارية متنقلة راف باور 20000 70W ملي اسود",
-      "price": 199.0,
+      "price": 189.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15397,7 +15397,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -15655,7 +15655,7 @@
     },
     "1413918765": {
       "name": "كفر رينكي اونيكس ديزاين لـ ايفون 15 برو ماكس - ازرق - تسوق اونلاين",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15718,7 +15718,7 @@
     },
     "1424914062": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند ومسكة للايفون 16 برو - ذهبي",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -15979,7 +15979,7 @@
     },
     "1468779759": {
       "name": "كفر رينكي فيوجن جالاكسي s22 اطراف اسود مع استاند",
-      "price": 29.0,
+      "price": 9.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16073,7 +16073,7 @@
     },
     "1485258225": {
       "name": "داش كام دباب DDPAI RANGER M1 للدراجات النارية بدقة 3K",
-      "price": 799.0,
+      "price": 699.0,
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
@@ -16178,7 +16178,7 @@
     },
     "1503147126": {
       "name": "شنطة كتف يونيك آردن - اسود",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16241,7 +16241,7 @@
     },
     "1509650412": {
       "name": "تسوق كفر رينكي فيوجن جالاكسي s22 شفاف اونلاين في السعودية",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16318,9 +16318,9 @@
     },
     "1523149725": {
       "name": "شاحن جداري راف باور 30 واط منفذ تايب سي منفذ USB أبيض",
-      "price": 59.0,
+      "price": 109.0,
       "regular_price": 109.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الشواحن والمنصات",
@@ -16403,7 +16403,7 @@
     },
     "1538161774": {
       "name": "مشغل بطارية السيارة راف باور 11000 ملي امبير بقوة 40.7 واط",
-      "price": 339.0,
+      "price": 299.0,
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16628,7 +16628,7 @@
     },
     "1568584476": {
       "name": "مخدة سيارة مريحة للرقبة قابلة للتعديل - أسود بأفضل الأسعار",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16663,7 +16663,7 @@
     },
     "157296726": {
       "name": "شنطة لابتوب يونيك قبرص مقاومة للماء مقاس 13-14 بوصة احمر الشروق",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16697,7 +16697,7 @@
     },
     "1576582507": {
       "name": "سلك راف باور سيلكون 60 واط تايب سي الى تايب سي 1.2 متر - اسود",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16806,7 +16806,7 @@
     },
     "1592693630": {
       "name": "شنظة ظهر Alot جلد - ازرق ورمادي",
-      "price": 149.01,
+      "price": 129.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -16885,11 +16885,11 @@
     },
     "1603937076": {
       "name": "كاميرا داش كام 4K MINI5 مع تتبع مباشر وشريحة 4G",
-      "price": 749.0,
+      "price": 699.0,
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -17012,7 +17012,7 @@
     },
     "1619150963": {
       "name": "تسوق سماعات أذن ساوندكور V20i الأزرق الأصلية بأسعار مميزة الآن",
-      "price": 99.0,
+      "price": 149.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17185,7 +17185,7 @@
     },
     "16462775": {
       "name": "بطارية راف باور 10000 بشاشة عرض وقوة 20 واط بثلاثة منافذ - اسود",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17425,7 +17425,7 @@
     },
     "1684741923": {
       "name": "تسوق كفر حماية ماج سيف للايفون 16 برو - بني مع مسكة",
-      "price": 129.0,
+      "price": 119.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17586,7 +17586,7 @@
     },
     "1707935192": {
       "name": "استكشف كفر سماعة ايربودز برو 4 يونيك كلايد وردي حماية أنيقة",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17679,7 +17679,7 @@
     },
     "1722349994": {
       "name": "تسوق تك 21 كفر ايفو تشك ماكس ماج سيف - أخضر اونلاين في السعودية",
-      "price": 69.0,
+      "price": 19.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17772,9 +17772,9 @@
     },
     "1737170604": {
       "name": "كفر حماية AMAZINGthing لساعة ابل سلسلة 7 مقاس 41 مل ازرق",
-      "price": 29.0,
+      "price": 79.01,
       "regular_price": 79.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -17865,7 +17865,7 @@
     },
     "1751268680": {
       "name": "تسوق ستاند دريب شفط مغناطيسي قابل للدواران 360 درجة للجوال - اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -17934,7 +17934,7 @@
     },
     "176048068": {
       "name": "تسوق مسكة حزام رينكي للجوال اصفر تذكرة اونلاين في السعودية",
-      "price": 11.99,
+      "price": 9.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -18435,9 +18435,9 @@
     },
     "1846864463": {
       "name": "اوتربوكس  كفر بنفسجي  ماق  سيف للايفون  14 برو ماكس",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -18466,9 +18466,9 @@
     },
     "1852506604": {
       "name": "تسوق جراب شفاف ايفون 14 بلس 6.7 انش مع مسكه ومغناطيس في السعودية",
-      "price": 89.4,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -18626,9 +18626,9 @@
     },
     "1877173175": {
       "name": "سوار ساعة ابل AMAZINGthing قماشي مقاس 41 باللون الأزرق",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -18688,9 +18688,9 @@
     },
     "1891935457": {
       "name": "يونيك ترانسفورما كفر للايفون 14 بلس 6.7 انش بلون كحلي - تسوق اونلاين",
-      "price": 59.4,
+      "price": 99.0,
       "regular_price": 99.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -18704,7 +18704,7 @@
     },
     "1894686652": {
       "name": "كفر جوال مع حامل بطاقات رينكي فيوجن ايفون 14 برو شفاف",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -18832,7 +18832,7 @@
     },
     "1915822751": {
       "name": "شاحن جداري راف باور 30 واط بمنفذ تايب سي اسود",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -18847,9 +18847,9 @@
     },
     "1917616972": {
       "name": "تيك 21 حمايه شاشه للايفون  13 برو ماكس و 14 بلس",
-      "price": 39.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
@@ -18925,9 +18925,9 @@
     },
     "1927082643": {
       "name": "كفر يونيك لينو للايفون 14 بلس 6.7 انش بلون بنك - تسوق اونلاين",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -18956,7 +18956,7 @@
     },
     "1931605714": {
       "name": "تسوق كفر يونيك روفوس مغناطيسي قابل للدوران للايباد اير 11 كحلي الآن!",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -19421,9 +19421,9 @@
     },
     "2000169654": {
       "name": "تسوق حقيبة ظهر كينجسون رمادي فاتح مع جوانب سوداء الآن!",
-      "price": 169.0,
+      "price": 129.0,
       "regular_price": 169.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "شنط ومحافظ",
@@ -19582,11 +19582,11 @@
     },
     "2026835482": {
       "name": "داش كام 70mai X800 4K كاميرا امامية وخلفية - احمر",
-      "price": 1049.0,
+      "price": 949.0,
       "regular_price": 1199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -19597,9 +19597,9 @@
     },
     "2029900375": {
       "name": "كفر آي ديل اوف سويد للايفون 14 برو ماكس أزرق غامق",
-      "price": 9.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -19696,9 +19696,9 @@
     },
     "2044344093": {
       "name": "تسوق داش كام DDPAI N2 بكاميرا أمامية وخلفية بدقة 2K في السعودية",
-      "price": 359.0,
+      "price": 299.0,
       "regular_price": 359.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -20043,7 +20043,7 @@
     },
     "209655900": {
       "name": "تسوق كفر حماية يونيك هايبرد ايفون 15 برو ماكس - ازرق جذاب!",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -20155,7 +20155,7 @@
     },
     "2109791746": {
       "name": "عدسات AMAZINGthing للايفون 15 برو - رمادي",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20170,9 +20170,9 @@
     },
     "2111614205": {
       "name": "كفر حماية من سكين ارما للايفون 14 بلس - شفاف",
-      "price": 19.0,
+      "price": 99.0,
       "regular_price": 99.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -20476,7 +20476,7 @@
     },
     "232885180": {
       "name": "شاحن لاسلكي بيلكن QI2 ثلاثة في واحد بقوة 15 واط قابل للطي - ابيض",
-      "price": 279.0,
+      "price": 199.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20588,7 +20588,7 @@
     },
     "25493310": {
       "name": "شنطة كتف يونيك دينفر كروس بودي - اسود",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20669,7 +20669,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20728,9 +20728,9 @@
     },
     "272510626": {
       "name": "آي ديل اوف سويدن كفر جلد للايفون 14 زيتي",
-      "price": 9.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -20899,7 +20899,7 @@
     },
     "297800349": {
       "name": "شاحن 33 واط انكر 323 جداري بمنفذ تايب سي ومنفذ يو اس بي - اسود",
-      "price": 69.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -20974,9 +20974,9 @@
     },
     "305560924": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون  14 ازرق غامق",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -21581,7 +21581,7 @@
     },
     "394470891": {
       "name": "كفر حماية ماج سيف Amazingthing تيتان برو مقاوم للصدمات",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -21962,9 +21962,9 @@
     },
     "454137439": {
       "name": "ميكروفون لاسلكي سارامونيك Blink100 B1 بسرعة 2.4 جيجا هرتز",
-      "price": 329.0,
+      "price": 425.01,
       "regular_price": 425.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -21977,7 +21977,7 @@
     },
     "456851233": {
       "name": "تسوق بروجكتر محمول يابر مع مكبر صوت جي بي ال 15 واط",
-      "price": 1999.0,
+      "price": 2199.0,
       "regular_price": 2799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22149,7 +22149,7 @@
     },
     "49461661": {
       "name": "شاحن لاسلكي بيلكن Qi2 مغناطيسي قابل للطي بقوة 15 واط - اسود",
-      "price": 139.0,
+      "price": 99.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -22430,7 +22430,7 @@
     },
     "531859015": {
       "name": "تسوق ستاند دريب مغناطيسي للجوال قابل للطي والدوران 360 درجة - أسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -22590,7 +22590,7 @@
     },
     "551422639": {
       "name": "تسوق كفر ايباد الجيل العاشر مغناطيسي 360 درجة بأفضل الأسعار!",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -22766,9 +22766,9 @@
     },
     "586305462": {
       "name": "تسوق ميكروفون سارامونيك Blink 500 ProX B8 لاسلكي لأربعة أشخاص الآن!",
-      "price": 1149.0,
+      "price": 1899.0,
       "regular_price": 1899.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -22781,25 +22781,26 @@
     },
     "589100750": {
       "name": "اشتر كاميرا DJI اوسمو 360 ستاندرد كومبو تصوير بجودة عالية",
-      "price": 1990.01,
+      "price": 1589.0,
       "regular_price": 1990.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "dji"
+        "dji",
+        "11.11"
       ],
       "url": "https://mokab.com/كاميرا-dji-اوسمو-360-درجة-ستاندرد-كومبو/p589100750",
       "sku": "6937224110502"
     },
     "594219785": {
       "name": "اشتر كاميرا DJI اوسمو 360 ادفنشر كومبو تصوير شامل بجودة",
-      "price": 2689.0,
+      "price": 1999.0,
       "regular_price": 2689.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -22978,9 +22979,9 @@
     },
     "624413522": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12 بنفسجي",
-      "price": 489.0,
+      "price": 579.0,
       "regular_price": 579.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -22994,7 +22995,7 @@
     },
     "626812029": {
       "name": "بكج راف باور شاحن جداري بمنفذ تايب سي مع سلك تايب سي - اسود",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23093,7 +23094,7 @@
     },
     "641503747": {
       "name": "بطارية متنقلة انكر زولا 35 واط 10000 ملي امبير بسلكين تايب سي - ابيض",
-      "price": 159.0,
+      "price": 169.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23186,7 +23187,7 @@
     },
     "658262878": {
       "name": "كفر رينكي فيوجن جالكسي s25 الترا - شفاف",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23283,7 +23284,7 @@
     },
     "673340124": {
       "name": "عدسات Ammazingthing عدد 2 للايفون 15 و 15 بلس  - اصفر",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23313,11 +23314,11 @@
     },
     "678834472": {
       "name": "سلك انكر باور لاين بلس يو اس بي الى لايتنينق 1.8 متر - اسود",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -23346,7 +23347,7 @@
     },
     "68341918": {
       "name": "شنطة لابتوب يونيك قبرص مقاومة للماء مقاس 15-16 بوصة ازرق",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23622,9 +23623,9 @@
     },
     "723541874": {
       "name": "اوتربوكس ألفا ستيكر زجاجي مضاد للميكروبات للايفون 14 الف ايفون 14",
-      "price": 19.0,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
@@ -23669,7 +23670,7 @@
     },
     "730423714": {
       "name": "كفر رينكي فيوجن شفاف لآيفون 14 بلس - حماية مثالية - تسوق اونلاين",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -23717,7 +23718,7 @@
     },
     "740699342": {
       "name": "تسوق كفر ايباد برو 11 انش 2024 يونيك كامدين كليك - رمادي الآن!",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23832,7 +23833,7 @@
     },
     "759449934": {
       "name": "بكج راف باور بطارية 20000 مع شاحن جداري 20 واط وسلك تايب سي",
-      "price": 129.0,
+      "price": 109.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23931,7 +23932,7 @@
     },
     "776016258": {
       "name": "سلك AceFast تايب سي إلى يو اس بي 60 واط بطول 1.2 متر - تسوق اونلاين",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 25.0,
       "on_offer": true,
       "currency": "SAR",
@@ -23979,7 +23980,7 @@
     },
     "785962339": {
       "name": "حامل مغناطيسي دريب للجوال قابل للدوران  - اسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24010,7 +24011,7 @@
     },
     "791247983": {
       "name": "تسوق شنطة Alot الكبيرة بسعة 1.5 لتر - بيج بأسعار مميزة الآن!",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24295,7 +24296,7 @@
     },
     "838280385": {
       "name": "حامل بطاقات يونيك فليكسا مغناطيسي مع مسكة - لون وردي - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24356,7 +24357,7 @@
     },
     "844282395": {
       "name": "تسوق كفر حماية يونغ كيت للايفون 14 برو ماكس - حماية متكاملة!",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -24594,7 +24595,7 @@
     },
     "89620643": {
       "name": "كفر رينكي فيوجن بمبر شفاف لأيفون 14 بلس بنفسجي",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -24847,9 +24848,9 @@
     },
     "932213682": {
       "name": "تسوق داش كام للسيارة DDPAI z60 pro 3 بدقة 4K لكاميرات متعددة الآن!",
-      "price": 1099.0,
+      "price": 949.0,
       "regular_price": 1099.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "اكسسوارات السيارة",
@@ -25075,7 +25076,7 @@
     },
     "961910308": {
       "name": "شاحن سيارة انكر 67 واط 335 بثلاثة منافذ مع سلك تايب سي - اسود",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -25140,9 +25141,9 @@
     },
     "973300149": {
       "name": "كيبل داش كام DDPAI كيبل تايب سي موصل للكاميرا",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "وصلات وكيابل",
@@ -25257,9 +25258,9 @@
     },
     "1002557602": {
       "name": "كفر حماية AMAZINGthing لساعة ابل سلسلة 7 مقاس 41 مل اسود",
-      "price": 29.0,
+      "price": 79.01,
       "regular_price": 79.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -25341,7 +25342,7 @@
     },
     "1011449756": {
       "name": "تسوق كفر رينكي سليكون ايفون 14 بروماكس وردي اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -25742,9 +25743,9 @@
     },
     "1077487029": {
       "name": "سوار ساعة ابل AMAZINGthing مقاس 45 قماشي بنفسجي",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -25856,9 +25857,9 @@
     },
     "1098197779": {
       "name": "علبة هدايا انستاكس ميني 12 فوجي فيلم",
-      "price": 489.0,
+      "price": 579.0,
       "regular_price": 579.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -25904,7 +25905,7 @@
     },
     "1106117805": {
       "name": "تسوق شنطة ظهر نحيفة VGOAL ريس 15.6 - احمر، تصميم أنيق ومريح",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -26444,7 +26445,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -26518,7 +26519,7 @@
     },
     "1191220526": {
       "name": "تسوق كاميرا سيارة داش كام VIOFO A229 Pro 4K أمامية وخلفية الآن",
-      "price": 1099.0,
+      "price": 899.0,
       "regular_price": 1249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -26566,9 +26567,9 @@
     },
     "1200075578": {
       "name": "استكشف داش كام سيارة 70mai T800E 4K امامية وداخلية وخلفية",
-      "price": 539.01,
+      "price": 479.0,
       "regular_price": 539.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -26866,9 +26867,9 @@
     },
     "1252710570": {
       "name": "سوار ساعة ابل مقاس 45 قماشي لون كحلي غامق اونلاين في السعودية",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -26897,7 +26898,7 @@
     },
     "1257928099": {
       "name": "كفر Amazingthing تيتان برو مع محفظة للايفون 15 برو - ازرق",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27087,7 +27088,7 @@
     },
     "1285475664": {
       "name": "تسوق كفر ايفون 14 برو نوفا - رمادي أونلاين بأفضل سعر في السعودية",
-      "price": 89.4,
+      "price": 39.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -27410,7 +27411,7 @@
     },
     "1337108419": {
       "name": "كفر حماية ماج سيف يونيك كومباكت هايبرد للايفون 15 برو",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27462,7 +27463,7 @@
     },
     "1346540907": {
       "name": "داش كام شاومي 70mai A200 كاميرا أمامية وخلفية",
-      "price": 299.0,
+      "price": 279.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27896,7 +27897,8 @@
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
-        "بطارية متنقلة"
+        "بطارية متنقلة",
+        "11.11"
       ],
       "url": "https://mokab.com/باورستيشن-ايكو-فلو-ريفر-3-ماكس-بلس-eb600-اسود/p141907062",
       "sku": "4895251628051"
@@ -27962,7 +27964,7 @@
     },
     "1427855363": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث - جودة صوت عالية وأداء ممتاز",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27991,7 +27993,7 @@
     },
     "1432898229": {
       "name": "اشتر كاميرا سيارة داش كام VIOFO لتسجيل واضح وحماية",
-      "price": 1699.0,
+      "price": 1598.99,
       "regular_price": 1799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28182,7 +28184,7 @@
     },
     "1476435003": {
       "name": "تسوق سماعة اذن ساوندكور ليبرتي 4 NC عازل للضجيج بلون وردي الآن",
-      "price": 269.0,
+      "price": 289.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28321,7 +28323,7 @@
     },
     "14975274": {
       "name": "حماية شاشة يونيك اوبتكس شفاف للايباد برو 13 انش - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28370,9 +28372,9 @@
     },
     "1503287190": {
       "name": "كفر يونيك لينو للايفون 14 بلس 6.7 انش - اسود - تسوق اونلاين",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -28560,7 +28562,7 @@
     },
     "1529726632": {
       "name": "كفر يونيك موفن لايباد اير 13 انش - اللون الوردي - تسوق اونلاين",
-      "price": 149.01,
+      "price": 89.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -28592,7 +28594,7 @@
     },
     "1537577299": {
       "name": "كفر رينكي فيوجن لآيفون 14 بمبر بنفسجي شفاف - تسوق اونلاين",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -28751,7 +28753,7 @@
     },
     "1558681819": {
       "name": "مروحة محمولة منفاخ هواء جيسو لايف 9 بلون وردي مميز",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28903,7 +28905,7 @@
     },
     "1578803164": {
       "name": "اشتر كفر ايربودز برو 4 يونيك كلايد مع تعليقة برتقالي رمادي",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -28934,7 +28936,7 @@
     },
     "15840982": {
       "name": "حامل بطاقات يونيك فليكسا مغناطيسي مع مسكة يد - لون اخضر - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -29346,7 +29348,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -29358,11 +29360,11 @@
     },
     "164532177": {
       "name": "داش كام مخفي DDPAI N3 برو كاميرا أمامية وخلفية",
-      "price": 349.0,
+      "price": 299.0,
       "regular_price": 449.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -29538,7 +29540,7 @@
     },
     "1668317088": {
       "name": "اشتر كفر شفاف ايفون 17 فاليو حماية قوية مع وضوح كامل",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 70.15,
       "on_offer": true,
       "currency": "SAR",
@@ -29984,9 +29986,9 @@
     },
     "1737726358": {
       "name": "عدسة حماية كاميرا ايفون 14 - حامي مثالي لجودة التصوير",
-      "price": 9.0,
+      "price": 69.0,
       "regular_price": 69.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -29999,7 +30001,7 @@
     },
     "1739745320": {
       "name": "لعبة فيفا 23 سوني ٥ مع عروض  فيفا 23",
-      "price": 149.01,
+      "price": 79.01,
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30094,7 +30096,7 @@
     },
     "1756502436": {
       "name": "اشتر حامل مغناطيسي يونيك SnapMount برتقالي تثبيت سريع",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30204,7 +30206,7 @@
     },
     "1773685915": {
       "name": "كفر Amazingthing تيتان برو مع محفظة للايفون 15 برو - اسود",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30220,9 +30222,9 @@
     },
     "1776595361": {
       "name": "تسوق كفر لساعة ابل سلسلة 7 مقاس 41 مل - شفاف في السعودية",
-      "price": 29.0,
+      "price": 79.01,
       "regular_price": 79.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -30497,7 +30499,7 @@
     },
     "1817083378": {
       "name": "مكبر صوت محمول أنكر ساوندكور 50 واط مقاوم للماء",
-      "price": 349.0,
+      "price": 399.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30512,7 +30514,7 @@
     },
     "1819105290": {
       "name": "كفر ماج سيف يونيك لايف برو للايفون 15 - ازرق",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30561,7 +30563,7 @@
     },
     "1828410676": {
       "name": "كفر حماية يونيك هايبرد آير فيندر للايفون 15 برو - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -30642,7 +30644,7 @@
     },
     "1845658011": {
       "name": "ستاند دريب شفط للجوال مغناطيسي قابل للدواران 360 درجة - اسود",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -30924,7 +30926,7 @@
     },
     "1889940530": {
       "name": "شاحن انكر 20 واط جداري بمنفذ تايب سي - اسود",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -30940,7 +30942,7 @@
     },
     "1892303740": {
       "name": "مروحة تبريد جيسو لايف برو 1 قابلة للتعديل مع شاشة رقمية - بني",
-      "price": 179.0,
+      "price": 199.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31128,9 +31130,9 @@
     },
     "1921980491": {
       "name": "تسوق منصة شحن AceFast B8 للسيارة بشاشة رقمية - تجربة فريدة!",
-      "price": 69.0,
+      "price": 139.0,
       "regular_price": 139.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الشواحن والمنصات",
@@ -31178,7 +31180,7 @@
     },
     "1927736750": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 بلس اطراف اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -31225,7 +31227,7 @@
     },
     "1933380329": {
       "name": "تسوق كفر رينكي اونيكس جالاكسي s22 كحلي اونلاين في السعودية",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31615,7 +31617,7 @@
     },
     "1986776320": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 مع مسكة - شفاف",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31666,7 +31668,7 @@
     },
     "1995609827": {
       "name": "استكشف كفر شفاف ايفون 17 برو فاليو ماج سيف حماية وشحن",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -31685,7 +31687,7 @@
     },
     "199719409": {
       "name": "كفر حماية يونيك هايبرد ليدن ماج سيف للايفون 16 برو - جملي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31732,7 +31734,7 @@
     },
     "2002434025": {
       "name": "بطارية انكر زولو 35 واط بسعة 10000 ملي امبير مع سلكين تايب سي",
-      "price": 149.01,
+      "price": 169.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -31899,7 +31901,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32147,7 +32149,7 @@
     },
     "2070866982": {
       "name": "كفر حماية يونيك هايبرد ليدن ماج سيف للايفون 16 برو - رمادي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32259,7 +32261,7 @@
     },
     "2086328859": {
       "name": "سماعة اذن انكر ساوند كور ايرو فيت بلوتوث - اسود",
-      "price": 179.0,
+      "price": 199.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32339,7 +32341,7 @@
     },
     "2095814561": {
       "name": "تسوق كفر حماية يونيك هايبرد آير فيندر شفاف للايفون 15 الآن",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -32408,7 +32410,7 @@
     },
     "2102570436": {
       "name": "اشتر كفر شفاف ايفون 17 برو ماكس فاليو ماج سيف حماية وشحن",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -32427,7 +32429,7 @@
     },
     "2104123354": {
       "name": "سكين ارما أبيكس  كفر حماية  للايفون 15 برو مع مسكة اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -32475,9 +32477,9 @@
     },
     "211012410": {
       "name": "يونيك اوبتيكس حماية الكامير الخلفيه للايفون 14 /14 بلس",
-      "price": 39.0,
+      "price": 59.0,
       "regular_price": 59.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -32600,7 +32602,7 @@
     },
     "2131473213": {
       "name": "كفر يونيك رفيوس لايباد برو 11 (2021-22) وايباد اير - تسوق اونلاين",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32615,9 +32617,9 @@
     },
     "2133113850": {
       "name": "تسوق غطاء جوال ايفون 14 برو 6.1 انش - باربل بأفضل سعر في السعودية",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -32649,7 +32651,7 @@
     },
     "2137373089": {
       "name": "تسوق سماعة اذن ساوندكور R50I NC بلوتوث الأصلية - لون أسود مميز",
-      "price": 89.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -32949,7 +32951,7 @@
     },
     "253792716": {
       "name": "سوار ساعة ابل يونيك ريفيكس مغناطيسي 38/40/41 - الأخضر - تسوق اونلاين",
-      "price": 89.0,
+      "price": 79.01,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -33171,7 +33173,7 @@
     },
     "289513086": {
       "name": "شنطة يد Alot جلد مقاس 11.5*11*21 سم - ازرق ورمادي",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -33278,9 +33280,9 @@
     },
     "302809327": {
       "name": "راوتر هواوي CPE الجيل الخامس - أبيض مع أداء متميز وأسعار رائعة",
-      "price": 1299.01,
+      "price": 1699.0,
       "regular_price": 1699.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
@@ -33552,7 +33554,7 @@
     },
     "342167389": {
       "name": "شاحن جداري AceFast A4 بقوة 20 واط - منفذ تايب سي USB - تسوق اونلاين",
-      "price": 25.0,
+      "price": 29.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34030,7 +34032,7 @@
     },
     "413733671": {
       "name": "كفر حماية ماج سيف يونيك لايف برو للايفون 15 - شفاف",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34526,7 +34528,7 @@
     },
     "502683195": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند للايفون 16 برو - ذهبي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34663,7 +34665,7 @@
     },
     "519887889": {
       "name": "بكج راف باور للسفر: باور بانك 10000 وفيش سفر وشاحن سيارة وسلكين",
-      "price": 189.0,
+      "price": 169.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34866,9 +34868,9 @@
     },
     "548453501": {
       "name": "اوتربوكس  كفر اسود   ماق  سيف للايفون  14 بلس",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -34913,9 +34915,9 @@
     },
     "552193141": {
       "name": "كفر سكين ارما للايفون 14 برو شفاف مع مسكه - اطلب الان!",
-      "price": 19.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -35059,7 +35061,7 @@
     },
     "582385612": {
       "name": "شنطة كوره SuperCute لكرة القدم بأفضل الأسعار وجودة عالية",
-      "price": 55.0,
+      "price": 59.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -35168,7 +35170,7 @@
     },
     "600853870": {
       "name": "شنطة كتف يونيك آردن - بيج",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -35392,7 +35394,7 @@
     },
     "648411012": {
       "name": "تسوق شنطة لاب توب Alot كبيرة بسعة 22.5 لتر - تصميم عصري باللون الأسود",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -35441,7 +35443,7 @@
     },
     "654997378": {
       "name": "سماعة اذن لاسلكية راف باور - اسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -37619,7 +37621,7 @@
     },
     "1019101858": {
       "name": "شاحن جداري 65 واط انكر تايب سي بتقنية PD ومنفذ يو اس بي",
-      "price": 139.0,
+      "price": 149.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37665,7 +37667,7 @@
     },
     "1025899612": {
       "name": "تسوق شنطة Alot جلد فاخر بسعة 1 لتر مع حزام خلفي - لون أخضر مميز",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -37777,7 +37779,7 @@
     },
     "1044565390": {
       "name": "كفر رينكي فيوجن بمبر شفاف لأيفون 14 بروماكس بنفسجي",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -37815,7 +37817,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38362,7 +38364,7 @@
     },
     "113877737": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند للايفون 16 برو - شفاف",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -38447,7 +38449,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -38480,7 +38482,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -38946,7 +38948,7 @@
     },
     "1244164146": {
       "name": "بطارية متنقلة راف باور الترا 100 واط بسعة 20000 بشاشة عرض - اسود",
-      "price": 339.0,
+      "price": 309.01,
       "regular_price": 449.01,
       "on_offer": true,
       "currency": "SAR",
@@ -39069,7 +39071,7 @@
     },
     "1259217407": {
       "name": "سماعة رأسية ساوندكور سبيس ون برو - اسود",
-      "price": 448.99,
+      "price": 469.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39148,7 +39150,7 @@
     },
     "1271200818": {
       "name": "عدسات Ammazingthing عدد 2 للايفون 15 و 15 بلس - وردي",
-      "price": 25.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39164,9 +39166,9 @@
     },
     "1273110830": {
       "name": "تسوق تيك 21 كفر حمايه ايفو كلير للايفون 14 اونلاين في السعودية",
-      "price": 99.0,
+      "price": 169.0,
       "regular_price": 169.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -39417,7 +39419,7 @@
     },
     "1311994095": {
       "name": "حمايه شاشه تيك 21 + حماية الكاميرا الخلفية للايفون 15",
-      "price": 49.0,
+      "price": 29.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39481,7 +39483,7 @@
     },
     "1321505898": {
       "name": "كفر حماية ايفون 15 برو مع محفظة مقاوم للصدمات - رمادي، اطلب الآن!",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39672,7 +39674,7 @@
     },
     "1356210464": {
       "name": "تسوق كاميرا داش كام 70mai T800 بدقة 4K أمامية وخلفية في السعودية",
-      "price": 1399.0,
+      "price": 1349.0,
       "regular_price": 1569.0,
       "on_offer": true,
       "currency": "SAR",
@@ -39874,7 +39876,7 @@
     },
     "1388997391": {
       "name": "تسوق كفر يونيك روفوس مغناطيسي قابل للدوران 360 درجة للايباد الجيل",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -39920,9 +39922,9 @@
     },
     "1399315143": {
       "name": "غطاء حماية ايفون 14 برو أسود لحماية قصوى مع مسكة من سكين ارما",
-      "price": 89.4,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -40237,7 +40239,7 @@
     },
     "1450651152": {
       "name": "اشتر سماعة اذن ساوندكور V40i لاسلكية أسود صوت ومكالمات",
-      "price": 218.99,
+      "price": 199.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40271,9 +40273,9 @@
     },
     "1454883054": {
       "name": "سويتش بوت switch bot ميني للتحكم عن بعد للمنزل الذكي",
-      "price": 169.0,
+      "price": 129.0,
       "regular_price": 169.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
@@ -40285,7 +40287,7 @@
     },
     "1458321317": {
       "name": "كفر رينكي اونيكس لايفون 15 برو بتصميم ديزاين أسود ملون - تسوق اونلاين",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40510,9 +40512,9 @@
     },
     "1495812990": {
       "name": "كفر حماية ماج سيف من سكين ارما للايفون 14 بلس - شفاف",
-      "price": 19.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -40781,7 +40783,7 @@
     },
     "1538702297": {
       "name": "كاميرا 360 درجة سيارة عرض كامل مع ذاكرة بحجم 32 جيجا - اسود",
-      "price": 599.0,
+      "price": 549.0,
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40992,7 +40994,7 @@
     },
     "1568711406": {
       "name": "تسوق كفر يونيك روفوس مغناطيسي قابل للدوران للايباد اير 11 - أسود",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -41022,7 +41024,7 @@
     },
     "1571609872": {
       "name": "اشتر كفر سماعة ايربودز 4 UNIQ Clyde حماية وتعليقة",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41082,7 +41084,7 @@
     },
     "1580768300": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند للايفون 16 برو ماكس - ذهبي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41099,7 +41101,7 @@
     },
     "1585969691": {
       "name": "لعبة فيفا 24 بلايستيشن 5 - تجربة ممتعة مع لعبة FC24 الأصلية",
-      "price": 199.0,
+      "price": 79.01,
       "regular_price": 279.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41161,7 +41163,7 @@
     },
     "1595800424": {
       "name": "تك 21 كفر ايفو تشك للايفون 14 بلس - بنفسجي",
-      "price": 59.0,
+      "price": 19.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41210,7 +41212,7 @@
     },
     "1604169276": {
       "name": "يونيك كفر ايفون 15 برو مع اطار لعدسة الكاميرا - ازرق",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41410,7 +41412,7 @@
     },
     "1628691353": {
       "name": "تسوق كفر ايفون 15 برو ماكس يونيك هايبرد مع مسكة - ازرق مميز",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -41506,7 +41508,7 @@
     },
     "1644336557": {
       "name": "حماية كاميرا ايفون 15 برو ماكس بأفضل سعر في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -41731,9 +41733,9 @@
     },
     "1672794998": {
       "name": "تسوق اوتربوكس كفر بنفسجي ماج سيف للايفون 14 اونلاين في السعودية",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -41762,7 +41764,7 @@
     },
     "1679377477": {
       "name": "كفر ايفون 15 برو سيليكون مع حواف كاميرا قابلة للتبديل - رمادي",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -42133,7 +42135,7 @@
     },
     "1733555540": {
       "name": "شنطه قماش يونيك هافا مقاس 14 انش باللون الأسود بأفضل الأسعار",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -42291,7 +42293,7 @@
     },
     "1758222324": {
       "name": "حماية شاشة رينكي للايفون 14 بلس و13 برو ماكس شفاف",
-      "price": 39.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -42401,7 +42403,7 @@
     },
     "1776917855": {
       "name": "مجموعة ادوات فك البراغي هوتو",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -42598,7 +42600,7 @@
     },
     "1806623759": {
       "name": "تسوق كفر ايباد برو 11 اصدار 21 و 22 لون ازرق بأفضل سعر في السعودية",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43134,7 +43136,7 @@
     },
     "1898635578": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 برو مع مسكة - اسود",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43248,7 +43250,7 @@
     },
     "1918605277": {
       "name": "كفر رينكي فيوجن اكس جالكسي s25 الترا - اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43283,7 +43285,7 @@
     },
     "1921983240": {
       "name": "حامل بطاقات يونيك هيلدرو مغناطيسي مع مسكة - لون وردي - تسوق اونلاين",
-      "price": 89.0,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -43691,9 +43693,9 @@
     },
     "1983112864": {
       "name": "تسوق تيك 21 حمايه شاشه للايفون 14 برو اونلاين في السعودية",
-      "price": 39.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
@@ -43767,7 +43769,7 @@
     },
     "1995754101": {
       "name": "كفر ايفون 15 برو يونيك هايبرد بمسكة - أسود - تسوق اونلاين",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -43936,7 +43938,7 @@
     },
     "2023851887": {
       "name": "كفر رينكي فيوجن بولد جالكسي s25 الترا - اطراف اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44110,7 +44112,7 @@
     },
     "20494698": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 برو ماكس مع مسكة - ذهبي",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44237,7 +44239,7 @@
     },
     "2068348079": {
       "name": "تسوق كفر ايباد اير 11 انش يونيك كامدين كليك رمادي 2024 الآن!",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44388,7 +44390,7 @@
     },
     "2089981506": {
       "name": "سلك ابل تايب سي JODA سيليكون 60 واط بطول 1 متر - اشتري الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44468,9 +44470,9 @@
     },
     "2099012651": {
       "name": "ميكروفونات لاسلكية سارامونيك 2.4 جيجا هرتز 128 بايت اسود",
-      "price": 499.0,
+      "price": 669.0,
       "regular_price": 669.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -44784,9 +44786,9 @@
     },
     "22108391": {
       "name": "اشتر ترايبود DJI اوسمو موبايل 8 لثبات تصوير احترافي",
-      "price": 589.0,
+      "price": 539.01,
       "regular_price": 589.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -44801,7 +44803,7 @@
     },
     "22334331": {
       "name": "سلك ايفون تايب سي اصلي 60 واط بطول 1 متر - ابيض، اطلبه الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -44833,7 +44835,7 @@
     },
     "228436165": {
       "name": "سلك راف باور تايب سي الى لايتنينق بطول 3 متر - اسود",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45400,7 +45402,7 @@
     },
     "316113642": {
       "name": "تسوق محفظة جلد لجواز السفر والبطاقات بتقنية RFID وجيب مغناطيسي - بني",
-      "price": 169.0,
+      "price": 119.0,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45481,7 +45483,7 @@
     },
     "327332638": {
       "name": "شنظة ظهر Alot جلد - اخضر  وبيج",
-      "price": 149.01,
+      "price": 129.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45527,7 +45529,7 @@
     },
     "333821342": {
       "name": "كفر حماية يونغ كيت للايفون 14 برو - ابيض",
-      "price": 69.0,
+      "price": 39.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45543,7 +45545,7 @@
     },
     "336379074": {
       "name": "حامل بطاقات يونيك كوهيل مغناطيسي متعدد الاستخدامات - تسوق اونلاين",
-      "price": 79.01,
+      "price": 59.0,
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45609,7 +45611,7 @@
     },
     "34714443": {
       "name": "مشغل بطارية السيارة راف بور 8000 ملي امبير مع منفاخ - اسود",
-      "price": 349.0,
+      "price": 399.0,
       "regular_price": 549.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45688,7 +45690,7 @@
     },
     "364400743": {
       "name": "راف باور 20000 ملي امبير بطارية متنقلة بقوة 70 واط باربعة منافذ",
-      "price": 249.0,
+      "price": 229.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45738,7 +45740,7 @@
     },
     "370894082": {
       "name": "شنطة كتف يونيك دينفر كروس بودي - ازرق",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -45754,7 +45756,7 @@
     },
     "372295333": {
       "name": "كفر رينكي سليكون لايفون 14 بلون وردي - حماية ممتازة - تسوق اونلاين",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -45863,9 +45865,9 @@
     },
     "388271383": {
       "name": "كفر حماية مع مسكة من سكين ارما للايفون 14 بلس - أحمر",
-      "price": 19.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -46090,7 +46092,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -46102,7 +46104,7 @@
     },
     "423549016": {
       "name": "كفر ايفون 13 حماية فائقة من تك 21 اونلاين في السعودية",
-      "price": 99.0,
+      "price": 19.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46430,7 +46432,7 @@
     },
     "479255998": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 برو اطراف اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -46479,7 +46481,7 @@
     },
     "485489401": {
       "name": "تسوق مسكة حزام رينكي للجوال اخضر اونلاين في السعودية",
-      "price": 11.99,
+      "price": 9.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46667,7 +46669,7 @@
     },
     "513722661": {
       "name": "كفر رينكي اونيكس لـ ايفون 15 برو ماكس - أسود ملون",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46747,7 +46749,7 @@
     },
     "52679246": {
       "name": "تسوق كفر ايباد اير 11 انش 2024 يونيك كامدين كليك - لون ازرق",
-      "price": 129.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46968,7 +46970,7 @@
     },
     "555339437": {
       "name": "كفر رينكي فيوجن ايفون 14 بلس شفاف مع حافظة بطاقات",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -47098,7 +47100,7 @@
     },
     "587006264": {
       "name": "تسوق كفر ايباد برو 11 انش 2024 يونيك راير 360 - بني الآن!",
-      "price": 149.01,
+      "price": 119.0,
       "regular_price": 239.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47113,7 +47115,7 @@
     },
     "590584423": {
       "name": "بكج راف باور شاحن جداري تايب سي مع سلك تايب سي الى تايب سي - ابيض",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47254,7 +47256,7 @@
     },
     "613233770": {
       "name": "سلك انكر يو اس بي الى لايتنينق باور لاين 1.8 متر - اسود",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47330,7 +47332,7 @@
     },
     "627705294": {
       "name": "شنظة كتف Alot كروس بودي - ازرق ورمادي",
-      "price": 89.0,
+      "price": 79.01,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -47509,9 +47511,9 @@
     },
     "655003207": {
       "name": "كيبل تايب سي موصل للكامير اDDPAI Z60",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -47947,9 +47949,9 @@
     },
     "726989677": {
       "name": "داش كام DDPAI Z60 4K امامية وخلفية وداخلية GPS",
-      "price": 899.0,
+      "price": 749.0,
       "regular_price": 899.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -47962,7 +47964,7 @@
     },
     "728546544": {
       "name": "حماية الكاميرا ايفون 15 برو - كريستال شفاف يونيك اوبتكس",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -48115,7 +48117,7 @@
     },
     "753957580": {
       "name": "بطارية راف باور 20000 ملي امبير بقوة 20 واط بثلاثة منافذ - اسود",
-      "price": 199.0,
+      "price": 149.01,
       "regular_price": 259.0,
       "on_offer": true,
       "currency": "SAR",
@@ -48299,9 +48301,9 @@
     },
     "786471592": {
       "name": "تسوق سوار ساعة ابل حديد مقاس 41 مل معدني ستيل اسود في السعودية",
-      "price": 59.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -48315,7 +48317,7 @@
     },
     "790045472": {
       "name": "سلكين راف باور تايب سي الى 1 متر 2 متر اسود",
-      "price": 29.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -48333,9 +48335,9 @@
     },
     "791618850": {
       "name": "كيبل بوتسلاب تايب سي لتشغيل الداش كام 24 ساعة",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -48411,7 +48413,7 @@
     },
     "807330558": {
       "name": "مروحة محمولة منفاخ هواء جيسو لايف 9 - اسود",
-      "price": 119.0,
+      "price": 129.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -48844,7 +48846,7 @@
     },
     "877317752": {
       "name": "تك 21 كفر ايفو تشك ماج سيف للايفون 14 بلس - بنفسجي",
-      "price": 59.0,
+      "price": 19.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -48861,7 +48863,7 @@
     },
     "879809969": {
       "name": "فرشاة تنظيف للأجهزة الذكية ( ايربودز ، لابتوب ، جوال) - ابيض",
-      "price": 25.0,
+      "price": 29.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49139,7 +49141,7 @@
     },
     "9235912": {
       "name": "سلك راف باور 240 واط تايب سي الى تايب سي بطول 1 متر - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49190,7 +49192,7 @@
     },
     "929813277": {
       "name": "تسوق وصلة AceFast تايب سي إلى يو اس بي - أسود، جودة عالية!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49205,7 +49207,7 @@
     },
     "933471347": {
       "name": "كفر Amazingthing تيتان برو مع محفظة للايفون 15 برو ماكس - اسود",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49382,7 +49384,7 @@
     },
     "960733785": {
       "name": "كفر حماية يونيك هايبرد آير فيندر لـ iPhone 15 Pro Ma - تسوق اونلاين",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -49427,7 +49429,7 @@
     },
     "966347188": {
       "name": "شنطة كتف يونيك دينفر كروس بودي - بيج",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49443,9 +49445,9 @@
     },
     "971093424": {
       "name": "كفر يونيك لينو للايفون 14 بحجم 6.1 إنش باللون البنكي - تسوق اونلاين",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -49461,9 +49463,9 @@
     },
     "973760544": {
       "name": "كاميرا وطابعة ميني ايفو من فوجي فيلم فورية هجينة (روز)",
-      "price": 999.01,
+      "price": 1099.0,
       "regular_price": 1099.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -49508,9 +49510,9 @@
     },
     "979080302": {
       "name": "سماعة مع ميكروفون ومايك لاسلكي من جي بي ال (JBL)",
-      "price": 349.0,
+      "price": 499.0,
       "regular_price": 499.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "ملحقات الصوت",
@@ -49604,7 +49606,7 @@
     },
     "995628660": {
       "name": "اشتر داش كام 70mai M800 4K أمامي وخلفي وضوح وأمان",
-      "price": 699.0,
+      "price": 649.0,
       "regular_price": 799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49634,7 +49636,7 @@
     },
     "1003143642": {
       "name": "مكبر صوت انكر ساوند كور انفيني لاسلكي 2.1 قناة ساوند بار - اسود",
-      "price": 369.0,
+      "price": 399.0,
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49649,7 +49651,7 @@
     },
     "1005057296": {
       "name": "شنطة يد Alot جلد مقاس 11.5*11*21 سم - بيج واخضر",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50086,7 +50088,7 @@
     },
     "1077707169": {
       "name": "باورستيشن ايكو فلو ريفر 2 برو بقوة 800 واط - اسود",
-      "price": 2199.0,
+      "price": 2249.0,
       "regular_price": 3199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50343,7 +50345,7 @@
     },
     "1113388063": {
       "name": "حامل بطاقات يونيك هيلدرو مغناطيسي مع مسكة - لون رمادي - تسوق اونلاين",
-      "price": 89.0,
+      "price": 69.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50454,7 +50456,7 @@
     },
     "1124761660": {
       "name": "كفر رينكي اونيكس لايفون 15 برو - تصميم فريد - تسوق اونلاين",
-      "price": 34.99,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50470,7 +50472,7 @@
     },
     "1125562981": {
       "name": "تسوق سماعة اذن ساوندكور ليبرتي 4 NC بيضاء مع عزل فعال للضجيج",
-      "price": 269.0,
+      "price": 289.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50627,7 +50629,7 @@
     },
     "1150465071": {
       "name": "بطارية متنقلة راف باور 20000mAh 20W بمنفذين ومنفذ شاشة عرض اسود",
-      "price": 149.01,
+      "price": 129.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50674,7 +50676,7 @@
     },
     "1157149779": {
       "name": "سلك التايب سي JODA سيليكون 60 واط بطول 1 متر - احصل عليه الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50707,9 +50709,9 @@
     },
     "1160605642": {
       "name": "ميكروفون لاسلكي سارامونيك لشخصين تردد 2.4 جيجا هرتز احترافي",
-      "price": 499.0,
+      "price": 619.0,
       "regular_price": 619.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -50722,7 +50724,7 @@
     },
     "1163985270": {
       "name": "كفر حماية ماج سيف Amazingthing تيتان برو مقاوم للصدمات",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51186,7 +51188,7 @@
     },
     "124640964": {
       "name": "تسوق كفر ايباد 11 برو و10.9 اير برتقالي يونيك رايز الآن!",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51277,7 +51279,7 @@
     },
     "1257126139": {
       "name": "تسوق كفر يونيك روفوس مغناطيسي دوار 360 درجة للايباد الجيل العاشر",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -51450,7 +51452,7 @@
     },
     "1282060120": {
       "name": "حقيبة ظهر كينجسون اسود",
-      "price": 129.0,
+      "price": 119.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -51496,9 +51498,9 @@
     },
     "1288393991": {
       "name": "يونيك اوبتيكس لحماية كاميرا الايفون 14 برو و14 برو ماكس - تسوق اونلاين",
-      "price": 39.0,
+      "price": 59.0,
       "regular_price": 59.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -51689,7 +51691,7 @@
     },
     "1317566854": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند للايفون 16 برو ماكس - اسود",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52158,7 +52160,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -52170,9 +52172,9 @@
     },
     "1399946744": {
       "name": "يونيك لينو كفر للايفون 14 برو 6.1 انش - بنك",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -52231,7 +52233,7 @@
     },
     "140904906": {
       "name": "تسوق شنطة رينكي صغيرة عاجي اونلاين في السعودية",
-      "price": 34.5,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52263,7 +52265,7 @@
     },
     "141435994": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند ومسكة للايفون 16 برو - شفاف",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52283,7 +52285,7 @@
     },
     "1415443866": {
       "name": "سلك انكر باور لاين فلو تايب سي الى تايب سي 0.9 متر - بنفسجي",
-      "price": 29.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -52708,9 +52710,9 @@
     },
     "1502176480": {
       "name": "تسوق كاميرا سيارة داش كام 70mai T800 مع تقنية HDR ونظام GPS الآن!",
-      "price": 1149.0,
+      "price": 899.0,
       "regular_price": 1149.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات السيارة",
@@ -52866,7 +52868,7 @@
     },
     "1524085206": {
       "name": "استكشف ستاند ايباد مغناطيسي 360 درجة ذهبي مظهر فخم ومرونة",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52927,7 +52929,7 @@
     },
     "1535747477": {
       "name": "استكشف حماية عدسات ايفون 17 اير اوبتكس الوغارد فضي قوي",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -53232,7 +53234,7 @@
     },
     "1575732160": {
       "name": "مثبت للجوال رينكي شكل جير - اطلب الآن",
-      "price": 29.5,
+      "price": 39.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -53296,9 +53298,9 @@
     },
     "1589329609": {
       "name": "تسوق سوار ساعة ابل مقاس 38/40/41 يونيك ريفيكس مغناطيسي - ارجواني وابيض",
-      "price": 139.0,
+      "price": 79.01,
       "regular_price": 139.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -53473,7 +53475,7 @@
     },
     "1613467736": {
       "name": "شاحن انكر 20 وات جداري بمنفذ تايب سي - ابيض",
-      "price": 39.0,
+      "price": 49.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -53604,7 +53606,7 @@
     },
     "1635843046": {
       "name": "حامل بطاقات يونيك فليكسا المغناطيسي مع مسكة - تسوق اونلاين",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -53618,7 +53620,7 @@
     },
     "1637483512": {
       "name": "اشتر ستاند ايباد مغناطيسي 360 درجة أبيض راحة مشاهدة وعمل",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -53697,9 +53699,9 @@
     },
     "1645956515": {
       "name": "آي ديل اوف سويدن كفر جلد للايفون  14بلس زيتي",
-      "price": 9.0,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -53730,7 +53732,7 @@
     },
     "1651265683": {
       "name": "كفر رينكي سليكون ايفون 14 بروماكس لافندر - اطلبة الان!",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -53779,7 +53781,7 @@
     },
     "1658673130": {
       "name": "مسكة يونيك فليكسا المغناطيسية باللون الرمادي - تسوق اونلاين",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -53948,7 +53950,7 @@
     },
     "1685722740": {
       "name": "بكج راف باور بطارية 10000mAh 20W وشاحن جداري 20W وسلك تايب سي",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -53984,7 +53986,7 @@
     },
     "1689295431": {
       "name": "سكين ارما كوزمو كفر حماية  للايفون 15 برو رمادي",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -54022,7 +54024,7 @@
     },
     "1694213676": {
       "name": "تسوق كفر حماية ماج سيف يونيك للايفون 15 برو - رمادي أنيق",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54165,7 +54167,7 @@
     },
     "1711481057": {
       "name": "تسوق كفر يونيك هايبرد كاربون للايفون 15 برو ماكس - حماية وأناقة - اسود",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -54228,7 +54230,7 @@
     },
     "1721755194": {
       "name": "تسوق شاحن بيلكن لاسلكي مغناطيسي للسيارة 15 واط",
-      "price": 199.0,
+      "price": 149.01,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54293,7 +54295,7 @@
     },
     "1733929471": {
       "name": "داش كام DDPAI Z60 4K امامية وخلفية 4G + GPS",
-      "price": 799.0,
+      "price": 769.01,
       "regular_price": 949.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54418,7 +54420,7 @@
     },
     "1752155958": {
       "name": "تسوق شنطة ظهر Alot كبيرة بسعة 20.5 لتر للابتوب - اسود بأسعار مميزة",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54539,7 +54541,7 @@
     },
     "1776940360": {
       "name": "كفر حماية يونيك هايبرد ماج سيف مع ستاند ومسكة للايفون 16 برو - اسود",
-      "price": 109.0,
+      "price": 99.0,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54606,7 +54608,7 @@
     },
     "1788788534": {
       "name": "اشتر كفر سماعة ايربودز برو 4 يونيك كلايد رمادي حماية عملية",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54652,7 +54654,7 @@
     },
     "1803730213": {
       "name": "تسوق مروحة تبريد دريب مغناطيسية مع شاشة ليد للتابلت - اسود بأسعار",
-      "price": 99.0,
+      "price": 69.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54853,7 +54855,7 @@
     },
     "1850451869": {
       "name": "شاحن راف باور 35 واط جداري بمنفذ تايب سي ومنفذ يو اس بي - اسود",
-      "price": 69.0,
+      "price": 59.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -54868,7 +54870,7 @@
     },
     "1853750463": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 برو جيشي اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -54949,9 +54951,9 @@
     },
     "1864183714": {
       "name": "كاميرا بني وطابعة Instax Mini Evo الفورية الهجينة",
-      "price": 999.01,
+      "price": 1099.0,
       "regular_price": 1099.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -55613,9 +55615,9 @@
     },
     "1985742516": {
       "name": "سوار ساعة ابل AMAZINGthing مقاس 45 قماشي بني",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -55675,7 +55677,7 @@
     },
     "1999400653": {
       "name": "تسوق شنطة رينكي صغيرة اسود اونلاين في السعودية",
-      "price": 34.5,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55706,7 +55708,7 @@
     },
     "2002787665": {
       "name": "سلك راف باور سيلكون 60 واط تايب سي الى تايب سي 1.2 متر - ابيض",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55865,7 +55867,7 @@
     },
     "2035119659": {
       "name": "سلكين راف باور تايب سي الى 1 متر 2 متر ابيض",
-      "price": 29.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -55945,7 +55947,7 @@
     },
     "2049843023": {
       "name": "تسوق سلك AceFast C8-03 تايب سي الى تايب سي - جودة عالية وسرعة فائقة",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56073,7 +56075,7 @@
     },
     "2069770929": {
       "name": "كفر رينكي فيوجن بمبر ايفون 14 برو بنفسجي شفاف",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -56268,7 +56270,7 @@
     },
     "2096481236": {
       "name": "شنظة كتف Alot كروس بودي - اخضر وبيج",
-      "price": 89.0,
+      "price": 79.01,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56348,7 +56350,7 @@
     },
     "2104781840": {
       "name": "كفر ايفون 14 برو يونغ كيت قليز ماج سيف - بنفسجي",
-      "price": 53.39,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56542,9 +56544,9 @@
     },
     "2133822636": {
       "name": "اصغر داش كام DDPAI N1 كاميرا امامية وخلفية بأفضل الأسعار",
-      "price": 299.0,
+      "price": 249.0,
       "regular_price": 299.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "اكسسوارات السيارة",
@@ -56650,9 +56652,9 @@
     },
     "22357850": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون 14 بلس وردي",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -56716,9 +56718,9 @@
     },
     "234762187": {
       "name": "غطاء كاميرا ايفون 14 و 14 بلس رابتك - تسوق اونلاين في السعودية",
-      "price": 9.0,
+      "price": 69.0,
       "regular_price": 69.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -56811,7 +56813,7 @@
     },
     "252836837": {
       "name": "كفر حماية ايفون 15 برو ماكس من سكين ارما مع مسكة - اسود، اطلب الآن!",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -57088,9 +57090,9 @@
     },
     "291474473": {
       "name": "كفر حماية ماج سيف Amazingthing تيتان للايفون 15 برو ماكس - اسود",
-      "price": 119.0,
+      "price": 49.0,
       "regular_price": 119.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -57150,9 +57152,9 @@
     },
     "297445253": {
       "name": "كاميرا فوجي فيلم إنستاكس وايد ايفو هجينة فورية اسود",
-      "price": 1499.0,
+      "price": 1999.0,
       "regular_price": 1999.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "معدات التصوير",
@@ -57409,7 +57411,7 @@
     },
     "331296775": {
       "name": "تسوق كفر حماية يونيك هايبرد ايفون 15 برو مع مسكة - أسود",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -57427,7 +57429,7 @@
     },
     "333823365": {
       "name": "شاحن انكر 120 واط 737 جان برايم بمنفذين تايب سي ومنفذ يو اس بي",
-      "price": 189.0,
+      "price": 199.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -57791,9 +57793,9 @@
     },
     "399926907": {
       "name": "اوتربوكس ألفا ستيكر زجاجي للايفون 14 برو",
-      "price": 19.0,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "اكسسوارات ايفون 14",
@@ -57869,9 +57871,9 @@
     },
     "413109903": {
       "name": "يونيك آير فندر كفر للايفون 14 بلس 6.7 انش &quot; - شفاف",
-      "price": 41.4,
+      "price": 69.0,
       "regular_price": 69.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -58167,7 +58169,7 @@
     },
     "457044630": {
       "name": "سماعة رأس لاسلكية ساوندكور Q11i - رمادي",
-      "price": 109.0,
+      "price": 119.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -58475,9 +58477,9 @@
     },
     "507976056": {
       "name": "اوتربوكس  كفر بيج  ماق  سيف للايفون  14 بلس",
-      "price": 9.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -58646,7 +58648,7 @@
     },
     "532485725": {
       "name": "اشتر سماعة ساوندكور A20 سليب أبيض لنوم هادي وعزل مريح يوميا",
-      "price": 369.0,
+      "price": 399.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59023,7 +59025,7 @@
     },
     "591017448": {
       "name": "كفر-حماية-ماج-سيف-يونيك-هايبرد-ليدن-للايفون-15-برو-رمادي",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59166,9 +59168,9 @@
     },
     "611837867": {
       "name": "سوار ساعة ابل AMAZINGthing مقاس 45 قماشي ازرق",
-      "price": 49.0,
+      "price": 119.0,
       "regular_price": 119.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -59407,7 +59409,7 @@
     },
     "652218062": {
       "name": "سماعة راف باور لاسلكية للاذن - اسود",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -59653,7 +59655,7 @@
     },
     "692900953": {
       "name": "كفر ايفون 14 برو ماكس نوفا رمادي - تسوق الآن بأفضل سعر في السعودية!",
-      "price": 89.4,
+      "price": 39.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -59812,7 +59814,7 @@
     },
     "717726327": {
       "name": "بطارية انكر 347 بقوة 30 واط كأفضل شاحن متنقل 40000 في السعودية",
-      "price": 169.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -59873,9 +59875,9 @@
     },
     "728708285": {
       "name": "ميكروفون لاسلكي Blink100 B2 مع ميزة تسجيل يصل إلى 10 ساعات من ساراموني",
-      "price": 559.0,
+      "price": 614.0,
       "regular_price": 614.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -60051,9 +60053,9 @@
     },
     "756591642": {
       "name": "يونيك اوبتيكس حماية الكامير للايفون 14 - شفاف",
-      "price": 39.0,
+      "price": 59.0,
       "regular_price": 59.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -60613,7 +60615,7 @@
     },
     "847675778": {
       "name": "باورستيشن ايكو فلو ريفر 3 بقوة 300 واط - اسود",
-      "price": 1299.01,
+      "price": 1399.0,
       "regular_price": 1699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -60621,7 +60623,8 @@
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
-        "بطارية متنقلة"
+        "بطارية متنقلة",
+        "11.11"
       ],
       "url": "https://mokab.com/باورستيشن-ايكو-فلو-ريفر-3-بقوة-300-واط-اسود/p847675778",
       "sku": "4895251627221"
@@ -60825,7 +60828,7 @@
     },
     "883571211": {
       "name": "باور بانك انكر 10000 أمبير 533 بقوة 30 واط - أسود",
-      "price": 139.0,
+      "price": 149.01,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -60941,7 +60944,7 @@
     },
     "901277429": {
       "name": "كفر حماية ايفون 14 برو يونغ كيت روك ماج سيف مع ستاند - بنفسجي",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61084,7 +61087,7 @@
     },
     "921425957": {
       "name": "مروحة محمولة منفاخ هواء جيسو لايف 9 - ابيض",
-      "price": 99.0,
+      "price": 119.0,
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61272,7 +61275,7 @@
     },
     "949041403": {
       "name": "تسوق مسكة حزام رينكي للجوال اصفر اونلاين في السعودية",
-      "price": 11.99,
+      "price": 9.0,
       "regular_price": 29.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61318,7 +61321,7 @@
     },
     "954959371": {
       "name": "كفر يونيك موفن لايباد اير 11 إنش - لون وردي - تسوق اونلاين",
-      "price": 129.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61381,7 +61384,7 @@
     },
     "964771248": {
       "name": "عدسات Ammazingthing عدد 2 للايفون 15 و 15 بلس - اخضر",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61446,7 +61449,7 @@
     },
     "976038483": {
       "name": "تسوق يونيك كفر للايفون 14 بلس نوفا اخضر اونلاين في السعودية",
-      "price": 89.4,
+      "price": 39.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -61606,7 +61609,7 @@
     },
     "1010864636": {
       "name": "كفر ايربودز الجيل الرابع يونيك ليدن جلد مع تعليقة - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61841,7 +61844,7 @@
     },
     "1052869736": {
       "name": "سلك قوي تايب سي JODA سيليكون 60 واط - طول 1 متر، اشتري الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -62043,7 +62046,7 @@
     },
     "1087620722": {
       "name": "تسوق يونيك كامدن كليك كفر ايباد 11/10 رمادي بجودة عالية وبأسعار مميزة",
-      "price": 129.0,
+      "price": 119.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -62074,7 +62077,7 @@
     },
     "1094107781": {
       "name": "باور بانك انكر نانو 20000 ملي امبير بقوة 30 واط مع سلك تايب سي",
-      "price": 159.0,
+      "price": 179.0,
       "regular_price": 229.0,
       "on_offer": true,
       "currency": "SAR",
@@ -62200,9 +62203,9 @@
     },
     "1110537127": {
       "name": "كفر حماية AMAZINGthing لساعة ابل سلسلة 7 مقاس 45 مل ازرق",
-      "price": 29.0,
+      "price": 79.01,
       "regular_price": 79.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الساعات الذكية واكسسواراتها",
@@ -62494,9 +62497,9 @@
     },
     "1150593318": {
       "name": "كفر حماية ماج سيف من سكين ارما للايفون 14 - شفاف",
-      "price": 19.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -62691,7 +62694,7 @@
     },
     "1180027358": {
       "name": "اشتر كفر شفاف ايفون 17 اير فاليو حماية خفيفة وواضحة",
-      "price": 19.0,
+      "price": 29.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -62776,7 +62779,7 @@
     },
     "1192491024": {
       "name": "مروحة تبريد جيسو لايف برو 1 قابلة للتعديل مع شاشة رقمية - رمادي",
-      "price": 179.0,
+      "price": 199.0,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63067,7 +63070,7 @@
     },
     "1241941320": {
       "name": "تسوق كفر ماج سيف يونيك هايبرد للايفون 15 برو اونلاين في السعودية",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63178,9 +63181,9 @@
     },
     "1255862608": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون  14 اسود",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -63292,7 +63295,7 @@
     },
     "127069357": {
       "name": "شنطة كتف يونيك آردن - ازرق",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63325,7 +63328,7 @@
     },
     "1274710284": {
       "name": "تسوق سلك شحن JODA DUO تايب سي بقوة 100 واط بطول 1.2 متر - أسود",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
@@ -63582,9 +63585,9 @@
     },
     "1320251278": {
       "name": "تسوق كفر جوال بمسكه لايفون 14 6.1 انش - سموكي بأفضل سعر في السعودية",
-      "price": 89.4,
+      "price": 149.01,
       "regular_price": 149.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -63841,7 +63844,7 @@
     },
     "1362427486": {
       "name": "تسوق كفر رينكي فيوجن ايفون 14 - اطراف اسود اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -63889,9 +63892,9 @@
     },
     "1370438573": {
       "name": "تسوق ميكروفونات سارامونيك الترا مزودجة لاسلكية بمستوى ضغط 130 ديسيبل",
-      "price": 849.0,
+      "price": 1149.0,
       "regular_price": 1149.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -63938,7 +63941,7 @@
     },
     "1376340907": {
       "name": "كفر ايفون 15 برو يونيك هايبرد باللون الأزرق مع مسكة - تسوق اونلاين",
-      "price": 119.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -64083,7 +64086,7 @@
     },
     "1400087495": {
       "name": "كفر حماية سكين ارما مع مسكة للايفون 15 برو - احمر",
-      "price": 69.0,
+      "price": 49.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -64100,7 +64103,7 @@
     },
     "140242530": {
       "name": "تسوق شنطة يونيك هافا قماش 14 انش - لون أصفر جذاب الآن!",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64321,7 +64324,7 @@
     },
     "1447030917": {
       "name": "بروجكتر محمول يابر مع مكبر صوت جي بي ال مزدوج بقوة 5 واط",
-      "price": 1099.0,
+      "price": 1199.0,
       "regular_price": 1399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64463,7 +64466,7 @@
     },
     "1477131709": {
       "name": "&quot;احصل على سكين ارما كفر ايفون 14 برو زيتي بمسكة أسود عالية الجودة",
-      "price": 89.4,
+      "price": 19.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -64656,7 +64659,7 @@
     },
     "1505093250": {
       "name": "شنطة كتف يونيك دينفر كروس بودي - برتقالي",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -64906,7 +64909,7 @@
     },
     "1553871336": {
       "name": "تسوق داش كام DDPAI Z50 Pro 4K مع كاميرا أمامية وخلفية GPS بأسعار مميزة",
-      "price": 469.0,
+      "price": 459.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -65358,9 +65361,9 @@
     },
     "162248986": {
       "name": "تسوق بطارية بيلكن 10000 ملي أمبير بمنفذ تايب سي - أزرق الآن!",
-      "price": 69.0,
+      "price": 99.0,
       "regular_price": 99.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الشواحن والمنصات",
@@ -65516,9 +65519,9 @@
     },
     "1649864246": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 فورية أخضر ذكريات فورية",
-      "price": 499.0,
+      "price": 649.0,
       "regular_price": 649.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -65633,7 +65636,7 @@
     },
     "1672865796": {
       "name": "تسوق كفر حماية يونيك هايبرد شفاف ايفون 15 برو مع مسكة الآن",
-      "price": 99.0,
+      "price": 89.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -65777,7 +65780,7 @@
     },
     "1694324047": {
       "name": "كفر حماية يونيك هايبرد سويفيكس للايفون 16 برو مع مسكة - شفاف",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
@@ -65962,9 +65965,9 @@
     },
     "1724909438": {
       "name": "تسوق كفر شفاف ايفون 14 بماج سيف اونلاين في السعودية",
-      "price": 99.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -66028,7 +66031,7 @@
     },
     "173647778": {
       "name": "سماعة تايب سي راف باور سلكية - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -66061,7 +66064,7 @@
     },
     "1740368036": {
       "name": "تسوق شنطة Alot الكبيرة بسعة 1.5 لتر باللون الرمادي بأسعار مميزة",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -66108,7 +66111,7 @@
     },
     "1755401228": {
       "name": "تسوق شنطة يونيك هافا قماش 14 انش - لون أزرق مميز الآن!",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -66168,7 +66171,7 @@
     },
     "176444392": {
       "name": "سماعة رأسية ساوندكور H30i لاسلكية - ابيض",
-      "price": 99.0,
+      "price": 109.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -66276,9 +66279,9 @@
     },
     "1790167755": {
       "name": "كفر يونيك لينو للايفون 14 برو ماكس 6.7 انش - ايفون بنك مميز",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -66509,7 +66512,7 @@
     },
     "1829604661": {
       "name": "مجموعة ادوات الصيانة المنزلية وفك البراغي من هوتو - اطلب الآن!",
-      "price": 249.0,
+      "price": 229.0,
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
@@ -66587,9 +66590,9 @@
     },
     "1846173756": {
       "name": "مايك لاسلكي للجوال سارامونيك Blink500 Q3  بسرعة 2.4 جيجا هرتز",
-      "price": 699.0,
+      "price": 785.0,
       "regular_price": 785.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "ملحقات الصوت",
@@ -66636,9 +66639,9 @@
     },
     "1853839746": {
       "name": "معطر جو للسيارة  DDPAI",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 49.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "أجهزة المنزل الذكية",
@@ -66926,7 +66929,7 @@
     },
     "1897566487": {
       "name": "تسوق شنطة يونيك هافا قماش مقاس 14 انش - تصميم عصري وأنيق",
-      "price": 199.0,
+      "price": 179.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67295,11 +67298,11 @@
     },
     "1954471172": {
       "name": "داش كام DDPAI Z60 بدقة 4K مع GPS كاميرا أمامية وخلفية",
-      "price": 599.0,
+      "price": 549.0,
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -67584,7 +67587,7 @@
     },
     "1996070129": {
       "name": "كيبل شاحن انكر باور لاين بلس يو إس بي الي لايتنينق 1.8 م - فضي",
-      "price": 49.0,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67677,7 +67680,7 @@
     },
     "2011324649": {
       "name": "شنطة خصر كينجسون السوداء الأصلية - تصميم أنيق وعصري",
-      "price": 129.0,
+      "price": 119.0,
       "regular_price": 189.0,
       "on_offer": true,
       "currency": "SAR",
@@ -67926,7 +67929,7 @@
     },
     "204984349": {
       "name": "تسوق كفر ايفون 15 برو ماكس يونيك هايبرد مع مسكة - أسود الآن!",
-      "price": 99.0,
+      "price": 79.01,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -67989,9 +67992,9 @@
     },
     "2061125461": {
       "name": "تسوق داش كام ddpai mini pro امامية بأفضل الأسعار في السعودية",
-      "price": 199.0,
+      "price": 159.0,
       "regular_price": 199.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
@@ -68162,7 +68165,7 @@
     },
     "2090122505": {
       "name": "سلك شاحن ايفون اصلي تايب سي 60 واط 1 متر رمادي - احصل عليه الآن!",
-      "price": 29.0,
+      "price": 19.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68212,9 +68215,9 @@
     },
     "2095061658": {
       "name": "اشتري راوتر منزلي 5G H153-381 بسرعات 3600 ميجابت - أسود الآن!",
-      "price": 799.0,
+      "price": 999.01,
       "regular_price": 999.01,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
@@ -68342,9 +68345,9 @@
     },
     "2110526156": {
       "name": "تسوق كفر حماية شفاف ماج سيف للايفون 15 برو - حماية مميزة الآن",
-      "price": 99.0,
+      "price": 49.0,
       "regular_price": 99.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "كفرات الأجهزة",
@@ -68358,7 +68361,7 @@
     },
     "2112728287": {
       "name": "اشتر حماية عدسات ايفون 17 اير اوبتكس كلير شيلد كرستال شفاف",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -68513,9 +68516,9 @@
     },
     "2140169209": {
       "name": "راوتر منزلي 5g بسرعة 3600 ميجابت (أبيض)",
-      "price": 899.0,
+      "price": 1099.0,
       "regular_price": 1099.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
@@ -68528,7 +68531,7 @@
     },
     "2144076932": {
       "name": "سلك شاحن راف باور تايب سي الى تايب سي 60 واط 1 متر برتقالي",
-      "price": 59.0,
+      "price": 39.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68560,7 +68563,7 @@
     },
     "215429725": {
       "name": "استكشف حامل مغناطيسي يونيك SnapMount رمادي تثبيت قوي",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -68982,7 +68985,7 @@
     },
     "278421941": {
       "name": "تسوق كفر ايفون 14 قوي بماج سيف أونلاين بأفضل سعر في السعودية",
-      "price": 71.4,
+      "price": 49.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69059,7 +69062,7 @@
     },
     "292007327": {
       "name": "كفر يونيك هايبرد ترانسفورما ماج سيف لايفون 15 برو - تسوق اونلاين",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69107,7 +69110,7 @@
     },
     "296199767": {
       "name": "تسوق تك 21 كفر ايفو تشك ماكس ماج سيف - أزرق اونلاين في السعودية",
-      "price": 69.0,
+      "price": 19.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69203,9 +69206,9 @@
     },
     "308388411": {
       "name": "كاميرا فوجي انستاكس ميني فورية ليبلاي",
-      "price": 749.0,
+      "price": 899.0,
       "regular_price": 899.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -69407,9 +69410,9 @@
     },
     "337026456": {
       "name": "يونيك لينو كفر للايفون 14 بلس 6.7 انش - لافندر",
-      "price": 53.39,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -69581,7 +69584,7 @@
     },
     "368678040": {
       "name": "حماية شاشة يونيك اوبتكس شفاف للايباد اير 11 انش - تسوق اونلاين",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69885,7 +69888,7 @@
     },
     "413170266": {
       "name": "تسوق كفر رينكي سليكون ايفون 14 - بيج اونلاين في السعودية",
-      "price": 39.0,
+      "price": 29.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -69902,7 +69905,7 @@
     },
     "414648448": {
       "name": "كفر Amazingthing تيتان برو مع محفظة للايفون 15 برو ماكس - ازرق",
-      "price": 59.0,
+      "price": 79.01,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69918,7 +69921,7 @@
     },
     "418277239": {
       "name": "كفر يونيك روفوس مغناطيسي دوار للايباد برو 11 (M4)",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -70297,9 +70300,9 @@
     },
     "47432712": {
       "name": "اشتر علبة هدايا كاميرا فوجي فيلم انستاكس ميني 12",
-      "price": 489.0,
+      "price": 579.0,
       "regular_price": 579.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -70330,7 +70333,7 @@
     },
     "479795220": {
       "name": "بروجكتر Yaber ذكي مع سبيكر JBL وتلفزيون أندرويد",
-      "price": 2399.0,
+      "price": 2499.0,
       "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -70471,7 +70474,7 @@
     },
     "503820730": {
       "name": "استكشف كفر ايفون يونيك احمر XR حماية عالية",
-      "price": 59.0,
+      "price": 19.0,
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
@@ -70584,7 +70587,7 @@
     },
     "518473963": {
       "name": "حماية عدسات رينكي جالاكسي s22 الترا اسود",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
@@ -70634,7 +70637,7 @@
     },
     "527340704": {
       "name": "تسوق كفر آيباد اير 11 انش يونيك كامدين كليك - أزرق 2024 الآن!",
-      "price": 129.0,
+      "price": 99.0,
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
@@ -70726,9 +70729,9 @@
     },
     "539279740": {
       "name": "يونيك اوبتيكس حماية الكامير للايفون 14 - لافندر",
-      "price": 39.0,
+      "price": 59.0,
       "regular_price": 59.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية الكاميرا الخلفية",
@@ -70824,7 +70827,7 @@
     },
     "550801238": {
       "name": "تسوق يونيك كفر للايفون 14 برو نوفا ازرق اونلاين في السعودية",
-      "price": 89.4,
+      "price": 39.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -70944,9 +70947,9 @@
     },
     "57505108": {
       "name": "تسوق آي ديل اوف سويد كفر للايفون 14 اخضر اونلاين في السعودية",
-      "price": 9.0,
+      "price": 129.0,
       "regular_price": 129.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -71073,7 +71076,7 @@
     },
     "597237795": {
       "name": "شنطة كتف يونيك آردن - وردي",
-      "price": 119.0,
+      "price": 109.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71093,7 +71096,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -71104,7 +71107,7 @@
     },
     "602691262": {
       "name": "كفر ايباد مغناطيس برو 11 واير 10.9 قابل للدواران",
-      "price": 119.0,
+      "price": 99.0,
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71119,7 +71122,7 @@
     },
     "605144873": {
       "name": "شاحن لاسلكي بيلكن QI2 قابل للطي 3 في 1 بقوة 15 واط - اسود",
-      "price": 279.0,
+      "price": 199.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71150,7 +71153,7 @@
     },
     "610473040": {
       "name": "كفر رينكي فيوجن اكس للايفون اكس ار اسود بأفضل الأسعار",
-      "price": 34.5,
+      "price": 9.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71265,7 +71268,7 @@
     },
     "628684219": {
       "name": "سلك JODA قماشي تايب سي الى تايب سي ولايتنينق بطول 1 متر - اسود",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71348,7 +71351,7 @@
     },
     "640131299": {
       "name": "سماعة راس سوداء راف باور",
-      "price": 129.0,
+      "price": 119.0,
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -71398,9 +71401,9 @@
     },
     "650079811": {
       "name": "تسوق اوتربوكس ألفا ستيكر زجاجي ايفون 14 برو اونلاين في السعودية",
-      "price": 19.0,
+      "price": 89.0,
       "regular_price": 89.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
@@ -71826,7 +71829,7 @@
     },
     "716805324": {
       "name": "راس شاحن انكر 100 واط بريميوم بمنفذين تايب سي ومنفذ يو اس بي",
-      "price": 199.0,
+      "price": 229.0,
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72072,9 +72075,9 @@
     },
     "757032100": {
       "name": "آي ديل اوف سويدن كفر ماج سيف للايفون  14 برو وردي",
-      "price": 9.0,
+      "price": 179.0,
       "regular_price": 179.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "كفرات الأجهزة",
@@ -72119,7 +72122,7 @@
     },
     "769392667": {
       "name": "تسوق شنطة Alot جلد فاخر بسعة 1 لتر مع حزام خلفي - بني بأسعار مميزة",
-      "price": 79.01,
+      "price": 69.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72230,7 +72233,7 @@
     },
     "788084589": {
       "name": "بكج راف باور بطارية 20000 مع فيش سفر وشاحن سيارة وسلكين وشنطة",
-      "price": 239.0,
+      "price": 199.0,
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72478,7 +72481,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -72490,7 +72493,7 @@
     },
     "834349567": {
       "name": "منصة شحن انكر برايم 250 واط بشاشة عرض و4 منافذ تايب سي - اسود",
-      "price": 529.0,
+      "price": 549.0,
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72522,7 +72525,7 @@
     },
     "837691380": {
       "name": "تسوق كفر حماية ماج سيف يونيك هايبرد للايفون 15 برو - أزرق",
-      "price": 59.0,
+      "price": 49.0,
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72538,7 +72541,7 @@
     },
     "842080738": {
       "name": "كفر رينكي شفاف لجالاكسي s22 بلس بأفضل الأسعار في السعودية",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -72754,7 +72757,7 @@
     },
     "888971405": {
       "name": "تسوق كفر يونيك روفوس مغناطيسي قابل للدوران للايباد اير 11 - رمادي",
-      "price": 139.0,
+      "price": 119.0,
       "regular_price": 219.01,
       "on_offer": true,
       "currency": "SAR",
@@ -72848,7 +72851,7 @@
     },
     "902847678": {
       "name": "تسوق كفر ايفون 14 برو ماكس اسود بمسكه أونلاين بأفضل سعر في السعودية",
-      "price": 89.4,
+      "price": 19.0,
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
@@ -73149,7 +73152,7 @@
     },
     "949590261": {
       "name": "حامل مغناطيسي دريب على شاشة السيارة للجوال  - اسود",
-      "price": 49.0,
+      "price": 39.0,
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
@@ -73180,7 +73183,7 @@
     },
     "95333870": {
       "name": "تسوق كفر رينكي فيوجن جالاكسي s22 جيشي اسود اونلاين في السعودية",
-      "price": 19.0,
+      "price": 9.0,
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
@@ -73613,7 +73616,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الساعات الذكية واكسسواراتها",
       "categories": [
         "الساعات الذكية واكسسواراتها",
@@ -73685,10 +73688,145 @@
     }
   },
   "coverage": {
-    "scanned": 4578,
-    "gone": 421,
-    "failed": 0,
-    "percent": 100.0
+    "scanned": 4451,
+    "gone": 414,
+    "failed": 134,
+    "percent": 97.08
   },
-  "unread": []
+  "unread": [
+    "1092356989",
+    "682010904",
+    "684394097",
+    "687401306",
+    "689491317",
+    "692698264",
+    "694756965",
+    "697742082",
+    "700144726",
+    "701427102",
+    "702712792",
+    "705142656",
+    "706205707",
+    "711182647",
+    "713598909",
+    "715991228",
+    "717438644",
+    "720400890",
+    "721041100",
+    "723969246",
+    "726708929",
+    "728179738",
+    "730660872",
+    "733891293",
+    "736713836",
+    "738060837",
+    "740716311",
+    "743961426",
+    "745541301",
+    "746858543",
+    "749101210",
+    "753283398",
+    "755799467",
+    "757391166",
+    "759784304",
+    "763174426",
+    "764944356",
+    "768570999",
+    "772317803",
+    "774544287",
+    "778451885",
+    "780124938",
+    "782596132",
+    "783894269",
+    "786260255",
+    "789520392",
+    "791570453",
+    "794241430",
+    "797227724",
+    "800678174",
+    "802859983",
+    "804631055",
+    "806988973",
+    "809096176",
+    "811944356",
+    "814120150",
+    "816077162",
+    "819004837",
+    "822256617",
+    "824307398",
+    "826618611",
+    "829478259",
+    "833274500",
+    "834678330",
+    "837000350",
+    "838550580",
+    "840965080",
+    "842522253",
+    "843366880",
+    "844293453",
+    "847536218",
+    "848296623",
+    "851795270",
+    "854302885",
+    "857482582",
+    "860796162",
+    "863449733",
+    "865422492",
+    "86709589",
+    "869420665",
+    "873689984",
+    "877091552",
+    "879146677",
+    "881468821",
+    "882705576",
+    "886247468",
+    "888411095",
+    "890827834",
+    "893927424",
+    "897107073",
+    "898592980",
+    "900949834",
+    "902672945",
+    "903530352",
+    "904712624",
+    "907908580",
+    "909673689",
+    "91545165",
+    "918030810",
+    "920237995",
+    "921139220",
+    "923504929",
+    "924765487",
+    "927047214",
+    "92966158",
+    "932574267",
+    "936454793",
+    "938830137",
+    "940806332",
+    "942608227",
+    "944624172",
+    "946260155",
+    "947123253",
+    "948434",
+    "950530295",
+    "951929065",
+    "95406519",
+    "957007495",
+    "960721527",
+    "962017549",
+    "964447565",
+    "966201036",
+    "970495030",
+    "973686650",
+    "975822581",
+    "977143999",
+    "978770429",
+    "982092887",
+    "984842204",
+    "987349002",
+    "989442352",
+    "991475520",
+    "994611603",
+    "998357039"
+  ]
 }
