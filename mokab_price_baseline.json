@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:18:24.648061+00:00",
+  "generated_at": "2026-11-14T10:57:50.278032+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -10172,9 +10172,9 @@
     },
     "494129506": {
       "name": "تسوق جهاز بخاخ تعقيم لايفرو لليدين محمول اونلاين في السعودية",
-      "price": 149.01,
+      "price": 49.0,
       "regular_price": 149.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
@@ -16334,7 +16334,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -18285,7 +18285,7 @@
       "regular_price": 39.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -18731,7 +18731,7 @@
       "regular_price": 2499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -38006,7 +38006,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -44001,9 +44001,9 @@
     },
     "1909035872": {
       "name": "لايفرو HOVA مصباح تعقيم محمول باليد - أبيض",
-      "price": 149.01,
+      "price": 49.0,
       "regular_price": 149.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
@@ -45440,7 +45440,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -48750,9 +48750,9 @@
     },
     "716097226": {
       "name": "لايفرو بيم أداة التعقيم محمولة بأشعة UVC من لايفرو",
-      "price": 149.01,
+      "price": 49.0,
       "regular_price": 149.01,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
@@ -53036,9 +53036,9 @@
     },
     "1384102505": {
       "name": "تسوق لايفرو HYDRO GO مطهر محمول - ابيض اونلاين في السعودية",
-      "price": 139.0,
+      "price": 49.0,
       "regular_price": 139.0,
-      "on_offer": false,
+      "on_offer": true,
       "currency": "SAR",
       "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
@@ -54270,7 +54270,7 @@
       "regular_price": 39.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -56235,7 +56235,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايربودز",
       "categories": [
         "اكسسوارات ايربودز",
@@ -64212,7 +64212,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -67472,7 +67472,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -67660,7 +67660,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -67885,7 +67885,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
