@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:57:50.278032+00:00",
+  "generated_at": "2026-11-15T11:31:17.506649+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -987,7 +987,7 @@
       "regular_price": 699.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -1050,7 +1050,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -1330,7 +1330,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -2921,7 +2921,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -5115,7 +5115,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -7073,7 +7073,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -7499,7 +7499,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -7514,7 +7514,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -7894,9 +7894,9 @@
     },
     "2095106547": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 وردي الفورية صور ممتعة",
-      "price": 499.0,
+      "price": 649.0,
       "regular_price": 649.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -10130,7 +10130,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -10181,7 +10181,9 @@
       "categories": [
         "أجهزة المنزل الذكية",
         "ملحقات منوعة",
-        "أجهزة التعقيم"
+        "أجهزة التعقيم",
+        "11.11",
+        "عروض 11.11"
       ],
       "url": "https://mokab.com/تسوق-جهاز-بخاخ-تعقيم-لايفرو-أفضل-جهاز-موزع-معقم-لليدين-محمول/p494129506",
       "sku": "8886463673942"
@@ -11515,7 +11517,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -12398,7 +12400,7 @@
       "regular_price": 599.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -13890,7 +13892,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -14473,7 +14475,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -14648,7 +14650,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -15888,7 +15890,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -17014,7 +17016,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -17030,7 +17032,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -17466,7 +17468,7 @@
       "regular_price": 15.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -18363,7 +18365,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -20001,7 +20003,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -20081,7 +20083,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -20259,7 +20261,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -20873,7 +20875,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -23859,7 +23861,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -25723,7 +25725,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -26625,7 +26627,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -26641,7 +26643,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -27856,7 +27858,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -28037,7 +28039,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -28425,7 +28427,7 @@
       "regular_price": 3499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -29915,7 +29917,7 @@
       "regular_price": 449.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -31176,7 +31178,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -31289,7 +31291,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -32139,7 +32141,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -32272,7 +32274,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -33030,7 +33032,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -33611,7 +33613,7 @@
       "regular_price": 2099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -34846,7 +34848,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -34894,7 +34896,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -35123,7 +35125,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -36144,7 +36146,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -36240,7 +36242,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37337,7 +37339,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -38521,7 +38523,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -42736,7 +42738,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -45611,7 +45613,7 @@
     },
     "22108391": {
       "name": "اشتر ترايبود DJI اوسمو موبايل 8 لثبات تصوير احترافي",
-      "price": 539.01,
+      "price": 519.0,
       "regular_price": 589.0,
       "on_offer": true,
       "currency": "SAR",
@@ -46044,7 +46046,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -47000,7 +47002,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -48108,7 +48110,7 @@
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -48833,7 +48835,7 @@
       "regular_price": 899.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -49388,7 +49390,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -49651,7 +49653,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كيبل ايفون Lightning",
       "categories": [
         "كيبل ايفون Lightning",
@@ -50506,7 +50508,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -50887,7 +50889,7 @@
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -51010,10 +51012,10 @@
     "1077707169": {
       "name": "باورستيشن ايكو فلو ريفر 2 برو بقوة 800 واط - اسود",
       "price": 2249.0,
-      "regular_price": 3199.0,
+      "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -52342,7 +52344,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -52469,7 +52471,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -56654,7 +56656,7 @@
     },
     "1990049848": {
       "name": "شاحن راف باور 100 واط جداري نحيف بمنفذين تايب سي",
-      "price": 218.99,
+      "price": 219.01,
       "regular_price": 269.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56768,7 +56770,7 @@
       "regular_price": 79.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -59028,7 +59030,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -61535,7 +61537,7 @@
       "regular_price": 49.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -61729,10 +61731,10 @@
     "847675778": {
       "name": "باورستيشن ايكو فلو ريفر 3 بقوة 300 واط - اسود",
       "price": 1399.0,
-      "regular_price": 1699.0,
+      "regular_price": 1799.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -61951,7 +61953,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -62212,7 +62214,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -62893,7 +62895,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -63984,7 +63986,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -64031,7 +64033,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -65298,7 +65300,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -66714,9 +66716,9 @@
     },
     "1649864246": {
       "name": "اشتر طابعة فوجي فيلم ميني لينك 3 فورية أخضر ذكريات فورية",
-      "price": 499.0,
+      "price": 649.0,
       "regular_price": 649.0,
-      "on_offer": true,
+      "on_offer": false,
       "currency": "SAR",
       "availability": "in stock",
       "category": "معدات التصوير",
@@ -68709,7 +68711,7 @@
       "regular_price": 369.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -68813,7 +68815,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -72286,7 +72288,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -72332,7 +72334,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
@@ -73468,7 +73470,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "اكسسوارات ايفون 17",
       "categories": [
         "اكسسوارات ايفون 17",
@@ -73500,7 +73502,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -74253,7 +74255,7 @@
       "regular_price": 999.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "أجهزة المنزل الذكية",
       "categories": [
         "أجهزة المنزل الذكية",
@@ -75004,8 +75006,8 @@
     }
   },
   "coverage": {
-    "scanned": 4567,
-    "gone": 432,
+    "scanned": 4566,
+    "gone": 433,
     "failed": 0,
     "percent": 100.0
   },
