@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:40:53.265282+00:00",
+  "generated_at": "2026-11-18T11:55:39.135908+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -1722,7 +1722,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال",
@@ -3210,7 +3210,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -7399,7 +7399,7 @@
       "regular_price": 299.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -8745,7 +8745,7 @@
     },
     "307471722": {
       "name": "تسوق ايفون 17 برو ماكس بسعة 256 GB - برتقالي كوني",
-      "price": 4799.0,
+      "price": 5199.0,
       "regular_price": 5699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -10220,7 +10220,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -10317,7 +10317,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -12021,7 +12021,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -18637,7 +18637,7 @@
       "regular_price": 1299.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ركن القهوة",
       "categories": [
         "ركن القهوة",
@@ -20908,7 +20908,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -21030,7 +21030,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -21046,7 +21046,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "مسكات الجوال",
       "categories": [
         "مسكات الجوال"
@@ -21091,7 +21091,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -23179,7 +23179,7 @@
       "regular_price": 99.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -23354,7 +23354,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -24097,7 +24097,7 @@
       "regular_price": 1099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -26040,7 +26040,7 @@
       "regular_price": 69.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -27877,7 +27877,7 @@
     },
     "141907062": {
       "name": "باورستيشن ايكو فلو ريفر 3 ماكس بلس EB600 - اسود",
-      "price": 2699.0,
+      "price": 3399.0,
       "regular_price": 3499.0,
       "on_offer": true,
       "currency": "SAR",
@@ -27980,7 +27980,7 @@
     },
     "1432898229": {
       "name": "اشتر كاميرا سيارة داش كام VIOFO لتسجيل واضح وحماية",
-      "price": 1598.99,
+      "price": 1599.01,
       "regular_price": 1799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -34932,7 +34932,7 @@
     },
     "558018253": {
       "name": "ايفون ١٧ برو ماكس 512 - برتقالي كوني",
-      "price": 5499.0,
+      "price": 5799.0,
       "regular_price": 6199.01,
       "on_offer": true,
       "currency": "SAR",
@@ -38543,7 +38543,7 @@
     },
     "1178088187": {
       "name": "جوال ايفون 17 برو ماكس برتقالي بسعة 1 TB",
-      "price": 6699.0,
+      "price": 7199.0,
       "regular_price": 7699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -40408,7 +40408,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -42877,7 +42877,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -43158,7 +43158,7 @@
       "regular_price": 149.01,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -44468,7 +44468,7 @@
     },
     "2101385868": {
       "name": "تسوق ايفون 17 برو ماكس بسعة 512 GB - برتقالي كوني",
-      "price": 5699.0,
+      "price": 6199.01,
       "regular_price": 6699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -49194,7 +49194,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -49702,7 +49702,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "حماية شاشة الأجهزة",
       "categories": [
         "حماية شاشة الأجهزة",
@@ -50071,7 +50071,7 @@
     },
     "1077707169": {
       "name": "باورستيشن ايكو فلو ريفر 2 برو بقوة 800 واط - اسود",
-      "price": 2249.0,
+      "price": 2499.0,
       "regular_price": 2999.0,
       "on_offer": true,
       "currency": "SAR",
@@ -50090,7 +50090,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -50459,7 +50459,7 @@
       "regular_price": 399.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -52473,7 +52473,7 @@
     },
     "1463814428": {
       "name": "تسوق ايفون 17 برو ماكس بسعة 1 TB - نيلي عميق",
-      "price": 6999.0,
+      "price": 7199.0,
       "regular_price": 7699.0,
       "on_offer": true,
       "currency": "SAR",
@@ -52526,7 +52526,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -52658,7 +52658,7 @@
     },
     "1498005732": {
       "name": "ايفون 17 برو 256 برتقالي بسعة 256GB",
-      "price": 4599.0,
+      "price": 4699.0,
       "regular_price": 5199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -56879,7 +56879,7 @@
       "regular_price": 109.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات ايفون 15",
       "categories": [
         "اكسسوارات ايفون 15"
@@ -60597,7 +60597,7 @@
     },
     "847675778": {
       "name": "باورستيشن ايكو فلو ريفر 3 بقوة 300 واط - اسود",
-      "price": 1399.0,
+      "price": 1499.0,
       "regular_price": 1799.0,
       "on_offer": true,
       "currency": "SAR",
@@ -61412,7 +61412,7 @@
     },
     "974067467": {
       "name": "تسوق ايفون 17 برو بسعة 1 TB - برتقالي كوني",
-      "price": 6399.0,
+      "price": 6599.0,
       "regular_price": 7199.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69282,7 +69282,7 @@
     },
     "320547169": {
       "name": "سوارة تتبع ذكية ليبرو LIB-A150H لمراقبة الصحة بيج",
-      "price": 218.99,
+      "price": 219.01,
       "regular_price": 249.0,
       "on_offer": true,
       "currency": "SAR",
@@ -69889,7 +69889,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -71302,7 +71302,7 @@
       "regular_price": 2099.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الاجهزة الذكية",
       "categories": [
         "الاجهزة الذكية",
@@ -73054,7 +73054,7 @@
       "regular_price": 59.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "وصلات وكيابل",
       "categories": [
         "وصلات وكيابل",
