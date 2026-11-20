@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:14:48.155571+00:00",
+  "generated_at": "2026-11-20T11:43:36.983797+00:00",
   "products": {
     "1857906077": {
       "name": "سكوتر الكهربائي NAVEE V25i Pro بسرعة 25 كم/ساعة وموتور 300 واط",
@@ -3048,7 +3048,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات"
+        "فوجي"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-ابيض/p1349898112",
       "sku": "4547410539110"
@@ -6941,7 +6941,7 @@
       "regular_price": 89.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ستاندات وقواعد",
       "categories": [
         "ستاندات وقواعد",
@@ -7760,7 +7760,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/طابعة-فوجي-فيلم-ميني-لينك-3-وردي/p2095106547",
@@ -10347,7 +10347,7 @@
       "regular_price": 129.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -10655,7 +10655,7 @@
       "regular_price": 119.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ايفون 16 واكسسواراته",
       "categories": [
         "ايفون 16 واكسسواراته",
@@ -10776,7 +10776,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات"
+        "فوجي"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-بني/p608377778",
       "sku": "4547410539103"
@@ -14073,6 +14073,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-insta360-إيس-برو-2-بدقة-8k-اسود/p1152106139",
@@ -14866,7 +14867,7 @@
       "regular_price": 139.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات منوعة",
       "categories": [
         "ملحقات منوعة",
@@ -21145,7 +21146,7 @@
       "regular_price": 179.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "كفرات الأجهزة",
       "categories": [
         "كفرات الأجهزة",
@@ -27520,7 +27521,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "اكسسوارات السيارة",
       "categories": [
         "اكسسوارات السيارة",
@@ -28151,7 +28152,7 @@
       "regular_price": 499.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -28694,7 +28695,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-وطابعة-فوجي-فيلم-إنستاكس-ميني-ايفو-الهجينة-الفورية-اسود/p1539940743",
@@ -29257,6 +29258,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-insta360-x5-حزمة-starter-كاميرا-3600-بدقة-8k/p1619446175",
@@ -29406,7 +29408,7 @@
       "regular_price": 159.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -31231,7 +31233,7 @@
       "regular_price": 1049.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "ملحقات الصوت",
       "categories": [
         "ملحقات الصوت",
@@ -32612,7 +32614,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "ملحقات"
+        "ملحقات",
+        "فوجي"
       ],
       "url": "https://mokab.com/فوجي-انستاكس-ميني-فيلم-20-ورقة/p2118532290",
       "sku": "454740173833"
@@ -33128,7 +33131,7 @@
       "regular_price": 169.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
@@ -37008,7 +37011,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "كاميرات"
+        "كاميرات",
+        "فوجي"
       ],
       "url": "https://mokab.com/كاميرا-insta360-x5-حزمة-essentials-كاميرا-3600-بدقة-8k/p900949834",
       "sku": "6977644761496"
@@ -39875,7 +39879,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "ملحقات"
+        "ملحقات",
+        "فوجي"
       ],
       "url": "https://mokab.com/فوجي-انستاكس-ميني-فيلم-10-اوراق/p1373564595",
       "sku": "4547410173796"
@@ -41747,6 +41752,7 @@
         "معدات التصوير",
         "ترايبود",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-وعصا-سيلفي-insta360-x4-air-حزمة-srarter-لقطات-360-درجة-بدقة-8k-اسود/p1663844631",
@@ -49574,7 +49580,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-وطابعة-فوجي-فيلم-إنستاكس-ميني-ايفو-الهجينة-الفورية-روز/p973760544",
@@ -55077,7 +55083,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب",
         "عروض STC Bank"
       ],
@@ -57280,7 +57286,8 @@
       "category": "معدات التصوير",
       "categories": [
         "معدات التصوير",
-        "كاميرات"
+        "كاميرات",
+        "فوجي"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-وايد-ايفو-هجينة-فورية-اسود/p297445253",
       "sku": "4547410543377"
@@ -58467,6 +58474,7 @@
         "ملحقات",
         "ترايبود",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/حامل-جوال-insta360-فلو-2-مع-تتبع-بالذكاء-الاصطناعي-ابيض/p483448061",
@@ -59558,6 +59566,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-insta360-حزمة-creator-بدقة-4k-ابيض/p654123573",
@@ -65260,7 +65269,7 @@
       "regular_price": 349.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "out of stock",
+      "availability": "in stock",
       "category": "الأجهزة الإلكترونية",
       "categories": [
         "الأجهزة الإلكترونية",
@@ -65668,7 +65677,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/طابعة-فوجي-فيلم-ميني-لينك-3-اخضر/p1649864246",
@@ -69362,7 +69371,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
-        "عرض الكاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/كاميرا-فوجي-فيلم-إنستاكس-ميني-لبلاي-هايبرد-اخضر/p308388411",
@@ -70456,6 +70465,7 @@
       "categories": [
         "معدات التصوير",
         "كاميرات",
+        "فوجي",
         "عروض مكعب"
       ],
       "url": "https://mokab.com/علبة-هدايا-كاميرا-فوجي-فيلم-انستاكس-ميني-12-ازرق/p47432712",
@@ -72422,7 +72432,7 @@
       "regular_price": 199.0,
       "on_offer": true,
       "currency": "SAR",
-      "availability": "in stock",
+      "availability": "out of stock",
       "category": "الشواحن والمنصات",
       "categories": [
         "الشواحن والمنصات",
